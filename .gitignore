@@ -11,3 +11,12 @@ obj/
 local.props
 artifacts/
 
+# Godot .NET 生成的源码 UID 文件（按机器重新生成，不应提交）
+*.cs.uid
+
+# OS / 编辑器产生的垃圾文件
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+
