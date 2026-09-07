@@ -1,0 +1,6 @@
+{
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.title": "恶魔之血",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.description": "进入战斗时，失去[blue]{Damage}[/blue]点生命。拾取时，将一张带有[gold]播种[/gold]的[gold]死亡收割[/gold]加入你的[gold]牌组[/gold]。火堆的治疗量变为[blue]0%[/blue]。",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.eventDescription": "替换[gold]燃烧之血[/gold]或[gold]黑暗之血[/gold]。将一张带有[gold]播种[/gold]的[gold]死亡收割[/gold]加入你的[gold]牌组[/gold]。进入战斗时失去[blue]{Damage}[/blue]点生命，且火堆不再治疗。",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.flavor": "倒悬的血滴映照出一份更深沉的契约。"
+}

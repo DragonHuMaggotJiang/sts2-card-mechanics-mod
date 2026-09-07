@@ -1,0 +1,6 @@
+{
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.title": "Demon Blood",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.description": "At the start of combat, lose [blue]{Damage}[/blue] HP. Upon pickup, add a [gold]Sown[/gold] [gold]Reaper[/gold] to your [gold]Deck[/gold]. Rest Sites heal [blue]0%[/blue] HP.",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.eventDescription": "Replace [gold]Burning Blood[/gold] or [gold]Black Blood[/gold]. Add a [gold]Sown[/gold] [gold]Reaper[/gold] to your [gold]Deck[/gold]. Lose [blue]{Damage}[/blue] HP at the start of combat, and Rest Sites no longer heal.",
+  "STS2CARDMECHANICSMOD-DEMON_BLOOD.flavor": "An inverted drop reflects a darker covenant."
+}
