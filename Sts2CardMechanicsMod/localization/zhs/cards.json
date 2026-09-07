@@ -6,5 +6,5 @@
   "STS2CARDMECHANICSMOD-LIMIT_BREAK.title": "突破极限",
   "STS2CARDMECHANICSMOD-LIMIT_BREAK.description": "使你的力量翻倍。",
   "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.title": "观察弱点",
-  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.description": "如果目标敌人正打算攻击，获得{Strength:diff()}点力量。"
+  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.description": "如果目标敌人的意图是攻击，则获得{StrengthPower:diff()}点[gold]力量[/gold]。"
 }
