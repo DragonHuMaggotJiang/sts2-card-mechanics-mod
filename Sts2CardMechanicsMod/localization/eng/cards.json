@@ -2,5 +2,9 @@
   "STS2CARDMECHANICSMOD-DEATH_REAPING.title": "Reaper",
   "STS2CARDMECHANICSMOD-DEATH_REAPING.description": "Deal {Damage:diff()} damage to ALL enemies. Heal HP equal to unblocked damage dealt.",
   "STS2CARDMECHANICSMOD-IKKYUUNI_FORM.title": "Ikkyuuni Form",
-  "STS2CARDMECHANICSMOD-IKKYUUNI_FORM.description": "Lose [red]999 Strength[/red], [red]999 Dexterity[/red], and [red]999 Focus[/red]. Enter [gold]Ikkyuuni Form[/gold]."
+  "STS2CARDMECHANICSMOD-IKKYUUNI_FORM.description": "Lose [red]999 Strength[/red], [red]999 Dexterity[/red], and [red]999 Focus[/red]. Enter [gold]Ikkyuuni Form[/gold].",
+  "STS2CARDMECHANICSMOD-LIMIT_BREAK.title": "Limit Break",
+  "STS2CARDMECHANICSMOD-LIMIT_BREAK.description": "Double your Strength.",
+  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.title": "Spot Weakness",
+  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.description": "If the targeted enemy intends to attack, gain {Strength:diff()} Strength."
 }

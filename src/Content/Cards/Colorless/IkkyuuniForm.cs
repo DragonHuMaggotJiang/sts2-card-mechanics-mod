@@ -16,6 +16,11 @@ public sealed class IkkyuuniForm : ModCard
 {
     private const decimal AttributeLoss = -999m;
 
+    public override IEnumerable<CardKeyword> CanonicalKeywords =>
+    [
+        CardKeyword.Ethereal,
+    ];
+
     protected override IEnumerable<DynamicVar> CanonicalVars =>
     [
         new PowerVar<StrengthPower>(AttributeLoss),
