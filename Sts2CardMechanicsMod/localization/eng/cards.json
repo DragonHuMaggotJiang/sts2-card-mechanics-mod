@@ -6,5 +6,5 @@
   "STS2CARDMECHANICSMOD-LIMIT_BREAK.title": "Limit Break",
   "STS2CARDMECHANICSMOD-LIMIT_BREAK.description": "Double your Strength.",
   "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.title": "Spot Weakness",
-  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.description": "If the targeted enemy intends to attack, gain {Strength:diff()} Strength."
+  "STS2CARDMECHANICSMOD-SPOT_WEAKNESS.description": "If the targeted enemy intends to attack, gain {StrengthPower:diff()} [gold]Strength[/gold]."
 }
