@@ -1,6 +1,6 @@
 {
   "STS2CARDMECHANICSMOD-DEATH_REAPING.title": "死亡收割",
-  "STS2CARDMECHANICSMOD-DEATH_REAPING.description": "对所有敌人造成{Damage:diff()}点伤害。回复等同于造成的未被格挡伤害的生命。NL[gold]消耗[/gold]。",
+  "STS2CARDMECHANICSMOD-DEATH_REAPING.description": "对所有敌人造成{Damage:diff()}点伤害。回复等同于造成的未被格挡伤害的生命。\n[gold]消耗[/gold]。",
   "STS2CARDMECHANICSMOD-IKKYUUNI_FORM.title": "一休尼形态",
   "STS2CARDMECHANICSMOD-IKKYUUNI_FORM.description": "失去[red]999点力量[/red]、[red]999点敏捷[/red]与[red]999点集中[/red]。进入[gold]一休尼形态[/gold]。"
 }
