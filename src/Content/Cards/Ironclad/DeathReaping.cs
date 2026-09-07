@@ -27,7 +27,7 @@ public sealed class DeathReaping : ModCard
     ];
 
     public DeathReaping()
-        : base(2, CardType.Attack, CardRarity.Rare, TargetType.AllEnemies)
+        : base(3, CardType.Attack, CardRarity.Ancient, TargetType.AllEnemies)
     {
     }
 
@@ -55,6 +55,6 @@ public sealed class DeathReaping : ModCard
 
     protected override void OnUpgrade()
     {
-        DynamicVars.Damage.UpgradeValueBy(1m);
+        EnergyCost.UpgradeBy(-1);
     }
 }
