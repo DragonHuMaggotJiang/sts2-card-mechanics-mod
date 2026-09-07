@@ -1,0 +1,16 @@
+; Slay the Spire 2 resource project. Prefer editing this file through Godot when scenes are added.
+config_version=5
+
+[application]
+
+config/name="Sts2CardMechanicsMod"
+config/features=PackedStringArray("4.5", "C#", "Mobile")
+
+[dotnet]
+
+project/assembly_name="Sts2CardMechanicsMod"
+
+[rendering]
+
+renderer/rendering_method="mobile"
+

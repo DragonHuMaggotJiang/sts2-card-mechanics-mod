@@ -1,0 +1,23 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  architecture:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate architecture and JSON
+        shell: pwsh
+        run: ./scripts/Test-Architecture.ps1
+
+  # Compiling requires the proprietary game assemblies and is intentionally not run on a
+  # public GitHub-hosted runner. Add a self-hosted runner before making local-build required.
+

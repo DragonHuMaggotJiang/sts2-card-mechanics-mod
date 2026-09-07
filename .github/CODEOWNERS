@@ -1,0 +1,10 @@
+# The repository owner reviews shared architecture by default.
+* @doggdragon
+
+# Changes here affect every card/mechanic and should remain narrow.
+/src/Core/ @doggdragon
+/src/Bootstrap/ @doggdragon
+/src/Integration/ @doggdragon
+/Sts2CardMechanicsMod.json @doggdragon
+/Sts2CardMechanicsMod.csproj @doggdragon
+

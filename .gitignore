@@ -1,0 +1,13 @@
+bin/
+obj/
+.godot/
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.pck
+local.props
+artifacts/
+

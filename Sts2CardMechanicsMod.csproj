@@ -1,0 +1,63 @@
+<Project Sdk="Godot.NET.Sdk/4.5.1" InitialTargets="CheckDependencyPaths">
+  <Import Project="local.props" Condition="Exists('local.props')" />
+  <Import Project="Sts2PathDiscovery.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>Sts2CardMechanicsMod</AssemblyName>
+    <RootNamespace>Sts2CardMechanicsMod</RootNamespace>
+    <GodotDisabledSourceGenerators>GodotPluginsInitializer</GodotDisabledSourceGenerators>
+    <NoWarn>$(NoWarn);MSB3270</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup Condition="Exists('$(Sts2DataDir)')">
+    <Reference Include="0Harmony">
+      <HintPath>$(Sts2DataDir)/0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="sts2">
+      <HintPath>$(Sts2DataDir)/sts2.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Alchyr.Sts2.BaseLib" Version="3.4.5" PrivateAssets="All" />
+    <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="0.1.9" PrivateAssets="All" />
+    <PackageReference Include="BSchneppe.StS2.PckPacker" Version="0.1.1" PrivateAssets="All" />
+    <AdditionalFiles Include="Sts2CardMechanicsMod/localization/**/*.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Sts2CardMechanicsMod/**" />
+    <EmbeddedResource Remove="Sts2CardMechanicsMod/**" />
+    <None Include="Sts2CardMechanicsMod.json" />
+    <None Include="project.godot" />
+    <None Include="Sts2CardMechanicsMod/**" />
+  </ItemGroup>
+
+  <Target Name="CheckDependencyPaths">
+    <Error Text="Slay the Spire 2 data not found at '$(Sts2DataDir)'. Copy local.props.example to local.props and set Sts2Path."
+           Condition="'$(Sts2DataDir)' == '' Or !Exists('$(Sts2DataDir)')" />
+  </Target>
+
+  <Target Name="CopyToModsFolderOnBuild" AfterTargets="PostBuildEvent">
+    <MakeDir Directories="$(ModsPath)$(AssemblyName)" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(ModsPath)$(AssemblyName)/" />
+    <Copy SourceFiles="$(AssemblyName).json" DestinationFolder="$(ModsPath)$(AssemblyName)/" />
+    <Copy SourceFiles="$(TargetDir)$(TargetName).pdb"
+          DestinationFolder="$(ModsPath)$(AssemblyName)/"
+          Condition="Exists('$(TargetDir)$(TargetName).pdb')" />
+  </Target>
+
+  <Target Name="CopyPackedResources" AfterTargets="PackPck"
+          Condition="Exists('$(PckPackerOutputPath)') And '$(PckPackerSkipped)' != 'true'">
+    <MakeDir Directories="$(ModsPath)$(AssemblyName)" />
+    <Copy SourceFiles="$(PckPackerOutputPath)" DestinationFolder="$(ModsPath)$(AssemblyName)/" />
+  </Target>
+</Project>
+
