@@ -1,0 +1,5 @@
+{
+  "STS2CARDMECHANICSMOD-IKKYUUNI_FORM_POWER.title": "一休尼形态",
+  "STS2CARDMECHANICSMOD-IKKYUUNI_FORM_POWER.description": "其他队友造成的伤害变为3倍。你受到的伤害增加75%。格挡后本应失去的生命改为获得等量灾厄，且不再失去生命。若你的灾厄严格高于当前生命，给予其他所有队友99999层灾厄。",
+  "STS2CARDMECHANICSMOD-IKKYUUNI_FORM_POWER.smartDescription": "其他队友造成的伤害变为[green]3倍[/green]。你受到的伤害增加[red]75%[/red]。格挡后本应失去的生命改为获得等量[gold]灾厄[/gold]，且不再失去生命。若你的灾厄严格高于当前生命，给予其他所有队友[red]99999[/red]层灾厄。"
+}
