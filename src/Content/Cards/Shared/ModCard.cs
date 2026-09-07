@@ -18,6 +18,7 @@ public abstract class ModCard(int cost, CardType type, CardRarity rarity, Target
         $"{ModConstants.ResourceRoot}/images/card_portraits/{ImageFileName}";
 
     public override string CustomPortraitPath =>
-        $"{ModConstants.ResourceRoot}/images/card_portraits/big/{ImageFileName}";
+        Rarity == CardRarity.Ancient
+            ? $"{ModConstants.ResourceRoot}/images/card_portraits/big/{ImageFileName}"
+            : PortraitPath;
 }
-
