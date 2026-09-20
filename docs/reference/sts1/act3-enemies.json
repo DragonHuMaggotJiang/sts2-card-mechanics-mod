@@ -1,0 +1,792 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "source": "Slay the Spire desktop-1.0.jar and decompiled CardLibrary/monster classes",
+    "watcher_policy": "Watcher card pool and Watcher-only generated cards are excluded."
+  },
+  "enemies": [
+    {
+      "id": "Darkling",
+      "class_name": "Darkling",
+      "name_en": "Darkling",
+      "name_zh": "小黑",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 56,
+      "hp_assignments": [
+        "50-59",
+        "48-56"
+      ],
+      "moves_en": [
+        "Chomp! Chomp!"
+      ],
+      "moves_zh": [
+        "啊呜！啊呜！"
+      ],
+      "numeric_constants": {
+        "HP_MIN": 48,
+        "HP_MAX": 56,
+        "A_2_HP_MIN": 50,
+        "A_2_HP_MAX": 59,
+        "BITE_DMG": 8,
+        "A_2_BITE_DMG": 9,
+        "BLOCK_AMT": 12,
+        "CHOMP_AMT": 2
+      },
+      "notes_zh": "三只黑暗幼体的遭遇成员；全体同时死亡前可复活。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Darkling.java"
+    },
+    {
+      "id": "Orb Walker",
+      "class_name": "OrbWalker",
+      "name_en": "Orb Walker",
+      "name_zh": "圆球行者",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": null,
+      "hp_assignments": [
+        "92-102",
+        "90-96"
+      ],
+      "moves_en": [
+        "Strength Up"
+      ],
+      "moves_zh": [
+        "强化"
+      ],
+      "numeric_constants": {
+        "HP_MIN": 90,
+        "HP_MAX": 96,
+        "A_2_HP_MIN": 92,
+        "A_2_HP_MAX": 102,
+        "LASER_DMG": 10,
+        "CLAW_DMG": 15,
+        "A_2_LASER_DMG": 11,
+        "A_2_CLAW_DMG": 16
+      },
+      "notes_zh": "球状行者；也用于神秘圆球事件。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/OrbWalker.java"
+    },
+    {
+      "id": "Exploder",
+      "class_name": "Exploder",
+      "name_en": "Exploder",
+      "name_zh": "爆炸机",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 30,
+      "hp_assignments": [
+        "30-35",
+        "30-30"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP_MIN": 30,
+        "HP_MAX": 30,
+        "A_2_HP_MIN": 30,
+        "A_2_HP_MAX": 35,
+        "ATTACK_DMG": 9,
+        "A_2_ATTACK_DMG": 11,
+        "EXPLODE_BASE": 3
+      },
+      "notes_zh": "形状之一；倒计时结束后爆炸。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Exploder.java"
+    },
+    {
+      "id": "Repulsor",
+      "class_name": "Repulsor",
+      "name_en": "Repulsor",
+      "name_zh": "反冲机",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 35,
+      "hp_assignments": [
+        "31-38",
+        "29-35"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {},
+      "notes_zh": "形状之一；会向抽牌堆加入眩晕。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Repulsor.java"
+    },
+    {
+      "id": "Spiker",
+      "class_name": "Spiker",
+      "name_en": "Spiker",
+      "name_zh": "钉刺机",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 56,
+      "hp_assignments": [
+        "44-60",
+        "42-56"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP_MIN": 42,
+        "HP_MAX": 56,
+        "A_2_HP_MIN": 44,
+        "A_2_HP_MAX": 60,
+        "STARTING_THORNS": 3,
+        "A_2_STARTING_THORNS": 4,
+        "ATTACK_DMG": 7,
+        "A_2_ATTACK_DMG": 9,
+        "BUFF_AMT": 2
+      },
+      "notes_zh": "形状之一；具有反伤。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Spiker.java"
+    },
+    {
+      "id": "Serpent",
+      "class_name": "SpireGrowth",
+      "name_en": "Spire Growth",
+      "name_zh": "塔内增生组织",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 170,
+      "hp_assignments": [
+        "190",
+        "170"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "START_HP": 170,
+        "A_2_START_HP": 190
+      },
+      "notes_zh": "塔之增生。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/SpireGrowth.java"
+    },
+    {
+      "id": "Transient",
+      "class_name": "Transient",
+      "name_en": "Transient",
+      "name_zh": "倏忽魔",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 999,
+      "hp_assignments": [],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 999,
+        "DEATH_DMG": 30,
+        "INCREMENT_DMG": 10,
+        "A_2_DEATH_DMG": 40
+      },
+      "notes_zh": "瞬息；回合结束按本回合所受伤害降低力量。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Transient.java"
+    },
+    {
+      "id": "Maw",
+      "class_name": "Maw",
+      "name_en": "The Maw",
+      "name_zh": "巨口",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 300,
+      "hp_assignments": [],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 300,
+        "SLAM_DMG": 25,
+        "NOM_DMG": 5,
+        "A_2_SLAM_DMG": 30
+      },
+      "notes_zh": "巨口。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Maw.java"
+    },
+    {
+      "id": "JawWorm",
+      "class_name": "JawWorm",
+      "name_en": "Jaw Worm",
+      "name_zh": "大颚虫",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 44,
+      "hp_assignments": [
+        "42-46",
+        "40-44"
+      ],
+      "moves_en": [
+        "Bellow",
+        "Thrash"
+      ],
+      "moves_zh": [
+        "咆哮",
+        "抽打"
+      ],
+      "numeric_constants": {
+        "HP_MIN": 40,
+        "HP_MAX": 44,
+        "A_2_HP_MIN": 42,
+        "A_2_HP_MAX": 46,
+        "CHOMP_DMG": 11,
+        "A_2_CHOMP_DMG": 12,
+        "THRASH_DMG": 7,
+        "THRASH_BLOCK": 5,
+        "BELLOW_STR": 3,
+        "A_2_BELLOW_STR": 4,
+        "A_17_BELLOW_STR": 5,
+        "BELLOW_BLOCK": 6,
+        "A_17_BELLOW_BLOCK": 9
+      },
+      "notes_zh": "第三幕以三只颚虫组成虫群遭遇。",
+      "source_file": "com/megacrit/cardcrawl/monsters/exordium/JawWorm.java"
+    },
+    {
+      "id": "SphericGuardian",
+      "class_name": "SphericGuardian",
+      "name_en": "Spheric Guardian",
+      "name_zh": "圆球守护者",
+      "act": 3,
+      "role": "normal_crossover",
+      "base_max_hp": 20,
+      "hp_assignments": [],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "DMG": 10,
+        "A_2_DMG": 11,
+        "SLAM_AMT": 2,
+        "HARDEN_BLOCK": 15,
+        "FRAIL_AMT": 5,
+        "ACTIVATE_BLOCK": 25,
+        "ARTIFACT_AMT": 3,
+        "STARTING_BLOCK_AMT": 40
+      },
+      "notes_zh": "球形守卫；原生于第二幕，但会作为“球形守卫和2个形状”遭遇成员进入第三幕强敌池。",
+      "source_file": "com/megacrit/cardcrawl/monsters/city/SphericGuardian.java"
+    },
+    {
+      "id": "WrithingMass",
+      "class_name": "WrithingMass",
+      "name_en": "Writhing Mass",
+      "name_zh": "扭曲团块",
+      "act": 3,
+      "role": "normal",
+      "base_max_hp": 160,
+      "hp_assignments": [
+        "175",
+        "160"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 160,
+        "A_2_HP": 175,
+        "HIT_COUNT": 3
+      },
+      "notes_zh": "扭曲团块；受攻击后可能改变意图，寄生效果需特别处理。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/WrithingMass.java"
+    },
+    {
+      "id": "GiantHead",
+      "class_name": "GiantHead",
+      "name_en": "Giant Head",
+      "name_zh": "大脑袋",
+      "act": 3,
+      "role": "elite",
+      "base_max_hp": 500,
+      "hp_assignments": [
+        "520-520",
+        "500-500"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 500,
+        "A_2_HP": 520,
+        "COUNT_DMG": 13,
+        "DEATH_DMG": 30,
+        "GLARE_WEAK": 1,
+        "INCREMENT_DMG": 5,
+        "A_2_DEATH_DMG": 40
+      },
+      "notes_zh": "大头；缓慢递增易伤，并在后期提高攻击。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/GiantHead.java"
+    },
+    {
+      "id": "Nemesis",
+      "class_name": "Nemesis",
+      "name_en": "Nemesis",
+      "name_zh": "天罚",
+      "act": 3,
+      "role": "elite",
+      "base_max_hp": 185,
+      "hp_assignments": [
+        "200",
+        "185"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 185,
+        "A_2_HP": 200,
+        "SCYTHE_COOLDOWN_TURNS": 2,
+        "SCYTHE_DMG": 45,
+        "FIRE_DMG": 6,
+        "FIRE_TIMES": 3,
+        "A_2_FIRE_DMG": 7,
+        "BURN_AMT": 3
+      },
+      "notes_zh": "倏忽魔；每回合获得1层无实体。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Nemesis.java"
+    },
+    {
+      "id": "Reptomancer",
+      "class_name": "Reptomancer",
+      "name_en": "Reptomancer",
+      "name_zh": "拜蛇术士",
+      "act": 3,
+      "role": "elite",
+      "base_max_hp": null,
+      "hp_assignments": [
+        "190-200",
+        "180-190"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP_MIN": 180,
+        "HP_MAX": 190,
+        "A_2_HP_MIN": 190,
+        "A_2_HP_MAX": 200,
+        "BITE_DMG": 30,
+        "A_2_BITE_DMG": 34,
+        "SNAKE_STRIKE_DMG": 13,
+        "A_2_SNAKE_STRIKE_DMG": 16,
+        "DAGGERS_PER_SPAWN": 1,
+        "ASC_2_DAGGERS_PER_SPAWN": 2
+      },
+      "notes_zh": "蛇女；战斗中召唤匕首。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Reptomancer.java"
+    },
+    {
+      "id": "Dagger",
+      "class_name": "SnakeDagger",
+      "name_en": "Dagger",
+      "name_zh": "匕首",
+      "act": 3,
+      "role": "summon",
+      "base_max_hp": null,
+      "hp_assignments": [],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP_MIN": 20,
+        "HP_MAX": 25,
+        "STAB_DMG": 9,
+        "SACRIFICE_DMG": 25
+      },
+      "notes_zh": "蛇女召唤物；不是地图独立遭遇。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/SnakeDagger.java"
+    },
+    {
+      "id": "AwakenedOne",
+      "class_name": "AwakenedOne",
+      "name_en": "Awakened One",
+      "name_zh": "觉醒者",
+      "act": 3,
+      "role": "boss",
+      "base_max_hp": 300,
+      "hp_assignments": [
+        "320",
+        "300"
+      ],
+      "moves_en": [
+        "Soul Strike",
+        "Dark Echo",
+        "Cleanse",
+        "Sludge"
+      ],
+      "moves_zh": [
+        "灵魂攻击",
+        "黑暗回音",
+        "净化",
+        "污泥"
+      ],
+      "numeric_constants": {
+        "STAGE_1_HP": 300,
+        "STAGE_2_HP": 300,
+        "A_9_STAGE_1_HP": 320,
+        "A_9_STAGE_2_HP": 320,
+        "A_4_STR": 2,
+        "SLASH_DMG": 20,
+        "SS_DMG": 6,
+        "SS_AMT": 4,
+        "REGEN_AMT": 10,
+        "STR_AMT": 1,
+        "ECHO_DMG": 40,
+        "SLUDGE_DMG": 18,
+        "TACKLE_DMG": 10,
+        "TACKLE_AMT": 3
+      },
+      "notes_zh": "觉醒者；第一阶段死亡后进入第二阶段。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/AwakenedOne.java"
+    },
+    {
+      "id": "Cultist",
+      "class_name": "Cultist",
+      "name_en": "Cultist",
+      "name_zh": "邪教徒",
+      "act": 3,
+      "role": "boss_minion",
+      "base_max_hp": 54,
+      "hp_assignments": [
+        "50-56",
+        "48-54"
+      ],
+      "moves_en": [
+        "Incantation"
+      ],
+      "moves_zh": [
+        "念咒"
+      ],
+      "numeric_constants": {
+        "HP_MIN": 48,
+        "HP_MAX": 54,
+        "A_2_HP_MIN": 50,
+        "A_2_HP_MAX": 56,
+        "ATTACK_DMG": 6,
+        "RITUAL_AMT": 3,
+        "A_2_RITUAL_AMT": 4
+      },
+      "notes_zh": "觉醒者战斗的两名随从；本体也出现在第一幕。",
+      "source_file": "com/megacrit/cardcrawl/monsters/exordium/Cultist.java"
+    },
+    {
+      "id": "TimeEater",
+      "class_name": "TimeEater",
+      "name_en": "Time Eater",
+      "name_zh": "时间吞噬者",
+      "act": 3,
+      "role": "boss",
+      "base_max_hp": 456,
+      "hp_assignments": [
+        "480",
+        "456"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 456,
+        "A_2_HP": 480,
+        "REVERB_DMG": 7,
+        "REVERB_AMT": 3,
+        "A_2_REVERB_DMG": 8,
+        "RIPPLE_BLOCK": 20,
+        "HEAD_SLAM_DMG": 26,
+        "A_2_HEAD_SLAM_DMG": 32,
+        "HEAD_SLAM_STICKY": 1,
+        "RIPPLE_DEBUFF_TURNS": 1
+      },
+      "notes_zh": "时间吞噬者；每打出12张牌时强制结束玩家回合。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/TimeEater.java"
+    },
+    {
+      "id": "Donu",
+      "class_name": "Donu",
+      "name_en": "Donu",
+      "name_zh": "甜圈",
+      "act": 3,
+      "role": "boss",
+      "base_max_hp": 250,
+      "hp_assignments": [
+        "265",
+        "250"
+      ],
+      "moves_en": [
+        "Circle of Power"
+      ],
+      "moves_zh": [
+        "力量之环"
+      ],
+      "numeric_constants": {
+        "HP": 250,
+        "A_2_HP": 265,
+        "ARTIFACT_AMT": 2,
+        "BEAM_DMG": 10,
+        "BEAM_AMT": 2,
+        "A_2_BEAM_DMG": 12,
+        "CIRCLE_STR_AMT": 3
+      },
+      "notes_zh": "甜圈；与八体共同出场。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Donu.java"
+    },
+    {
+      "id": "Deca",
+      "class_name": "Deca",
+      "name_en": "Deca",
+      "name_zh": "八体",
+      "act": 3,
+      "role": "boss",
+      "base_max_hp": 250,
+      "hp_assignments": [
+        "265",
+        "250"
+      ],
+      "moves_en": [],
+      "moves_zh": [],
+      "numeric_constants": {
+        "HP": 250,
+        "A_2_HP": 265,
+        "ARTIFACT_AMT": 2,
+        "BEAM_DMG": 10,
+        "BEAM_AMT": 2,
+        "A_2_BEAM_DMG": 12,
+        "BEAM_DAZE_AMT": 2,
+        "PROTECT_BLOCK": 16
+      },
+      "notes_zh": "八体；与甜圈共同出场。",
+      "source_file": "com/megacrit/cardcrawl/monsters/beyond/Deca.java"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "3 Darklings",
+      "tier": "weak,strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 3,
+          "monster_id": "Darkling"
+        }
+      ],
+      "notes_zh": "弱敌池权重2；强敌池权重1。"
+    },
+    {
+      "id": "Orb Walker",
+      "tier": "weak",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Orb Walker"
+        }
+      ],
+      "notes_zh": "弱敌池权重2。"
+    },
+    {
+      "id": "3 Shapes",
+      "tier": "weak",
+      "source": "map",
+      "members": [
+        {
+          "monster_pool": [
+            "Exploder",
+            "Repulsor",
+            "Spiker"
+          ],
+          "count": 3
+        }
+      ],
+      "notes_zh": "候选池中每种形状各放2个并无放回抽取；弱敌池权重2。"
+    },
+    {
+      "id": "Spire Growth",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Serpent"
+        }
+      ],
+      "notes_zh": "强敌池权重1。"
+    },
+    {
+      "id": "Transient",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Transient"
+        }
+      ],
+      "notes_zh": "强敌池权重1。"
+    },
+    {
+      "id": "4 Shapes",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "monster_pool": [
+            "Exploder",
+            "Repulsor",
+            "Spiker"
+          ],
+          "count": 4
+        }
+      ],
+      "notes_zh": "候选池中每种形状各放2个并无放回抽取；强敌池权重1。"
+    },
+    {
+      "id": "Maw",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Maw"
+        }
+      ],
+      "notes_zh": "强敌池权重1。"
+    },
+    {
+      "id": "Sphere and 2 Shapes",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "SphericGuardian"
+        },
+        {
+          "monster_pool": [
+            "Exploder",
+            "Repulsor",
+            "Spiker"
+          ],
+          "count": 2
+        }
+      ],
+      "notes_zh": "这里的 Sphere 是球形守卫，不是球状行者；两个形状各自从三种形状中等概率独立生成。强敌池权重1。"
+    },
+    {
+      "id": "Jaw Worm Horde",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 3,
+          "monster_id": "JawWorm"
+        }
+      ],
+      "notes_zh": "强敌池权重1。"
+    },
+    {
+      "id": "Writhing Mass",
+      "tier": "strong",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "WrithingMass"
+        }
+      ],
+      "notes_zh": "强敌池权重1。"
+    },
+    {
+      "id": "Giant Head",
+      "tier": "elite",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "GiantHead"
+        }
+      ],
+      "notes_zh": "精英池权重2。"
+    },
+    {
+      "id": "Nemesis",
+      "tier": "elite",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Nemesis"
+        }
+      ],
+      "notes_zh": "精英池权重2。"
+    },
+    {
+      "id": "Reptomancer",
+      "tier": "elite",
+      "source": "map",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Reptomancer"
+        }
+      ],
+      "summons": [
+        {
+          "maximum_on_field": 4,
+          "monster_id": "Dagger"
+        }
+      ],
+      "notes_zh": "精英池权重2；蛇女在战斗中召唤匕首。"
+    },
+    {
+      "id": "Awakened One",
+      "tier": "boss",
+      "source": "boss",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "AwakenedOne"
+        },
+        {
+          "count": 2,
+          "monster_id": "Cultist"
+        }
+      ],
+      "notes_zh": "觉醒者和两名邪教徒。"
+    },
+    {
+      "id": "Time Eater",
+      "tier": "boss",
+      "source": "boss",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "TimeEater"
+        }
+      ],
+      "notes_zh": ""
+    },
+    {
+      "id": "Donu and Deca",
+      "tier": "boss",
+      "source": "boss",
+      "members": [
+        {
+          "count": 1,
+          "monster_id": "Donu"
+        },
+        {
+          "count": 1,
+          "monster_id": "Deca"
+        }
+      ],
+      "notes_zh": ""
+    },
+    {
+      "id": "2 Orb Walkers",
+      "tier": "event",
+      "source": "Mysterious Sphere",
+      "members": [
+        {
+          "count": 2,
+          "monster_id": "Orb Walker"
+        }
+      ],
+      "notes_zh": "神秘圆球事件选择战斗后的真实遭遇键；不进入地图普通敌人池。"
+    },
+    {
+      "id": "Mind Bloom Boss Battle",
+      "tier": "event",
+      "source": "event",
+      "members": [],
+      "notes_zh": "心灵绽放事件会重战一名第一幕Boss；不属于第三幕原生敌怪。"
+    }
+  ]
+}
