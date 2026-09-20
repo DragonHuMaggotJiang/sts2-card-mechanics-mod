@@ -43,3 +43,10 @@ assemblies, so they run locally unless the repository later gets a private self-
 - `src/Content`: cards and other content grouped by feature
 - `src/UI`: presentation-only extensions
 - `Sts2CardMechanicsMod`: assets and localization packed into the mod PCK
+
+## STS1 super-mod work
+
+The STS1 port keeps its card and relic pools separate from STS2 so encounter rewards cannot leak
+between generations. `Limit Break` and `Spot Weakness` now belong to the dedicated STS1 Ironclad
+pool; `Death Reaping` remains an Ancient card. Visual inputs for the first two STS1 acts are bundled
+under `Sts2CardMechanicsMod/sts1`, with hashes recorded in its asset manifest.

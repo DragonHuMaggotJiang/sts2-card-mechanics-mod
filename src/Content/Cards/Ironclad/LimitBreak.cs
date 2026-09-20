@@ -6,13 +6,14 @@ using MegaCrit.Sts2.Core.HoverTips;
 using MegaCrit.Sts2.Core.Models.CardPools;
 using MegaCrit.Sts2.Core.Models.Powers;
 using Sts2CardMechanicsMod.Content.Cards.Shared;
+using Sts2CardMechanicsMod.Content.Sts1.Cards;
 
 namespace Sts2CardMechanicsMod.Content.Cards.Ironclad;
 
 /// <summary>
 /// Doubles the Ironclad's current Strength. The upgrade keeps the effect and removes Exhaust.
 /// </summary>
-[Pool(typeof(IroncladCardPool))]
+[Pool(typeof(Sts1IroncladCardPool))]
 public sealed class LimitBreak : ModCard
 {
     protected override IEnumerable<IHoverTip> ExtraHoverTips =>

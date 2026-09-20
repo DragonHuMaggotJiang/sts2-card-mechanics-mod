@@ -7,6 +7,7 @@ using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Models.CardPools;
 using MegaCrit.Sts2.Core.Models.Powers;
 using Sts2CardMechanicsMod.Content.Cards.Shared;
+using Sts2CardMechanicsMod.Content.Sts1.Cards;
 
 namespace Sts2CardMechanicsMod.Content.Cards.Ironclad;
 
@@ -14,7 +15,7 @@ namespace Sts2CardMechanicsMod.Content.Cards.Ironclad;
 /// Grants Strength when the selected enemy has any attacking component in its current intent.
 /// MonsterModel.IntendsToAttack intentionally supports STS2 composite intents such as attack + buff.
 /// </summary>
-[Pool(typeof(IroncladCardPool))]
+[Pool(typeof(Sts1IroncladCardPool))]
 public sealed class SpotWeakness : ModCard
 {
     protected override bool ShouldGlowGoldInternal =>

@@ -1,0 +1,5542 @@
+{
+  "schema_version": 1,
+  "source": "Slay the Spire desktop-1.0.jar",
+  "file_count": 1107,
+  "files": [
+    {
+      "source": "bottomScene/scene.atlas",
+      "size": 2237,
+      "sha256": "5c44bd8601ce23b54c7be2077d34e6e9c11ad70b531f1856945010fbf6c6cbe8"
+    },
+    {
+      "source": "bottomScene/scene.jpg",
+      "size": 125284,
+      "sha256": "5910c1c4ca24b4526412885ea492024e275ebd1fe2a078c70cb3e23a1238805a"
+    },
+    {
+      "source": "bottomScene/scene.png",
+      "size": 666071,
+      "sha256": "7a7051cdd828e122ac8d188f1b576e35ff7b16b6f92ffdc1dc130e61a1c109b2"
+    },
+    {
+      "source": "bottomScene/scene2.jpg",
+      "size": 94625,
+      "sha256": "8c9fc26e684ef9e2aca1137d3cdcdb9d020ff47776eaa4c100fa72d97a0c7abe"
+    },
+    {
+      "source": "bottomScene/scene2.png",
+      "size": 486302,
+      "sha256": "e6e2b64f941bb2d3d5fb94d30e14eaaf97ec5e31209aca5a51f29493a5514525"
+    },
+    {
+      "source": "bottomScene/scene3.jpg",
+      "size": 41724,
+      "sha256": "49d6fdce02591652d9712f50aaf58a5bdca6075c07e71828ba1a4cb4ac567edb"
+    },
+    {
+      "source": "cityScene/scene.atlas",
+      "size": 3842,
+      "sha256": "37fe0250a112bf781d5f120d235f48c0e5df6eaea8fc2338b865c3302a645818"
+    },
+    {
+      "source": "cityScene/scene.jpg",
+      "size": 17255,
+      "sha256": "de67964d803d938b29737b1fca1054b7aca283625819cda259f5393a9157cc30"
+    },
+    {
+      "source": "cityScene/scene.png",
+      "size": 742590,
+      "sha256": "4b24729feecff9259d02c431571a798212c3ba3a0bfd0fce3abf14078c203f26"
+    },
+    {
+      "source": "cityScene/scene2.jpg",
+      "size": 93238,
+      "sha256": "65f6727507b187b1fedcc0323fd710c00a66e5f5942619089fec9ab28c76dfe8"
+    },
+    {
+      "source": "cityScene/scene2.png",
+      "size": 740782,
+      "sha256": "e0bb2c763675d988933cd0e62cd7f6f38f297744a5856ea545d97c8811703a8c"
+    },
+    {
+      "source": "cityScene/scene3.jpg",
+      "size": 41652,
+      "sha256": "850451824f85209459cbe6e4b37f6f67570876a458a1aec8773a302d1d9ba9d4"
+    },
+    {
+      "source": "cityScene/scene3.png",
+      "size": 206534,
+      "sha256": "3c55d6cee4a7672fcce485961952c4d580cd4e4b7084f7da93f00c16f0f36354"
+    },
+    {
+      "source": "cityScene/scene4.png",
+      "size": 327131,
+      "sha256": "023b90340a02b3da17850089be35602814ec58da1fc165078f32d352bd82147b"
+    },
+    {
+      "source": "cityScene/scene5.png",
+      "size": 637453,
+      "sha256": "328fecf852afd01b7819e13b968637ae89b5f4768ac6631f7edbb4e938b06639"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/all_for_one.png",
+      "size": 37147,
+      "sha256": "9a9208057147dadfa1bb36751afd39692a1d274cbd1835ad86088f5788516e26"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/ball_lightning.png",
+      "size": 56068,
+      "sha256": "cae6b1ac003303874bdef139dfdba403ce0c42be703e193139986fc0b06b7f18"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/barrage.png",
+      "size": 37956,
+      "sha256": "ceaa0061fa43198f52d4f0463772f3cb7ecff4a5723a23ad94c1a911f30af7c2"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/beam_cell.png",
+      "size": 40829,
+      "sha256": "aa99b161fa11cfa112671c84f716e6ef6bf8d3de9e8b955f255db52fbdfc3c5c"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/blizzard.png",
+      "size": 60364,
+      "sha256": "4ca9480e6a89f1bda1125ea05924dbd13db03dd643299fba6d0c71b71a072a31"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/claw.png",
+      "size": 49097,
+      "sha256": "b8eb699d55e19608393f8ca173750467b20ee6a5ff88668d6e656a5172cc79f1"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/cold_snap.png",
+      "size": 47020,
+      "sha256": "c5ad67c16bb8d8b20a6e1739a905ea8830d7720230ee3144528174c426101aa9"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/compile_driver.png",
+      "size": 48342,
+      "sha256": "d54a59141e587a4a08e3e8edd632275c3b9885e26b0cfa6ba6567de2b2f15314"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/core_surge.png",
+      "size": 30554,
+      "sha256": "ea6ea177950c2e7c6336e7cdac816599533aaab94973ce775bcb39cf9b76439c"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/doom_and_gloom.png",
+      "size": 44449,
+      "sha256": "d9dfc475889ff340b95e6ce21ef1f64e4068fb4370f2b5907c16b1569945e9db"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/ftl.png",
+      "size": 36579,
+      "sha256": "b32e0d41651a25ea0969a26314a2a2015abcb618cc9d1811d23c8e7f478624c0"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/go_for_the_eyes.png",
+      "size": 36540,
+      "sha256": "a516ec84d33044a720b1547623df9602adc05f21927db8d0ff741ada2a372100"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/hyper_beam.png",
+      "size": 34950,
+      "sha256": "b15213c7af019059b7a1926308aa7b75419853aa8df4e7f90395d2bf2c0fa05c"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/lock_on.png",
+      "size": 14014,
+      "sha256": "fa282ed51ec59002ca7f44ed66c87fd4ba5e23516bdb1bbfbc93a980140fc6b6"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/melter.png",
+      "size": 39915,
+      "sha256": "00458a30ed4cc86be6547b49b7d784cf0f798654ba9f2c35734944d44f0a5c38"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/meteor_strike.png",
+      "size": 41436,
+      "sha256": "379f6f43ef77bbae29717f55aa5140f9693c727a6f0fc78f3f6435c9c4d04d17"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/rebound.png",
+      "size": 27021,
+      "sha256": "af79a8b037ef2ebf8ecf3f9462e47d779db2c15d738411a99164767aaa6bf3f1"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/rip_and_tear.png",
+      "size": 40935,
+      "sha256": "a5dffe9690949bda9f72d10266c217824c5e43f09c8a3bae52df2ea3d9ac1bda"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/scrape.png",
+      "size": 35992,
+      "sha256": "38cb5dbc7c95857c8d9c2475ac5926591b4382a099948db74363608a7cc56d24"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/streamline.png",
+      "size": 17722,
+      "sha256": "4a62fd2f226b60500f5edfae06f7240637c1cc7f256c7ca228db7fb9b3032a50"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/strike.png",
+      "size": 37049,
+      "sha256": "bea3dbb31b2f097006c567c3a68fc8a19f420fed0082d5d94ba2a5c87b30b232"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/sunder.png",
+      "size": 35348,
+      "sha256": "4aa99660d9faa949878e3c8eda53cef924c0f6f7055f4e595a42ac594d47c07d"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/sweeping_beam.png",
+      "size": 27717,
+      "sha256": "b68442f60561d9c376658fcc130bceb261479f56364b37cddf045c1b430e73f7"
+    },
+    {
+      "source": "images/1024Portraits/blue/attack/thunder_strike.png",
+      "size": 39435,
+      "sha256": "f46b1e515caa2c5a539c312d45ec9a87cc7da7f2834c065c658b8cc3ebf1d718"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/biased_cognition.png",
+      "size": 21380,
+      "sha256": "48e89bb0178ab638c4df7e46302164b412691ef50b19fe4353138d05f8f401b0"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/buffer.png",
+      "size": 46474,
+      "sha256": "ba9f55b06f5c7545c36676e7585a1463dd1158664a07f6d37525111689aad882"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/capacitor.png",
+      "size": 39719,
+      "sha256": "2dcf1a5a67adb550eb8c32a18eb9f080371980bd8551ac5419f8b306c8aee5fd"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/creative_ai.png",
+      "size": 53982,
+      "sha256": "6606f596afb43177bf9ee104910946c36d62d63175469e5d45458f4043b3e322"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/defragment.png",
+      "size": 29750,
+      "sha256": "8d927afa2538bfb29527fd0f04130259d53d546eae9b7f6afea70f0397b695e4"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/echo_form.png",
+      "size": 51642,
+      "sha256": "9eebd37ae1b48d9f20561290c605c5a0922e4daf6e38616c7255aa3793b5f211"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/electrodynamics.png",
+      "size": 41785,
+      "sha256": "86e8909a7e1f22bb9dcd4046cb758aca1ba51fa2e60e57fc353a1e35d3008473"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/heatsinks.png",
+      "size": 30299,
+      "sha256": "dad1245a05e2b7eee5e3516d73bbc4556a8cab22ea8c29bf6f69bc4207ee1a27"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/hello_world.png",
+      "size": 24158,
+      "sha256": "48925a119e5b4cc9c9c7a9ea30ae55b9d6c2c5ea9241c703dc8620adbe0e1987"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/lightning_mastery.png",
+      "size": 51241,
+      "sha256": "74bbf3d5c05b23a90e766447928fe5d10cdb04a479d6cd5e33a348397f4cbb90"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/loop.png",
+      "size": 27406,
+      "sha256": "4693c77b7b66ac01adee4ee70ae1d919b1323368128e14905c6d0102fb921f27"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/machine_learning.png",
+      "size": 45159,
+      "sha256": "0f1b3e390e55bc9886157cfdb92ebb4cacc7d85314689fb33c332213dd96b157"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/self_repair.png",
+      "size": 33833,
+      "sha256": "81163a01b551685bca3115bdff15fd5f0edad2890339d5ca86a6ea2691e9b8e4"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/static_discharge.png",
+      "size": 49272,
+      "sha256": "13b2ab466d02f46319eb7e4ba93eff523e2720ed64bd00d1e6524125fa266214"
+    },
+    {
+      "source": "images/1024Portraits/blue/power/storm.png",
+      "size": 59285,
+      "sha256": "9fb54ad67b2ddd7e36dd51bd688fc591c5b1c6fe9c54b9f921e7d4009cdedf4c"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/aggregate.png",
+      "size": 36370,
+      "sha256": "16a558b1920ec9c0dde5990d7fd7955b6bef837cb88aac5fd4dd644e0398196a"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/amplify.png",
+      "size": 33933,
+      "sha256": "e82ea600c185d026ca1b16234daf8bc916fe107201696369891471b5cca6b0f1"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/auto_shields.png",
+      "size": 55566,
+      "sha256": "481b24b310e8926b7bcba6fb587b74e6b330ca01b7e5e45ba001ab42b997fae0"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/boot_sequence.png",
+      "size": 32802,
+      "sha256": "fc505bba616f3029df8a99708799a1ddb4555770a09903f762fc73919e868126"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/chaos.png",
+      "size": 43806,
+      "sha256": "1e0828c3f1198ac8be90994bf8d98461a70222b9aa2413ea1549e639577f9844"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/charge_battery.png",
+      "size": 40965,
+      "sha256": "56338d181aec1b91f82cd40851f455d923d18a49e51c4af3afcc7226185ff844"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/chill.png",
+      "size": 41137,
+      "sha256": "48e1860a64ece4d8397a3f1662b6f4e08275543cd422c89da3177d8253199cbc"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/consume.png",
+      "size": 48541,
+      "sha256": "e2d941744a2da5c48d77b908f6a39871b38d38cb74b8571230a9b3fe1d22269d"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/coolheaded.png",
+      "size": 30793,
+      "sha256": "b0137d77678d1338fbcc7539bdc01e9327c0fb9ebb7fded4df96a467e0e3b155"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/darkness.png",
+      "size": 41143,
+      "sha256": "6256bf86ed7ddecf4ea49e324f3e21a3240aae1af925d98cc9671bf4e85d09c7"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/defend.png",
+      "size": 33679,
+      "sha256": "dc0a8499188438ffe83dd2e67f40f890c24dac43cb3dc8268b2e1b9bb2f97127"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/double_energy.png",
+      "size": 33609,
+      "sha256": "9e164707ff7e66c5405b911d395cddd6bac02a290322cad9bde85ddea3f36008"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/dualcast.png",
+      "size": 35710,
+      "sha256": "0b847591da374d963d9e50b6ca86b53c12af124b2eca2ee0863146066db4c362"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/equilibrium.png",
+      "size": 47325,
+      "sha256": "fbfa22c7ee428c34228e1d5c7c84d77e9cc344c584fe1de27424871b49bd3874"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/fission.png",
+      "size": 45003,
+      "sha256": "5837c02eea1cc0fcc6e55d8ef43f823bc3335213fae6d040e369a84a0d59e8b0"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/forcefield.png",
+      "size": 46085,
+      "sha256": "fe6290262c4ac23c71845cc19b1fbe7bf0d8d477be22c1ddb46f4aa7eaa41c0e"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/fusion.png",
+      "size": 54535,
+      "sha256": "e41781ffe60d280e82a1e4769ebf5f7aa90070a2bf129b5aa6033a75779ddf04"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/genetic_algorithm.png",
+      "size": 34670,
+      "sha256": "c66d5eca5f9eadd926bec7754858a08112c95ed21240a0a8a6c9025bfaa7d8f7"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/glacier.png",
+      "size": 30539,
+      "sha256": "87ec1a9d92359d1a8b57b3c6fe8279703e07c71fbba01fa8896781d7f24d643b"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/hologram.png",
+      "size": 42018,
+      "sha256": "b3d0ff1905928015753ad1ecd6ebce4d493f7ef52e752ce58f247ec1912fd13e"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/leap.png",
+      "size": 36481,
+      "sha256": "84782d5e4262ef5d41272f8e0365166080bc9264aac2164a2bfbb5f862230854"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/multicast.png",
+      "size": 34846,
+      "sha256": "443ef9551e6d4735f089a36b9b071177f0bbb9aec5ba2d2b899ed65a5b5fe322"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/overclock.png",
+      "size": 43629,
+      "sha256": "d8bb4862cd9c66ebb97e26f04fb25c7587594749adf7a0d7e4f314f217cff6a1"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/rainbow.png",
+      "size": 33367,
+      "sha256": "24f50e346c1e91a475f1ca21f843b42d1e9f2b2a47e5d76796ec680881c75c02"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/reboot.png",
+      "size": 38407,
+      "sha256": "9f2171028721578a8f6923662d671d7e7f361ec5537e450f486e7b72fa240e0c"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/recursion.png",
+      "size": 33320,
+      "sha256": "726439c2c08a3ca4969ee18f527ac68655f26ec09e171d83faa9cc7fb0f55639"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/recycle.png",
+      "size": 33409,
+      "sha256": "7efc5cc661f01abab519bf2429c955a493bf9b12ac60ba9555282e0de3200bbc"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/reinforced_body.png",
+      "size": 42777,
+      "sha256": "849b7ec6fa21ea73b258b571d83b4145fcb70edebe8329ab26cbd3a0dae59610"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/reprogram.png",
+      "size": 49589,
+      "sha256": "733954210cc1f6be0e07366aa913dca22b43a8b6c3a22707c52c1089dc08221d"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/seek.png",
+      "size": 40436,
+      "sha256": "db588edc15279c4b0db639e98b946e8c39972099ab321f96e44a4eba53843336"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/skim.png",
+      "size": 36081,
+      "sha256": "f76dc2c24c653a33478c4f2ef4a8b95496903557dfca60c5d55a90282179dd8a"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/stack.png",
+      "size": 42854,
+      "sha256": "131334571b74024b93106dafece7036834eff7c6241ab69ec0f475e62734fcc6"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/steam_barrier.png",
+      "size": 32396,
+      "sha256": "2d79e18f3da6a09ccce4c6d91cb84868d88ab3faac9aea0b248f27e71c13e813"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/tempest.png",
+      "size": 40351,
+      "sha256": "ff52789c50686b7d62aad5a49586ecb81fdfe31a9e53bd1bff3c4e833f585de5"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/turbo.png",
+      "size": 33114,
+      "sha256": "c2bd7c7fc694ef742a977e33c299dc6d5a5ce6efdd05ad3c1e2dfbfe9431e4f9"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/white_noise.png",
+      "size": 115985,
+      "sha256": "e4e10b802797591591a71157afc463af63826a27a6d35c497a1084ed58891fdc"
+    },
+    {
+      "source": "images/1024Portraits/blue/skill/zap.png",
+      "size": 25248,
+      "sha256": "3ef67ffb5c0bb2ecb30b17b80b91749870821bc0026440e70cf8b7a2143b29ed"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/bite.png",
+      "size": 27326,
+      "sha256": "3aaac6d957932d28f2d76644e96c60f108d8fa9b604c8bed68637f2c952d6f15"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/dramatic_entrance.png",
+      "size": 26261,
+      "sha256": "1383e2226865af41b0e4fb1bf4938a5658d451ac413f4a893278463af409e663"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/expunger.png",
+      "size": 38020,
+      "sha256": "cec416b5b8332ee416fac37154f658f8ca767517d6d3c860e43a54e388e27ddc"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/flash_of_steel.png",
+      "size": 22415,
+      "sha256": "7c26c0e3ac0d1db50cc69d463735781caf0e1917497bb389042f505defcef7f2"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/hand_of_greed.png",
+      "size": 47114,
+      "sha256": "08d24c8454078ed4c2b905da51766b20631c680c1e6184e099ae966212bd876d"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/mind_blast.png",
+      "size": 35052,
+      "sha256": "a838df4e57cd577c2c7a3c40b5675a622e3ebfcad5171ad3fd96ee53e90293d0"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/ritual_dagger.png",
+      "size": 45410,
+      "sha256": "80ec7be3d126898560769d0d0699a271fdca53a5cd28eaa9467bcf4ef063e572"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/shiv.png",
+      "size": 24320,
+      "sha256": "defd6052d6a9bae5f38abab079ea71210c72fe5371714ed628cef71141462695"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/smite.png",
+      "size": 42566,
+      "sha256": "6e12549feb27de6896a239eca19f1726ac62bb9a44f86c183369f7cbea067bb7"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/swift_strike.png",
+      "size": 41459,
+      "sha256": "66b0f130340b994065dc25e1ceb06bd847db1c2bcbb6cb3464dca9b3405be51e"
+    },
+    {
+      "source": "images/1024Portraits/colorless/attack/through_violence.png",
+      "size": 35485,
+      "sha256": "8ed6abe464904501f6d00a1d176efbdb375470e75b1aeab6c1c28eccf29c298b"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/become_almighty.png",
+      "size": 47788,
+      "sha256": "9598d02d03e35d4e9fd0fc4583808f6a4e15f5b95a8766a13b6189f063b7713e"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/live_forever.png",
+      "size": 53776,
+      "sha256": "0214c76f58bc963a87668a6277f902dbaee1620bc509e8781c84adca6fc0deaf"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/magnetism.png",
+      "size": 21756,
+      "sha256": "6507178de9309d76722b2ed00fefbfa7366953b23b63909a29f13539c1e2d06f"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/mayhem.png",
+      "size": 57475,
+      "sha256": "1240f98d270d3dcf80c573e1e2117a9f7fce1f394ccc481ff2407eccbd6e4ba5"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/omega.png",
+      "size": 29991,
+      "sha256": "f93fc03c834e9f160e2a6ee9e0c5134129ebe17b44223f01f65dfddd737ca95f"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/panache.png",
+      "size": 29547,
+      "sha256": "db7756f9d2b35baf0c251e088214347eba47270f03fcfcecff0d6cbae0f75959"
+    },
+    {
+      "source": "images/1024Portraits/colorless/power/sadistic_nature.png",
+      "size": 28296,
+      "sha256": "b2fd26753f328d739606e0ec0fba4c16d4746d8b22d2a223c8ca3cf51d50a19e"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/apotheosis.png",
+      "size": 55393,
+      "sha256": "bc69fbc2ec1d4ffd762e09b98477ab4d1194b4555331ab0285a6b353a2c23f3f"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/apparition.png",
+      "size": 48914,
+      "sha256": "3702fe454a066f7b6c2095cb78690ad3151767b000d9414c305f04452f956327"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/bandage_up.png",
+      "size": 41417,
+      "sha256": "9274b3bc53787327530aa54a8be34e2a1c2c33bbe5be9a5bb69d4b435e64a5f4"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/beta.png",
+      "size": 29389,
+      "sha256": "2ecee3136f98548e5a4481d54c79a4a8d8daa04cb118240d99f0b5f2cad7919a"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/blind.png",
+      "size": 38712,
+      "sha256": "e79f40fd6784ee975a0c84802f3ad82f5efed29579c3e220afd82832066a187b"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/calm.png",
+      "size": 32860,
+      "sha256": "685536ffef1e677efec5c45657d2b5766f2b88be4df4c7d979606d4f09418f7b"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/chrysalis.png",
+      "size": 42047,
+      "sha256": "d0e28220e406ace0d52bcb8c6e0a455ce7bb74ea34a736362f609a9289bee11f"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/dark_shackles.png",
+      "size": 44552,
+      "sha256": "73e6022af4d7181e95813701f24118b250a319d50d9362bc84f3ce11aa4e9aad"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/deep_breath.png",
+      "size": 39437,
+      "sha256": "2047377519d05a46dda96ae73995d18f4523b0935084ed42e808bd712a0187da"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/discovery.png",
+      "size": 53242,
+      "sha256": "2937b68bcf5751a04f442e92714a73227034918a0dc81d7f2b26fa188ab39db6"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/enlightenment.png",
+      "size": 45129,
+      "sha256": "a60869998b784193fbf5b064b1147ee79667fb1cac96dc529c682c83ca967933"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/fame_and_fortune.png",
+      "size": 52524,
+      "sha256": "39d8a4d5be69cd99bcb4a6c99ba86c2b1213bdebc631c7e4d3b52948f848d208"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/finesse.png",
+      "size": 36538,
+      "sha256": "93f70337051b8f59f9a18a0a03904586389ab124b05ae6dc974b049318235153"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/forethought.png",
+      "size": 31944,
+      "sha256": "73715454340511435f8bdaf8aba3c90edccb1d5735556e3af8adee47b539516c"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/good_instincts.png",
+      "size": 34724,
+      "sha256": "c9729e145d0e685619bdcacb782555b0c02372910fffaad2b5b089e0693ee7ce"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/impatience.png",
+      "size": 33920,
+      "sha256": "be7eebb2def06e61fd029e242e50ab66602b63d0924ed21398bcc39d9d0d0190"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/insight.png",
+      "size": 41786,
+      "sha256": "5929989227d8c0c22a28f80b1660ab79fd96eb95dd5bc1bd40ed6d0fb5c61859"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/jack_of_all_trades.png",
+      "size": 26429,
+      "sha256": "2c4f3ef9b947011ca1dc539410c61ea9d279c4f885da769d8883b852a31ebe31"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/jax.png",
+      "size": 36518,
+      "sha256": "e9e2121354c288c70f51d8a2ed97bad17781a8d67d93ad5143813216e456d65b"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/madness.png",
+      "size": 38623,
+      "sha256": "36e895d0ddb5d694c04c19718f28286d3cf62df2babadc125888216fc9134da2"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/master_of_strategy.png",
+      "size": 35945,
+      "sha256": "3441a919b0549990eb0907363f9894ea5f6af0d2c259236aa5a95c1e30a31d40"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/metamorphosis.png",
+      "size": 61721,
+      "sha256": "93dbbed46551e3cbe8433912bf7f636676c2586db5a326b928980795be644519"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/miracle.png",
+      "size": 37326,
+      "sha256": "682a33311a41388aa3c02ae0b87a8e617306fe2d1d8c5162bd20aa7478ea180d"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/panacea.png",
+      "size": 42149,
+      "sha256": "8a661db370497460ef56a045387f78dd4e414e2a677eaf0dca03b7aeb18c5b79"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/panic_button.png",
+      "size": 40874,
+      "sha256": "0e0163adcf6683c07bea8ec0635044f09e7aefc1f7e5517d551de4c29e1f6dc6"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/purity.png",
+      "size": 34585,
+      "sha256": "375d3e2f8094292a4654c9b6925ee84b5d8879980b2355b3560d5610f8c564c4"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/safety.png",
+      "size": 28026,
+      "sha256": "d782d006ab8e6a0beb128547619db04dbc897f1b0cc5e1721f9b1d5220b50c40"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/secret_technique.png",
+      "size": 33056,
+      "sha256": "da1ab7b02fee367277556aac00518285b1e589e6e88b3eb474d747796b1ae47d"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/secret_weapon.png",
+      "size": 32657,
+      "sha256": "c3d21c382d9435f78601cc26756d53ab102d1e689cb3d467339a7d6a571faa41"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/the_bomb.png",
+      "size": 34347,
+      "sha256": "0a1122060cc61e64d55f5d2202365bfef4cac6c8540d922c0c748f6219777273"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/thinking_ahead.png",
+      "size": 36748,
+      "sha256": "044e10ed1ad227fe6b65f94a0bd417fc1fbc42e859fc099a6abb7a59366906e2"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/transmutation.png",
+      "size": 52400,
+      "sha256": "9ca2a1fe4139f2d2b579364eea23b4eed1a51f52d10bc2b76220e319aa87ade9"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/trip.png",
+      "size": 40434,
+      "sha256": "e6021cb19082cc190b1ec722b1b58965490396d2e1f9105368df158f4f44f90e"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/violence.png",
+      "size": 35482,
+      "sha256": "f4d05fe255e4265980878be42a743c8c5133b7977f0a56a8793f7beaa86005d9"
+    },
+    {
+      "source": "images/1024Portraits/colorless/skill/wrath.png",
+      "size": 42586,
+      "sha256": "7b31abcd12eab2186ae82359f2baa051147d430d6919c8aee299f9af0ec036d5"
+    },
+    {
+      "source": "images/1024Portraits/curse/ascenders_bane.png",
+      "size": 55153,
+      "sha256": "cf560d9cde34db4a937ee8500d7d20540923eb41ce32739179fe708246999fad"
+    },
+    {
+      "source": "images/1024Portraits/curse/clumsy.png",
+      "size": 33936,
+      "sha256": "a41eaaa6ec3c05d710d92ed2d2e7384a534fed4eeb6d6d5e3f957538cb7a7bed"
+    },
+    {
+      "source": "images/1024Portraits/curse/curse_of_the_bell.png",
+      "size": 46988,
+      "sha256": "196b42db777e97820442180cc50626ecc947f3f88a44bbe7f3d7484d4f6b4840"
+    },
+    {
+      "source": "images/1024Portraits/curse/decay.png",
+      "size": 41181,
+      "sha256": "2f8bf3909e9eb5581e52dea6110ae3219bf0b3706f62c3e8649b4f182f42fd8b"
+    },
+    {
+      "source": "images/1024Portraits/curse/doubt.png",
+      "size": 32861,
+      "sha256": "44efb1aba708a6fcec6863da33c0c3674f3c7448c4e576462d17baec85062532"
+    },
+    {
+      "source": "images/1024Portraits/curse/injury.png",
+      "size": 27630,
+      "sha256": "665f96bb4642ea103924ecb75a54dd42c02fba1791f071fcde30ef444aafa890"
+    },
+    {
+      "source": "images/1024Portraits/curse/necronomicurse.png",
+      "size": 46655,
+      "sha256": "990f476d8ffec863ad7b5fb7ea08965b04d9c55a17d40d20776e3e43abac8e0e"
+    },
+    {
+      "source": "images/1024Portraits/curse/normality.png",
+      "size": 30549,
+      "sha256": "1798588bcac4561c2cefd14541a82fbf223a1ead16e8beec7eb376167e8380d3"
+    },
+    {
+      "source": "images/1024Portraits/curse/pain.png",
+      "size": 26432,
+      "sha256": "49a1b4c6cdd17bc53a21d2f3236dec278266ba29998f551e6e10ea0fa5977100"
+    },
+    {
+      "source": "images/1024Portraits/curse/parasite.png",
+      "size": 32153,
+      "sha256": "4baee55d0ec2050c4a2143bfe4d44896cf4d8c84ef630a1cb296aa84e40b54ba"
+    },
+    {
+      "source": "images/1024Portraits/curse/pride.png",
+      "size": 53432,
+      "sha256": "62652e44bb08ed166e4a7227d480c73da41256b0c20eaad406845fee93a77857"
+    },
+    {
+      "source": "images/1024Portraits/curse/regret.png",
+      "size": 20179,
+      "sha256": "fb54061145daeefd6e1167f92b84228318c5c377fc8bf81663b61dda10368f84"
+    },
+    {
+      "source": "images/1024Portraits/curse/shame.png",
+      "size": 27828,
+      "sha256": "45ac319ec6f638c343e7a8fea13d7dd47af84fcd79fd7c4d059285018219ef93"
+    },
+    {
+      "source": "images/1024Portraits/curse/writhe.png",
+      "size": 29634,
+      "sha256": "fdbe12b4f85184a2a372fb65f854063a6572577db1d31892791d97280d7f6c9c"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/all_out_attack.png",
+      "size": 37139,
+      "sha256": "aa33b6d69089c1a5cd0d27ca3498806c16b7d979fe65d83321f9faa979241c26"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/backstab.png",
+      "size": 28649,
+      "sha256": "0171bdcb02a6ed0a73a82f86255cb19a9c08817d329801ddc3891f57d042b6e8"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/bane.png",
+      "size": 39602,
+      "sha256": "2f9be670402f704836573fa9f676d9b1dd7dbbe48c5ed3bc308c0167fe79c196"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/choke.png",
+      "size": 37936,
+      "sha256": "d6a28a96b8047b3b07bd90f27a4e6387b49a6dbc895be9576289318a8df95a32"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/dagger_spray.png",
+      "size": 41405,
+      "sha256": "6aefd1e9db7b7db0e19d460736bf8f2c8a8d7eeab57f8071994ce0eff863a196"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/dagger_throw.png",
+      "size": 35553,
+      "sha256": "9aa7455cb7f3100d7afc4df0573c29bda7d39acdaf03d63978fb242d19c2339e"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/dash.png",
+      "size": 40135,
+      "sha256": "fe119508064d299c6dca08002097959ebbcaf96f059b17435c8a53a058efdb8f"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/die_die_die.png",
+      "size": 46790,
+      "sha256": "0719f172c72c23b792caccb2ad975bc10a8762b63553efb8f9a784e56c6efbdf"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/endless_agony.png",
+      "size": 35277,
+      "sha256": "6909fe42ff72845ff4fd5448e2f6a6ef623f5904f3fa711d682f6d5e7482357d"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/eviscerate.png",
+      "size": 37896,
+      "sha256": "6b50cf662d5b9e0d26caa7b5acf8e0f85f181d81f8cec601dc43198f58b98427"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/finisher.png",
+      "size": 40207,
+      "sha256": "83aa1813a4b9bbb464ad806a809f25cd4166c5dbba098027ad2a78fb5daa952e"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/flechettes.png",
+      "size": 32282,
+      "sha256": "f7b1f77e85340613099ee44b4874642b84439381fb1dbd4c8ae79c711067289b"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/flying_knee.png",
+      "size": 33058,
+      "sha256": "fb827643ff28931321573d540a5f81e9d938a8494e9900e31928060f449218e2"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/glass_knife.png",
+      "size": 34901,
+      "sha256": "eb041e61cf8c85d7faaf8ebcd95dd9c702128a3c013809f1d284a41495cb5de5"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/grand_finale.png",
+      "size": 46976,
+      "sha256": "83e34c7dd51311c4a2d346eb38403aef28661c2ebb1fbae8d238077924e01df0"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/heel_hook.png",
+      "size": 38319,
+      "sha256": "bbf24491d0a9f0dd7aa53d3e8ff1e96ba326cb0bff59240ae2c1f5771cb53afa"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/masterful_stab.png",
+      "size": 39810,
+      "sha256": "87828ecf0d694c1df4cbdee2270adbc5824aef8be431a1929126fa8558b8b096"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/neutralize.png",
+      "size": 28221,
+      "sha256": "126cc81a64a8b85fc8da8bf0abed4e1bfcb1557d5d0452cf9c7172cc201bb16a"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/poisoned_stab.png",
+      "size": 36739,
+      "sha256": "57ec8098710c0774d55524bd6c5089efc6b4ea33ff6559ffaf95c019b1ee3e5d"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/predator.png",
+      "size": 36767,
+      "sha256": "b18748695c8fec17861f0443ddbcbe70b18d0f667899b501d88bdc23d68a8314"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/quick_slash.png",
+      "size": 32486,
+      "sha256": "65782b42352536833a4c0fde98b32c04510bec677a4f504028f391235ee841e2"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/riddle_with_holes.png",
+      "size": 41039,
+      "sha256": "73b5006ec6d7d2fd28c812c6318c91e361c9d083b3b433510a6cbb5acefe8f41"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/skewer.png",
+      "size": 41294,
+      "sha256": "9e36bcfee87c2f1cfee9cbe44619901796230a40cc8d914f7bba43c4c259aa48"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/slice.png",
+      "size": 20321,
+      "sha256": "38a010b9e4c506a62e09a7b2720d14bf86b36ded39ec9dd455da28d9d927120a"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/sneaky_strike.png",
+      "size": 40951,
+      "sha256": "cefb94d86eaee84d7c3bb4c5a9956fd1b23f41856c64ace8f4578a3c34d9fea9"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/strike.png",
+      "size": 29173,
+      "sha256": "20f8cae28908e26fbb3a5b1fe8ce4a489c8a1c7b7acb475f718195bfffe3f6d1"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/sucker_punch.png",
+      "size": 32521,
+      "sha256": "0431c36e606c70aa59695e2e3ab9695e0de62416e49d56911a557d239cd16c0f"
+    },
+    {
+      "source": "images/1024Portraits/green/attack/unload.png",
+      "size": 46019,
+      "sha256": "05daf577118855cc51b89aa5a750433c5cd5aff27d58c4952cc6a6bb1d53b353"
+    },
+    {
+      "source": "images/1024Portraits/green/power/a_thousand_cuts.png",
+      "size": 43637,
+      "sha256": "732df94bd266eb76d7cd597daeffbce36cc6a6866bd970ac8090ba438c8b8f29"
+    },
+    {
+      "source": "images/1024Portraits/green/power/accuracy.png",
+      "size": 39733,
+      "sha256": "1f103a2552cbfe2f5adfed5864b0d65fd78164d57dba09ca2db4963b6ec24f79"
+    },
+    {
+      "source": "images/1024Portraits/green/power/after_image.png",
+      "size": 32980,
+      "sha256": "c15cc518138f2d728e39a85f5bc72489df0647229a71061e36e005f3182a7748"
+    },
+    {
+      "source": "images/1024Portraits/green/power/caltrops.png",
+      "size": 25788,
+      "sha256": "130312f739a6f484f6e9f1549777b3d31608bf7acbfa88ee8bb19050d41412b1"
+    },
+    {
+      "source": "images/1024Portraits/green/power/envenom.png",
+      "size": 28632,
+      "sha256": "d046749b7846d2a6300de4fd66f70d3d534c726bc73c6dfe8c01f5e616dc7bc8"
+    },
+    {
+      "source": "images/1024Portraits/green/power/footwork.png",
+      "size": 30582,
+      "sha256": "002fa4c44421eaee5fab67cc5a41b431bca23dd9d99c53d1431b13a918b1a124"
+    },
+    {
+      "source": "images/1024Portraits/green/power/infinite_blades.png",
+      "size": 37034,
+      "sha256": "4fb7ecd99a32e1d605779b7067b5a81d389a95d4e5dec1772d6d38a5d619071a"
+    },
+    {
+      "source": "images/1024Portraits/green/power/noxious_fumes.png",
+      "size": 31980,
+      "sha256": "1e87563444186eaab432200953833ad2cbda6864d5c381be6a850c47f0b26ea9"
+    },
+    {
+      "source": "images/1024Portraits/green/power/tools_of_the_trade.png",
+      "size": 40625,
+      "sha256": "c339fd8ae780b80947f99e1f189cebe8f09ea6bf1926f8c681dbd8bb088a5f43"
+    },
+    {
+      "source": "images/1024Portraits/green/power/well_laid_plans.png",
+      "size": 34630,
+      "sha256": "c070a0c1592e50e55c364c35bb3d7d9a37ae8db8cee34c2e69a8d2d9cc79ac01"
+    },
+    {
+      "source": "images/1024Portraits/green/power/wraith_form.png",
+      "size": 31413,
+      "sha256": "788f468da199b070dfaed863ae10fdc7a3a6fd11cb7f319cfb13439d9a7341d7"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/acrobatics.png",
+      "size": 41904,
+      "sha256": "2c264542ec20d0fab92cedec317613bf7b8fdbb7c8ff3297c826b68d93050eba"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/adrenaline.png",
+      "size": 31418,
+      "sha256": "6e3ac442f1deed4bd247bdfccaa8a46886e721ff50fa524e04936aa605e84ed6"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/alchemize.png",
+      "size": 47265,
+      "sha256": "20ded334230324d9eb9560c494ce2f5d3b47588d816e97395bbfe48920d5ff37"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/backflip.png",
+      "size": 23261,
+      "sha256": "caecb8bc38043471377d49c31f911370e8999a372e37aacaf581ad862ed3fdbb"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/blade_dance.png",
+      "size": 46449,
+      "sha256": "87e95b2ad4627e183601e51873863d11ce7302b130d6c13cbe4cf20cee1e041e"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/blur.png",
+      "size": 33866,
+      "sha256": "e4ec3e6a231b241ccc45fc1013ddbcf22d6c77fd36ccd14358fbaa70dd8e9aec"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/bouncing_flask.png",
+      "size": 35694,
+      "sha256": "3604672343eefb05f933ee8450ba140d1a8d7ff67ed23d34eea55b3521b3f2a2"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/bullet_time.png",
+      "size": 49048,
+      "sha256": "ea97dab488c7d6d0acdeb02fbf8d7cf37e6e68a9f2aea8b218696dbe29512088"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/burst.png",
+      "size": 34178,
+      "sha256": "b55314338f1d0dcebba8a4b26e98b81d8587e81efc00badf7ff0a63ea19b962e"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/calculated_gamble.png",
+      "size": 24917,
+      "sha256": "a4eac043f842fba65e50258c8ce47d1f0e74260304ed31a589a76076bc4982ba"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/catalyst.png",
+      "size": 40275,
+      "sha256": "a9cc982fe5de59a64aa35575b6daa2ab5d53db2ca9ffe2da019b7daa6b11cdea"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/cloak_and_dagger.png",
+      "size": 20145,
+      "sha256": "39fd42d2666138ae1a4dec0ce5a6c357c5069af05432845e6206228cd4a6c723"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/concentrate.png",
+      "size": 44038,
+      "sha256": "cb92d9657b968fb0af0a79150f06c723686731e248b70fdeebe6cd05881425ea"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/corpse_explosion.png",
+      "size": 48298,
+      "sha256": "513aa2a22f51ccad4b85b95a961fcf56e922839510e103b809408f566424ecd6"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/crippling_poison.png",
+      "size": 32161,
+      "sha256": "c99ed5af78409dcc6c9de15b28845fedd6d1b85a86eceb26a7c0262ed0bea83e"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/deadly_poison.png",
+      "size": 32609,
+      "sha256": "56b50597a663d2462a86da1f9d43a083eceecf566172bc02924054a900fb0c88"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/defend.png",
+      "size": 39454,
+      "sha256": "915f3cfe5a63f09570faeb9191fcd343c70ddf41317b7abfbc8a48e0453b9ad4"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/deflect.png",
+      "size": 44480,
+      "sha256": "6fc712755c0d323c629f5ed06caaa4f50e663b648a12e6ce1ef0abdc17f5ba1b"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/distraction.png",
+      "size": 44156,
+      "sha256": "9e57544414a18fab60813e14db48015452f1ab02cb8a41fe95f2a3b590e0a125"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/dodge_and_roll.png",
+      "size": 42229,
+      "sha256": "38c794205db86d440e998173c6ea3500dd6bbdf2e1359f58b5b9b2883eb0a896"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/doppelganger.png",
+      "size": 52616,
+      "sha256": "7bcd683b0a1e6cf3c0fc5641dead314218ad4f37b3947f7f9dd3ca2657172036"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/escape_plan.png",
+      "size": 31239,
+      "sha256": "b41604d92ef20652e1009edd97ed6caf3caea271c2a9b42ac0fa76acb33bb473"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/expertise.png",
+      "size": 32487,
+      "sha256": "6bdebdf8124182a787d669c76d33e70c88e673304b1cd5245e592da67fe868b6"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/leg_sweep.png",
+      "size": 30723,
+      "sha256": "1b0e010f94526f1448d744d13124cd554ca4f07a32d751b8104f48d9a56029fe"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/malaise.png",
+      "size": 42938,
+      "sha256": "d9dbb06e8b8b30887ef5cab00971e5ac2b661f156e30a9494e49bf7f7dc57f4e"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/nightmare.png",
+      "size": 31570,
+      "sha256": "1cccdac23b4916bf1df220375e8088d4a23280516ec9a2dedc1c61ab6407dd0a"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/outmaneuver.png",
+      "size": 41057,
+      "sha256": "fc98461611f635339cf3387694572fa99c7f4f5ff2a869c3b4f54789c68b30a3"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/phantasmal_killer.png",
+      "size": 35364,
+      "sha256": "a0f7c5b111056be1d6806ed30bbdd3268c9209aab2c9fd66e4f51c48825be05d"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/piercing_wail.png",
+      "size": 32034,
+      "sha256": "f0ccb1952ad1c7a4b20ed83a54e408096eb47778a9b26e44e6ecc2e7d407160a"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/prepared.png",
+      "size": 44756,
+      "sha256": "9be37014410cf09ed1692ae3de32211d00c04e6f584589a238c102bf4bfa8405"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/reflex.png",
+      "size": 35357,
+      "sha256": "f8f260b165d7624dd105c77d78581e3f951113227e37f3d505f711ef48b3d9ca"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/setup.png",
+      "size": 44620,
+      "sha256": "9eafb3f21d9b913a576a8a3e1537bec969954df4a960bce73968e4b10111f6fe"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/storm_of_steel.png",
+      "size": 42723,
+      "sha256": "ed37f0a04ca38984b5b2b71796aa2ed46b938d09df62d3ba1e585ba0a4550bca"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/survivor.png",
+      "size": 40454,
+      "sha256": "b7296d1ad354f7e547cebf4dec395f9369043cac70c5deed0d5e8e6d457d5377"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/tactician.png",
+      "size": 29866,
+      "sha256": "1dc8d4a48f7a8b753c618e42b13135a65cf78f24d8d5e85b9ae8a2532875f77b"
+    },
+    {
+      "source": "images/1024Portraits/green/skill/terror.png",
+      "size": 20119,
+      "sha256": "9933f53a61ee84fbfad2f2435b6684f95c3b0d6f28b1483c48a861940a14ecaf"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/anger.png",
+      "size": 34657,
+      "sha256": "cbecf13b2610a11a355f6ea24545174844a0b0f25bdf78742b235d844c90e0c6"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/bash.png",
+      "size": 34436,
+      "sha256": "1415c117d281af8ada5cbd67b43b68c16035c1495af12018cda2adccf997018d"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/blood_for_blood.png",
+      "size": 30526,
+      "sha256": "bc0251ce5d0cf1fa6bf8788870a1e031453dae7e2beae0012304403ef647bcb3"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/bludgeon.png",
+      "size": 43764,
+      "sha256": "cf138dff579db3eda8a8b4fed632dc5a0398545b7142b42bcd1e3c0451982699"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/body_slam.png",
+      "size": 41094,
+      "sha256": "12eb2c251bd0793a9ed70f7fb4b1f92c82b220e2e2a55b67e3de03708a3de178"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/carnage.png",
+      "size": 47161,
+      "sha256": "1d8d8c84d32e02166f1b53ad1effa2090df21044c201d929ea4975e57350e902"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/clash.png",
+      "size": 34370,
+      "sha256": "eba2cf6501c1239c80477463b277fa362dd7a0c3c29e389952416f0942f87f85"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/cleave.png",
+      "size": 33345,
+      "sha256": "f1bc873bd9c8e03cbb9d14ddb36d4afd9dddca00f9e822e7eeab9fe9bd550dd7"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/clothesline.png",
+      "size": 32099,
+      "sha256": "df3c9551683d64d75f3a598853dc98b3399889b6b9600e19fd63a095a7b25172"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/drop_kick.png",
+      "size": 34694,
+      "sha256": "7bd566580ae83d8b140d9508bacf4c6c60b58268bf397d6200a1a4cb0d558cee"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/feed.png",
+      "size": 52166,
+      "sha256": "275b606448ee00b611cea626387888203c3c211a8497801798375d62bb238b22"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/fiend_fire.png",
+      "size": 23530,
+      "sha256": "792f8b19e886a02f7657e9bd0d574e1d80b995369ac130fce4466c7fc39418b9"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/headbutt.png",
+      "size": 44806,
+      "sha256": "cb5ff2dd4a0569660fa9adb5e726cc87fe405b8cffb2a9ca1bf4c70876a8f913"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/heavy_blade.png",
+      "size": 32619,
+      "sha256": "689b321f0166fec64c9b849dc22733d7be095f55c2a248eade355b1ba40b1603"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/hemokinesis.png",
+      "size": 42579,
+      "sha256": "8c29c1094799cafcfc1b3371e9ddcb9a29296a75f8cb8e8716f0730012d7061b"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/immolate.png",
+      "size": 45934,
+      "sha256": "d480c3150fdb9b3c13f8fac39a7004419c3a85124573954e14953f0cde5d85da"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/iron_wave.png",
+      "size": 34116,
+      "sha256": "a38d33f6837480f9d68e527222830a0e62e1e67d031e7c7d3383122420fd08b8"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/perfected_strike.png",
+      "size": 36041,
+      "sha256": "3cd7408bc05680b1b397772637135a49251ed4cd983feaefd58046bb2820eea1"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/pommel_strike.png",
+      "size": 28328,
+      "sha256": "1d8348412804a6e7bb2f075258b80352a0fe0ca1b19a8751bad7c7f8477c4093"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/pummel.png",
+      "size": 37299,
+      "sha256": "f8fc4c2caec5d3fa22b45e801b26dc2bc617a6b1cd82ac370927c397055e668b"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/rampage.png",
+      "size": 33582,
+      "sha256": "47a12f66234d71c602f2b2a9c16053194d648b4a6b8154a63ae441373d597545"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/reaper.png",
+      "size": 48052,
+      "sha256": "d2a67ef4a6fa4ba2a34f6338939ebed9e76a73c565347e40925f201d1770d939"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/reckless_charge.png",
+      "size": 24848,
+      "sha256": "7ce1f2bab92d4a15e31010d9687c881e9cdd8f1ecdb428c296dc0ef4b01c0596"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/searing_blow.png",
+      "size": 42228,
+      "sha256": "d2663d3a28dbf28055f2f57209712c31d55ff936a8ab1b4444d3d994ae3adb72"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/sever_soul.png",
+      "size": 35016,
+      "sha256": "4dcc5f582b8790c221ae631fe11bf5354fa57b2dc3332cd12160fcad3c0ff82b"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/strike.png",
+      "size": 30107,
+      "sha256": "fe00a3ed858ab3db308768823c223fe673ba5d34caa9bc5803577c37633d1de3"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/sword_boomerang.png",
+      "size": 34147,
+      "sha256": "62d414cf4a17d2db0040f7504d0166aa3cbfe5ded3b4c6ca938d34ee48f7b35e"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/thunder_clap.png",
+      "size": 41843,
+      "sha256": "90e885cd82b34b945361cb94b149338388573c097e3e588a41f26b49816df505"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/twin_strike.png",
+      "size": 32798,
+      "sha256": "9e7d04269fcf1941e33e9807e869b65a1961e70ff827c137d2b50c121c63a7e7"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/uppercut.png",
+      "size": 37014,
+      "sha256": "e0652c5a04d3fd59d168b77fd17795426a80df8b9a679ba5b35400c130197d1c"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/whirlwind.png",
+      "size": 35206,
+      "sha256": "c08f94129858758935577731f181f58047ceb80030b3281fe915822b69f79a70"
+    },
+    {
+      "source": "images/1024Portraits/red/attack/wild_strike.png",
+      "size": 35523,
+      "sha256": "856e3f0d52a47fb27a61f7ae0486d8a9058e19c064dbf87b989d343287dbaf06"
+    },
+    {
+      "source": "images/1024Portraits/red/power/barricade.png",
+      "size": 55665,
+      "sha256": "242dcf0f19e822692ca18e0f8a709ce7d2801f03b42c793f0dc77d786da6dd3b"
+    },
+    {
+      "source": "images/1024Portraits/red/power/berserk.png",
+      "size": 28279,
+      "sha256": "f9b564ba5482a474338f75c85794d4a15efae0598973fd83c8c960005fc1bde4"
+    },
+    {
+      "source": "images/1024Portraits/red/power/brutality.png",
+      "size": 29786,
+      "sha256": "45d950a1359cec453dabf78054d446b5a6d0e2ea73afb85502ff830f4b1eba89"
+    },
+    {
+      "source": "images/1024Portraits/red/power/combust.png",
+      "size": 41904,
+      "sha256": "32592270d34083320b1a2a7b3ba972abeafb5f435626e6cabdfbf5c372663e2d"
+    },
+    {
+      "source": "images/1024Portraits/red/power/corruption.png",
+      "size": 39140,
+      "sha256": "3f73d2c4264c146899e8c695c18a4122ebc2e0d1442d089e1c866444a12c2096"
+    },
+    {
+      "source": "images/1024Portraits/red/power/dark_embrace.png",
+      "size": 22180,
+      "sha256": "f8b57414ce6e23dd788a21ac66caac846e43cd3a25ab2fedea7fd0d831fabd93"
+    },
+    {
+      "source": "images/1024Portraits/red/power/demon_form.png",
+      "size": 42536,
+      "sha256": "ce84b1331c17dc519a637d574e7a3b4ce515836f3a9199f9bec6ab5bb8702100"
+    },
+    {
+      "source": "images/1024Portraits/red/power/evolve.png",
+      "size": 29097,
+      "sha256": "78d87198c787937648dea850d8c8ebd20f62423caa7219c085996b110e918cf3"
+    },
+    {
+      "source": "images/1024Portraits/red/power/feel_no_pain.png",
+      "size": 43808,
+      "sha256": "3cbab8d3817d27f10be1af77c23089aa680818ed6a9500e478506a9e9c1888a6"
+    },
+    {
+      "source": "images/1024Portraits/red/power/fire_breathing.png",
+      "size": 29945,
+      "sha256": "3f7d22a0edba7e1e865ff9360af79eaa640787a94fd18f09ad83fae7692c9511"
+    },
+    {
+      "source": "images/1024Portraits/red/power/inflame.png",
+      "size": 34010,
+      "sha256": "159157a2c53f24351e830fe28e8ec09a4cbbb729785a04e7fbf0c5ef75fb4210"
+    },
+    {
+      "source": "images/1024Portraits/red/power/juggernaut.png",
+      "size": 37247,
+      "sha256": "46c056d53f4e15bb6c846819f54e49a05e8066c5dd402c47ec636a79cea552d0"
+    },
+    {
+      "source": "images/1024Portraits/red/power/metallicize.png",
+      "size": 44758,
+      "sha256": "2af147007f8cf69194347d3d59948d6aa90212f8b5b925748dceb2e716f4d5b2"
+    },
+    {
+      "source": "images/1024Portraits/red/power/rupture.png",
+      "size": 32280,
+      "sha256": "b0e794c900b2cfc135a6cc6e488134e6cd2b026e3e4774e3dc6df7a9537fc856"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/armaments.png",
+      "size": 32320,
+      "sha256": "e19d9f43a256ed7f08ab19295da5e46fcf68270b7a7f9057a8f8a07ed7f461d8"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/battle_trance.png",
+      "size": 40809,
+      "sha256": "753594097b258be545e6b721faf09448c93a772f41732e68d838835e77295501"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/bloodletting.png",
+      "size": 32223,
+      "sha256": "cfee1cf6e1710eccf49d4b0aec432fa06821abbb69e1184c7fc3babdeee0b85c"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/burning_pact.png",
+      "size": 36983,
+      "sha256": "8db769f445357252eefe229e830911626bf390ede8637a77933b25ede770029d"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/clothesline.png",
+      "size": 32281,
+      "sha256": "610f7c276c25fe895e9175588432550ab7d1b9a307ce85f228e1a3a3baefee01"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/defend.png",
+      "size": 39172,
+      "sha256": "f6619e5f2aed28aba9b76d537019afc657fedc90436a85467461bebdcb08acf9"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/disarm.png",
+      "size": 43912,
+      "sha256": "2a3fe520c4fd1be725ac8a00b640b81e2d4c15b9aed73b25077f5f6205e8fedf"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/double_tap.png",
+      "size": 25192,
+      "sha256": "707bd965bbcb077c79b87854fb7874886ea8743eaa29d24c7abd718099025c05"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/dual_wield.png",
+      "size": 34590,
+      "sha256": "71a9accf9c57f635a36bd9af98f861212b3aa4db43fd1ff4b58aaf0aadf45c85"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/entrench.png",
+      "size": 31464,
+      "sha256": "bda8d342d80fe46dec17cf1f0ab9f77a3e8d83bd063aef6a5bbeb2929f6bb22d"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/exhume.png",
+      "size": 36196,
+      "sha256": "7fe80923a6cb4006ced9a77691b0a0489ec6f6d1398ba17dfe2ba8e8aa933b04"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/flame_barrier.png",
+      "size": 38473,
+      "sha256": "bf4770362c4c4a914dd712a82fb7ec7324df9b5464d7b32f1bc41512e95a1c0d"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/flex.png",
+      "size": 36482,
+      "sha256": "b90f7d9f6af87a11fd7c02677901dea801930ed7cad060d007f4f9bb26c996a7"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/ghostly_armor.png",
+      "size": 50275,
+      "sha256": "f2f7a86e7819d6bc586aa814910f4754cdc462bbe50340da8821f5db5de3c66f"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/havoc.png",
+      "size": 39231,
+      "sha256": "b29329e48541a682669bb455c2453eaf4811603a01d017f7153c1cf8185ef22f"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/impervious.png",
+      "size": 43549,
+      "sha256": "263da372616e16d66a3cd25defdc4221ced00042a9c586709a6440a2b9481b80"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/infernal_blade.png",
+      "size": 35921,
+      "sha256": "753aca63d380b83686fa6e79ae572ffb1d80f6eceb3a2e954b4d6d1dd19b153b"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/intimidate.png",
+      "size": 26177,
+      "sha256": "b9405f0c12bc28dc5ca3b7b5698ca233daf320b15028737f80118356682a862d"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/limit_break.png",
+      "size": 35178,
+      "sha256": "70878d879e327ba4491fa5a225a1cd4be412df19484470ee7c0e963ea9b6df7f"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/offering.png",
+      "size": 41475,
+      "sha256": "f7ab5d3fd3e11596ff9006161809fdfd910410049ea1b3759c8e3d0533fc9525"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/power_through.png",
+      "size": 39749,
+      "sha256": "b6bd253d63256d6d7b28bd8924f5d7dd3265c102aa338cb23be8274619297c74"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/rage.png",
+      "size": 37044,
+      "sha256": "b62cc5e89dd3735597d86eebda1c88c22dbb8b057d521982800efb6012b225e4"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/second_wind.png",
+      "size": 34586,
+      "sha256": "61353784b27344b90a3ee3782c6abf19f6b222855cd882ac191c3a85fb392175"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/seeing_red.png",
+      "size": 26328,
+      "sha256": "61d468adda6877f10b610c144f959ef3be38301c9c1a53879de84902267bb9c1"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/sentinel.png",
+      "size": 46715,
+      "sha256": "d5140b4014ab2cb7cbc14f9ae6bf144f155668dce0259a6651d690289c41d225"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/shockwave.png",
+      "size": 44798,
+      "sha256": "3f09f1de41bc7db6c4742ea8aa303034e55be1d9b0f1d1a9c12981e7ee61d8b0"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/shrug_it_off.png",
+      "size": 31924,
+      "sha256": "8fcd90ac581beb3f4366c3c92b1a7e868082ebb21b8d15fb72243f401121733f"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/spot_weakness.png",
+      "size": 36284,
+      "sha256": "66ca99ba657e0c7e1ae5af7a5816c9d556e2ac0b0a1e5c763cad83c8a07b6c04"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/true_grit.png",
+      "size": 40369,
+      "sha256": "ee3b3e6dbdb8c206354f332f81032ed1f0c2e35df66c5c26b297a497af730474"
+    },
+    {
+      "source": "images/1024Portraits/red/skill/warcry.png",
+      "size": 34526,
+      "sha256": "65eb8784c1f1502befd45d09c4b741d351efced4389a446e9c3a68e61fd21f13"
+    },
+    {
+      "source": "images/events/addict.jpg",
+      "size": 60365,
+      "sha256": "3300a801ac7be6a33018b4b8d70c552c4784d7e8693020d3158645611fab34ef"
+    },
+    {
+      "source": "images/events/backToBasics.jpg",
+      "size": 54328,
+      "sha256": "6b8c0b95a9698baf7da5c89865ff3b1e465216108150f7315b6e05cde7550367"
+    },
+    {
+      "source": "images/events/ballAndCup.jpg",
+      "size": 57155,
+      "sha256": "7a204010540634e6847f62b8313f915540bbaca5025127ccde63dd5d460c345f"
+    },
+    {
+      "source": "images/events/beggar.jpg",
+      "size": 60764,
+      "sha256": "670ce8955a20cd5388303badb021f6a79d3a0d562a30664c3ef6429d4572376a"
+    },
+    {
+      "source": "images/events/bgShrooms.png",
+      "size": 12019,
+      "sha256": "c402f2a21da4698fd1232aa7abede56fe2323e0324194ad6f2378c9201924202"
+    },
+    {
+      "source": "images/events/blacksmith.jpg",
+      "size": 66253,
+      "sha256": "c8a79c6c9f0e0738e0b2d80707bc4272851c2ec8d6b4adaa92c6bf065900ac0f"
+    },
+    {
+      "source": "images/events/bonfire.jpg",
+      "size": 81126,
+      "sha256": "1d1d635a0ec3e3cadff3c9aeb28b911c492513baae5939179c84cd4fd27ef8eb"
+    },
+    {
+      "source": "images/events/cleric.jpg",
+      "size": 93265,
+      "sha256": "4feb00ef01965be5e668c5d8dcd5618d4a3690437529a8738789161e61dd8ffa"
+    },
+    {
+      "source": "images/events/colosseum.jpg",
+      "size": 84274,
+      "sha256": "c8ce35d4a0c56bb32d74181fdab09cc344931c6c9d89fe27e974dcf598b9db0d"
+    },
+    {
+      "source": "images/events/cursedTome.jpg",
+      "size": 99051,
+      "sha256": "fdc641d292d911ddd3f3c9c06153ffd174adc7ade6eb9cbdc79e093a08efa179"
+    },
+    {
+      "source": "images/events/designer2.jpg",
+      "size": 71520,
+      "sha256": "4390a0c46959dd2fd718cdef7d2583715d66634d72de36c535500a2dd4d1d172"
+    },
+    {
+      "source": "images/events/designerPunched2.jpg",
+      "size": 66614,
+      "sha256": "7031105f21b710efca3c5ec1ec60ada6894296a60e9ed2902d62c27234831a27"
+    },
+    {
+      "source": "images/events/drugDealer.jpg",
+      "size": 67592,
+      "sha256": "7aec0a69ecd9ad26193e53218b86044faf1e02e6f5e79bfea6abd72d9753ac75"
+    },
+    {
+      "source": "images/events/facelessTrader.jpg",
+      "size": 84893,
+      "sha256": "3f1dcff7c2d209dcaf2bbfa25c015c691b4c05df52676f30925022034d26a00c"
+    },
+    {
+      "source": "images/events/falling.jpg",
+      "size": 58218,
+      "sha256": "aab2493327549df8afba762d97bb23730fe118b0952494ec78b40cdd2be45839"
+    },
+    {
+      "source": "images/events/fgShrooms.png",
+      "size": 12820,
+      "sha256": "77e2a6fee7284a47104c301d4d9768744c75333cb2593d40f1d2801be3caad8b"
+    },
+    {
+      "source": "images/events/fishing.jpg",
+      "size": 54944,
+      "sha256": "fa770c10656b806651c4e151ba70a466194e3e5e14165db716b84728b603e4e2"
+    },
+    {
+      "source": "images/events/forgottenAltar.jpg",
+      "size": 100858,
+      "sha256": "14a40491409ed20753edacd02ec21d2082f0c91934d0fb01821801ed62ec5346"
+    },
+    {
+      "source": "images/events/fountain.jpg",
+      "size": 55570,
+      "sha256": "06420e79112e3a044a1462929705afc38377fbce1d409453b94fbc1272a6d7ce"
+    },
+    {
+      "source": "images/events/ghost.jpg",
+      "size": 45218,
+      "sha256": "88737a44e3b6d0a01025b803f6475a40c87755713df4c7e15461968a8a8551de"
+    },
+    {
+      "source": "images/events/goldenIdol.jpg",
+      "size": 75624,
+      "sha256": "fffb7db290681d9fbaa64f1ce6843a1d266e04a33fb51900df8eccb2a9db2f7d"
+    },
+    {
+      "source": "images/events/goldenWing.jpg",
+      "size": 75072,
+      "sha256": "0bbefb94929a46efcffe1fadd3f634b4ce5cd7515584419c19d3051e8921611d"
+    },
+    {
+      "source": "images/events/goldShrine.jpg",
+      "size": 91127,
+      "sha256": "ad31c9d09910d8c860ec35b8d73c689e292c8fdb5dd9a858b757fe89daa4e696"
+    },
+    {
+      "source": "images/events/goopPuddle.jpg",
+      "size": 53162,
+      "sha256": "16446ecf372e019c2d53d3be482091ad9180d94db3654ab3cc40fa8ac8414d71"
+    },
+    {
+      "source": "images/events/joust.jpg",
+      "size": 54119,
+      "sha256": "e2740d1baeaf0446f0c12834e9a8e1c89461b2fb2c89568dd9e858ae074daff6"
+    },
+    {
+      "source": "images/events/knowingSkull.jpg",
+      "size": 84064,
+      "sha256": "9cc00defa16309ac5e9b401532c61227a5594617f37e9f9724d9ba4eb9e56145"
+    },
+    {
+      "source": "images/events/lab.jpg",
+      "size": 96714,
+      "sha256": "132358b1f7477256130e8e91446143c886ec7a725153db682ef8fe1940e3b14d"
+    },
+    {
+      "source": "images/events/ladyInBlue.jpg",
+      "size": 73502,
+      "sha256": "43795c21bd83b2651b7569af939dcaf153456b244641832b143655a8ebc18ea9"
+    },
+    {
+      "source": "images/events/liarsGame.jpg",
+      "size": 64263,
+      "sha256": "e2d2e7d7cd1ac69bec21e5e1c2891091a4e0a6d938851d6424623e92cc279bbd"
+    },
+    {
+      "source": "images/events/library.jpg",
+      "size": 84936,
+      "sha256": "1a86dcd30620c3c33ee554014d280ed234cb57b72ab50eb92123451bb9f8dc47"
+    },
+    {
+      "source": "images/events/livingWall.jpg",
+      "size": 46305,
+      "sha256": "b5576d6a57063b7aeb3280081af6acfd49b0c90acd12ec5da5bd5a4e7ef66c27"
+    },
+    {
+      "source": "images/events/matchAndKeep.jpg",
+      "size": 71077,
+      "sha256": "68ef6e130bf36ecf7227a42d1527aa097f6cb81e6773f16ca9c32e0698cbdd43"
+    },
+    {
+      "source": "images/events/mausoleum.jpg",
+      "size": 66818,
+      "sha256": "a211948aacfa875be995cd641c58916532f97197e10a3ae8803c2e05eee02dd8"
+    },
+    {
+      "source": "images/events/mindBloom.jpg",
+      "size": 117369,
+      "sha256": "fc3c3386fbc02207aec99d5abbde4ecbbe4a56f99ebca15aa5dd0ca1a71ec952"
+    },
+    {
+      "source": "images/events/moaiHead.jpg",
+      "size": 60501,
+      "sha256": "158105ea9f7582d8c4b03125e55d5f068979140ca4718b6c69c82c84bfbb163a"
+    },
+    {
+      "source": "images/events/nloth.jpg",
+      "size": 65257,
+      "sha256": "63f4f1c47e4fa6fb33b7be932105456e56ef16adc92426f2d4f67d520ff9833d"
+    },
+    {
+      "source": "images/events/redMaskTomb.jpg",
+      "size": 67540,
+      "sha256": "02a793f294c0a8c1f22d7afa460ebf2d3447baad07dafc6ebe4a94738434d451"
+    },
+    {
+      "source": "images/events/scrapOoze.jpg",
+      "size": 84235,
+      "sha256": "da5ffab740eb2411345ba97697a9254130e668c9c228b78a235efc280556e631"
+    },
+    {
+      "source": "images/events/secretPortal.jpg",
+      "size": 92400,
+      "sha256": "ef17b75a58deac18b15b24c1a2c6b373c9aafce32fbea2ca50aa78cdaa34276e"
+    },
+    {
+      "source": "images/events/selfNote.jpg",
+      "size": 39515,
+      "sha256": "c64badf09eba8d9ff6f3ce565857aec714c47510d794b9387c04162fa1cbaa30"
+    },
+    {
+      "source": "images/events/sensoryStone.jpg",
+      "size": 69430,
+      "sha256": "ed25185a3fd2484d5538e6d21a4929d647cb7b8c5a563ed56a4adb55931911de"
+    },
+    {
+      "source": "images/events/shiningLight.jpg",
+      "size": 87875,
+      "sha256": "45b40e62538cfa297667293c1a4864914f6c39b9dde349323c5089924f7ba69b"
+    },
+    {
+      "source": "images/events/shrine1.jpg",
+      "size": 72838,
+      "sha256": "580f6bda461927eee72e7c9fd301402287690e7e1b4d75a8c5bfab3a507ef497"
+    },
+    {
+      "source": "images/events/shrine2.jpg",
+      "size": 63479,
+      "sha256": "4a88a8bf9e119fa262e87623ef2a514abbd61e9281d9f1a1fcbc45f907ec64bf"
+    },
+    {
+      "source": "images/events/shrine3.jpg",
+      "size": 78846,
+      "sha256": "a2b1664c3d8cec530065fde527e7f2eaa947b8a9789d20330f0f846dd290bba7"
+    },
+    {
+      "source": "images/events/shrine4.jpg",
+      "size": 74680,
+      "sha256": "42087b07eb14009ba04de5095430423e8d2b04e518e000b431bf400034d4dc38"
+    },
+    {
+      "source": "images/events/sphereClosed.png",
+      "size": 17090,
+      "sha256": "9d86bf94bb5897e0ab4f78e75d43e3250d2f68d3a75e78a2c3c5d046ace11962"
+    },
+    {
+      "source": "images/events/sphereOpen.png",
+      "size": 19559,
+      "sha256": "856272709490a657707860620ed2447725c0360d6f779b45337d542c56e0d517"
+    },
+    {
+      "source": "images/events/spinButton.png",
+      "size": 15599,
+      "sha256": "ca9503327cad9c893c5f64baf5257fa718b35b691b5520532ba0297b5df75aed"
+    },
+    {
+      "source": "images/events/spinTheWheel.jpg",
+      "size": 59794,
+      "sha256": "569d7ae0a30734e10d820b661dbddc757cb953720492349727ebf173dc5aa1d4"
+    },
+    {
+      "source": "images/events/theNest.jpg",
+      "size": 61960,
+      "sha256": "d02b406cb560d32fa3d37774eae1073bd0b66554415d9c4bd6698a5903e0ce53"
+    },
+    {
+      "source": "images/events/vampires.jpg",
+      "size": 65868,
+      "sha256": "869b550bf0abf055d6ec75f27ffe9b6178275cf342295e6f2a18eae0516c4a6d"
+    },
+    {
+      "source": "images/events/weMeetAgain.jpg",
+      "size": 52496,
+      "sha256": "26b7bac9ee04b98f78d0c7c12d2e27ba9a19b615bfe46a1778d4face882cc63a"
+    },
+    {
+      "source": "images/events/wheel.png",
+      "size": 118783,
+      "sha256": "9bf60e7551a0f0bec01fe6c77a087511684994b8129b83e397e54417e7e8582d"
+    },
+    {
+      "source": "images/events/wheelArrow.png",
+      "size": 13061,
+      "sha256": "55cfa05deefe7be50eb44081971bd5416cf0cda455112121214fcc3dff4d1749"
+    },
+    {
+      "source": "images/events/winding.jpg",
+      "size": 90120,
+      "sha256": "087a9bfe3e56023ee2013dfe771da892fc3d2aa86b1822b94c2f95db0c7c2291"
+    },
+    {
+      "source": "images/largeRelics/abacus.png",
+      "size": 6449,
+      "sha256": "a790bc01c15c0c03bbda21029568918cd6c01e8238a3fef1607c79f5555651bf"
+    },
+    {
+      "source": "images/largeRelics/akabeko.png",
+      "size": 6728,
+      "sha256": "21114a316fa4610c8b480fe131acdbb1fb36d4f79f922d266391e176704bd3a1"
+    },
+    {
+      "source": "images/largeRelics/ancientCoin.png",
+      "size": 7928,
+      "sha256": "420fcb2244af69e9f2642f07239d110f782c520788a6644d4445e5ebb4887389"
+    },
+    {
+      "source": "images/largeRelics/bag_of_prep.png",
+      "size": 8137,
+      "sha256": "713f3b164f9a03bc8fbc4ca5f20c4ee7da4dfcfef87d022f7cebbb3878030486"
+    },
+    {
+      "source": "images/largeRelics/bank.png",
+      "size": 6659,
+      "sha256": "50390fd5305949121090580bf8ef0f2867d1b3b1df091c80576a7082c45a73a0"
+    },
+    {
+      "source": "images/largeRelics/bark.png",
+      "size": 5441,
+      "sha256": "20e5502bd83fbfb1afa8e848765b18a3d6f6039c6b7c2d82491957bab936e755"
+    },
+    {
+      "source": "images/largeRelics/battery.png",
+      "size": 6612,
+      "sha256": "933d988c0a0d6ca2a28c6b7913bbad3683d6ef7046d710305d4cc74e29677bd6"
+    },
+    {
+      "source": "images/largeRelics/bell.png",
+      "size": 5975,
+      "sha256": "05d2da71fd13286f526a4e94c5e3ba42bd549572136be3e2406fac878f396ac4"
+    },
+    {
+      "source": "images/largeRelics/bigSpoon.png",
+      "size": 3818,
+      "sha256": "91b1620d464aef8236806c0104a4a38018bae219981d967c490c1f00dd117649"
+    },
+    {
+      "source": "images/largeRelics/bird_urn.png",
+      "size": 6482,
+      "sha256": "82cb2c24a2c82f92106b040171b8ee9b69b81b64cd9b36ac0dd2650390ce1aa1"
+    },
+    {
+      "source": "images/largeRelics/blackBlood.png",
+      "size": 5954,
+      "sha256": "29804df9ad05ddeff563aa5efc6bbeb887555fa15ed6b1381c545c1018fc53e3"
+    },
+    {
+      "source": "images/largeRelics/blackstar.png",
+      "size": 6083,
+      "sha256": "510cda6b6d681972834a59e340c2d7cd002f02ecc9be0b37052d07e110707e7e"
+    },
+    {
+      "source": "images/largeRelics/blood_vial.png",
+      "size": 5918,
+      "sha256": "943773ecdf024765b1449385b3743d4a2391b816b99df47bf1c1abb55c232d6f"
+    },
+    {
+      "source": "images/largeRelics/bloom.png",
+      "size": 5703,
+      "sha256": "d9b09e613b9f2d88239ab9b01fa13912e1dbf26e57edd990e26e2ca2ff5434be"
+    },
+    {
+      "source": "images/largeRelics/boot.png",
+      "size": 5642,
+      "sha256": "f471f075165829e85a82c81fe2978356497d24cfbe4b5bed1a358af45c98584c"
+    },
+    {
+      "source": "images/largeRelics/bottledFlame.png",
+      "size": 6586,
+      "sha256": "6a812792817c7385fe49ed7ea555845ec5e655d03387b877d334c988aee9642b"
+    },
+    {
+      "source": "images/largeRelics/bottledLightning.png",
+      "size": 6726,
+      "sha256": "c1c800b71c134e7de777dbefa0e4fc45d5074859b15bcc7614e652aee6745477"
+    },
+    {
+      "source": "images/largeRelics/bottledTornado.png",
+      "size": 6893,
+      "sha256": "2b713b7cdd26877679bdbeaea9e78dc54554df318e4a3ad9401f9a90efb6c69a"
+    },
+    {
+      "source": "images/largeRelics/brimstone.png",
+      "size": 7325,
+      "sha256": "a33b27c404920c7db48a3ddc110a97fb51ffcc92d922a5394ae48eed5b05e8ff"
+    },
+    {
+      "source": "images/largeRelics/burnHammer.png",
+      "size": 6838,
+      "sha256": "e6c5d74f9f663f7fa44d556fdef60c386acf4fa142ccc3654e7cf6aac8688557"
+    },
+    {
+      "source": "images/largeRelics/burningBlood.png",
+      "size": 5764,
+      "sha256": "95fefc05b785db4ff529848c8faa1a3f087ee506057af1dfc4cb3d6f4b03e818"
+    },
+    {
+      "source": "images/largeRelics/cables.png",
+      "size": 5915,
+      "sha256": "b642063a629c6dfcae014ccba5cb2bba83a35b695eb1a5aef76f816cf1a9b64c"
+    },
+    {
+      "source": "images/largeRelics/cage.png",
+      "size": 7826,
+      "sha256": "7c604575f37fbf1550552f9f3fd5ef9b60e12d59415231e4bbef634bf732c8b5"
+    },
+    {
+      "source": "images/largeRelics/calendar.png",
+      "size": 9210,
+      "sha256": "125a660ab3e7b9a44857e0db88327654039dae0cc4633c5c0df6fc1a7cfea20c"
+    },
+    {
+      "source": "images/largeRelics/calipers.png",
+      "size": 4851,
+      "sha256": "69734ba5d8de9c4d6bd6437b13c1a1b2a5c98805d95b29e94e9af57e4ef02254"
+    },
+    {
+      "source": "images/largeRelics/captain_wheel.png",
+      "size": 6578,
+      "sha256": "8d988640e5ec817bb86108ae9bda1f277143d2daa16e25769fc7368265cd1c58"
+    },
+    {
+      "source": "images/largeRelics/ceramic_fish.png",
+      "size": 8038,
+      "sha256": "b35224b29595539b640d59fd33a0053c6c943fd592b1fce267d3208a30b95293"
+    },
+    {
+      "source": "images/largeRelics/clasp.png",
+      "size": 6916,
+      "sha256": "ad10be75b0afe5da274b44dd0e3e1c2c1ebf669c1bc2e16385c080bf8390abb5"
+    },
+    {
+      "source": "images/largeRelics/clean_water.png",
+      "size": 4665,
+      "sha256": "bb323fbd060a9ac82aa9144b0ada0544d3ef1e30d468f6dccb1f0da865aa2623"
+    },
+    {
+      "source": "images/largeRelics/clericFace.png",
+      "size": 5929,
+      "sha256": "e1b5177643f190e388c675b05f8645da725e9d6228691008bc654efa7f0eb08f"
+    },
+    {
+      "source": "images/largeRelics/clockwork.png",
+      "size": 7310,
+      "sha256": "724029e4e3e38ca9b773550ab3afd8b21c54ee7a2c71bea4c7c1c05cf544e1d3"
+    },
+    {
+      "source": "images/largeRelics/coffeeDripper.png",
+      "size": 6336,
+      "sha256": "3aba9a5345da33e04199ee9e0989adb9d9c9ceea526afee59dc168ce1c3816f0"
+    },
+    {
+      "source": "images/largeRelics/collar.png",
+      "size": 7146,
+      "sha256": "93db17393c181a8a75efe24a4d6107e8e99b0ba639b71c49ac4cab93851e5ff1"
+    },
+    {
+      "source": "images/largeRelics/courier.png",
+      "size": 6339,
+      "sha256": "95140384cc12ff49aa30a9716261af33ce2de3131e802f79f7cd120f955f7543"
+    },
+    {
+      "source": "images/largeRelics/crackedOrb.png",
+      "size": 7204,
+      "sha256": "248d9cd273b9b84de7a7328445e6b73ea06f56724b32b1fb4c6dfb59ba4925dd"
+    },
+    {
+      "source": "images/largeRelics/crown.png",
+      "size": 6558,
+      "sha256": "3ab605ef779644bdd8287f0c1c5f84855b56d5e5d6d82f3524b1e3344f94015a"
+    },
+    {
+      "source": "images/largeRelics/cultistMask.png",
+      "size": 5996,
+      "sha256": "8531b10e85a14e7110f374ea085075f078b810eb91924649490966e25740b176"
+    },
+    {
+      "source": "images/largeRelics/damaru.png",
+      "size": 6827,
+      "sha256": "61c4ada2a6f7751096607c08e47a8f6989f3343e4552dc9072d9ea4def64f593"
+    },
+    {
+      "source": "images/largeRelics/dataDisk.png",
+      "size": 7080,
+      "sha256": "aba36a3d7836e23208c268fc8d325569ef1401e746753962e8d7a8eb9330d2c0"
+    },
+    {
+      "source": "images/largeRelics/drill.png",
+      "size": 6368,
+      "sha256": "d51a2af443adea62865f1a2f006549d7395855c635394c52cc40bca01902aaae"
+    },
+    {
+      "source": "images/largeRelics/duality.png",
+      "size": 8649,
+      "sha256": "4a22d813f69ac34cfada94634f74e9708946aedcb6e9e396c5c6c260adfde854"
+    },
+    {
+      "source": "images/largeRelics/dummy.png",
+      "size": 7339,
+      "sha256": "1a255d31a48ee4f7566acef7c84ef081720ef2d30f1fa0b6bb795b595056c0db"
+    },
+    {
+      "source": "images/largeRelics/emerald_key.png",
+      "size": 4953,
+      "sha256": "05cd845a7d3339f1e6144bdeaa3673b9e8d6b3fe5b05c822b46ff085757a47b2"
+    },
+    {
+      "source": "images/largeRelics/emotionChip.png",
+      "size": 5196,
+      "sha256": "7bea320cd7fac04ba9a005ca70c464f5a1a9574ac3e2f0808b4438368fc98c1b"
+    },
+    {
+      "source": "images/largeRelics/eternal_feather.png",
+      "size": 7431,
+      "sha256": "2da95c5e007642d70241fa51efbdf05935123d0efac5923c0a98a1800bffa91c"
+    },
+    {
+      "source": "images/largeRelics/frozenOrb.png",
+      "size": 8411,
+      "sha256": "79e9938744a908ce6975b6d901a4295c750bc52dbacb04a8864b71e7bafa8b84"
+    },
+    {
+      "source": "images/largeRelics/funnel.png",
+      "size": 5958,
+      "sha256": "5aee75d30cd0a6e407463e3c00c7e4c91133f9cda5e808e3eacb964fa9ea4c16"
+    },
+    {
+      "source": "images/largeRelics/golden_eye.png",
+      "size": 8723,
+      "sha256": "23053c5ed1312534f5ede21c23dd1bbe74d020e9dd89ee447ef1f45260e3f1e4"
+    },
+    {
+      "source": "images/largeRelics/gremlin_horn.png",
+      "size": 5713,
+      "sha256": "8b1dd02ddcc84ae39f4930531df95f5c94a560439715354705a47020b308122b"
+    },
+    {
+      "source": "images/largeRelics/gremlinMask.png",
+      "size": 7038,
+      "sha256": "e7b2820da7806c7fce51d31a415b78fabdc460dd81f005b365a3b7b05136b4d9"
+    },
+    {
+      "source": "images/largeRelics/helix.png",
+      "size": 8770,
+      "sha256": "d150ab7fe7a5ab83db0834ac096fbc0be0aa2c083a0e3e574e743fdea6b01466"
+    },
+    {
+      "source": "images/largeRelics/holy_water.png",
+      "size": 5898,
+      "sha256": "f571bbe42be35e5398dd2bfa4d15688b888b31b3300d7073a6e6806c709d7f80"
+    },
+    {
+      "source": "images/largeRelics/horn_cleat.png",
+      "size": 5350,
+      "sha256": "d2165e3b7537a16c13af1b01f1e52e7773bafe043ae349e9f0be5b541e4035c7"
+    },
+    {
+      "source": "images/largeRelics/iceCream.png",
+      "size": 4571,
+      "sha256": "53f8011b18ebdb439bd1f7c9c5b7b841e1310eade821ffe22d7b20a309c0d3e5"
+    },
+    {
+      "source": "images/largeRelics/incenseBurner.png",
+      "size": 7344,
+      "sha256": "5bb6e6956da9837f0958b082631f00a62a3becc08d6c1acd8442c7b380b1e146"
+    },
+    {
+      "source": "images/largeRelics/ink_bottle.png",
+      "size": 7446,
+      "sha256": "843a5a8a116719ea79f34e433addcad166274695c5d3169d151647e241c21908"
+    },
+    {
+      "source": "images/largeRelics/insect.png",
+      "size": 6342,
+      "sha256": "04922a9d60b56c4b0143caf83e2b03ad1efbe328f6e34273d14cca02b8b26e7b"
+    },
+    {
+      "source": "images/largeRelics/inserter.png",
+      "size": 5557,
+      "sha256": "ea6333da447b01291deacc82c1ca5b014fae859a799c590feb459a9a6f9926ea"
+    },
+    {
+      "source": "images/largeRelics/juzuBracelet.png",
+      "size": 7522,
+      "sha256": "2793a5246305d335671087fe7f1252521c1718783f0ff99c3b8cd09e8809fde5"
+    },
+    {
+      "source": "images/largeRelics/kite.png",
+      "size": 5938,
+      "sha256": "d0ef0208ca9509758b2ce8861ef366406094438bacd80848ed03f8269f00777e"
+    },
+    {
+      "source": "images/largeRelics/kunai.png",
+      "size": 4571,
+      "sha256": "0b226c695246f20167b975cb053c7b7713bbf596da64c1b9edcc0c269829caf2"
+    },
+    {
+      "source": "images/largeRelics/lament.png",
+      "size": 7458,
+      "sha256": "b9b5bd130e78de96fda54457079d2a7b476d3955cf11178ee9f989e72a3f4c82"
+    },
+    {
+      "source": "images/largeRelics/mark_of_pain.png",
+      "size": 6159,
+      "sha256": "82ffdb6bada3344f4f89befa27c5328239efc4df285fd0d53cae70d98b8dc2ad"
+    },
+    {
+      "source": "images/largeRelics/mealTicket.png",
+      "size": 5725,
+      "sha256": "2e93eec4556c2cbec8fada9efae186a8f5e377c9c141b01cd4be93bde4844307"
+    },
+    {
+      "source": "images/largeRelics/meatOnBone.png",
+      "size": 6142,
+      "sha256": "2ca4f20e9618eec11853f0f2f598787d35ccd8675c832d2fcc577143a2bd3d7e"
+    },
+    {
+      "source": "images/largeRelics/medicalKit.png",
+      "size": 6420,
+      "sha256": "0462436978fec7c08bf751837cbdbcf69654c42811ab9e0c862f498621a3e8f5"
+    },
+    {
+      "source": "images/largeRelics/melange.png",
+      "size": 8621,
+      "sha256": "5b1715aa41b25c04d21d8ec9c83f2694e7b28148d2ab086849fcf9a3e09805a1"
+    },
+    {
+      "source": "images/largeRelics/mirror.png",
+      "size": 8085,
+      "sha256": "a1f0bc6f2943afd8bc29c03053c030f33f3c1703fd6288465e2074cb4b1d7a20"
+    },
+    {
+      "source": "images/largeRelics/mushroom.png",
+      "size": 5807,
+      "sha256": "4e997ac52567f16164897fd90f33f294ea7333407c0421d704c4cbd06e1f045e"
+    },
+    {
+      "source": "images/largeRelics/mutagen.png",
+      "size": 6562,
+      "sha256": "55037c8b5f9e2e6c8d0fc793dbd3a726d68788f4be069d85bd6ee9f597bd5897"
+    },
+    {
+      "source": "images/largeRelics/nloth.png",
+      "size": 6589,
+      "sha256": "91f6aec9aee8d56e48f4e65f57bdad15c30794ba732ed70016c86202af1e0ecb"
+    },
+    {
+      "source": "images/largeRelics/nunchaku.png",
+      "size": 4828,
+      "sha256": "cb207917f033a578e76a561c419c3afb401eef42117d72c8629d1b531b0c36fc"
+    },
+    {
+      "source": "images/largeRelics/omamori.png",
+      "size": 6589,
+      "sha256": "093c047134e3b8b48c694ef3277d472834575479990628ae114f549548b58b43"
+    },
+    {
+      "source": "images/largeRelics/orichalcum.png",
+      "size": 6833,
+      "sha256": "0bd8f5b9e03005ee53d712a5edeea69bd98b59f205da45f54179e2fb975900f8"
+    },
+    {
+      "source": "images/largeRelics/ornamentalFan.png",
+      "size": 6623,
+      "sha256": "86f7fff659407ba989b9846865b9b317fd2df162aba0123624bed50b428be00a"
+    },
+    {
+      "source": "images/largeRelics/orrery.png",
+      "size": 5455,
+      "sha256": "f4eab21af6469fa5d2855f80862946b27a3e9ff6068c0791b270e64c38fff54e"
+    },
+    {
+      "source": "images/largeRelics/pandoras_box.png",
+      "size": 7913,
+      "sha256": "ceb87835b661c2328242d5864f64ee930860e3e96492f35a6cc48f7c41739e3b"
+    },
+    {
+      "source": "images/largeRelics/pantograph.png",
+      "size": 5221,
+      "sha256": "0b3f8b8a3c9b58738df63b7eefa00d471b313b776c6cfcb0ba5b5796346659f4"
+    },
+    {
+      "source": "images/largeRelics/paperCrane.png",
+      "size": 5527,
+      "sha256": "01b3b11b4b7965defca169ebe243725a192c231586c88fb8956eb65d80231f71"
+    },
+    {
+      "source": "images/largeRelics/paperFrog.png",
+      "size": 4804,
+      "sha256": "643a114324d623602472f1180ac49907724dbb6852207cecd371e9af71bce784"
+    },
+    {
+      "source": "images/largeRelics/pellets.png",
+      "size": 7856,
+      "sha256": "2c312cd7abae6cb3c8ec6091f77742c3244fcbc6d4f279103a095d5f6177de74"
+    },
+    {
+      "source": "images/largeRelics/penNib.png",
+      "size": 4408,
+      "sha256": "c9484f3e728d0fa9b7026031729eca73defa906b9a31948c758e251c4938197d"
+    },
+    {
+      "source": "images/largeRelics/philosopherStone.png",
+      "size": 6204,
+      "sha256": "e2786396a4e9170aa269e68f3b7a003ff02fa397e6e88a83604baa19ee0054a3"
+    },
+    {
+      "source": "images/largeRelics/pocketwatch.png",
+      "size": 6544,
+      "sha256": "a6d3009087588d3bebd211d7db9e4891cdc6cdbbeea6b5906f597c7328fb7f69"
+    },
+    {
+      "source": "images/largeRelics/potion_belt.png",
+      "size": 7407,
+      "sha256": "3be995850cbce8650cd08ec15260190aa6224636cf09c4e7b233036df4893777"
+    },
+    {
+      "source": "images/largeRelics/prayerWheel.png",
+      "size": 4692,
+      "sha256": "e432125d059451b31fe0a486c2461610a6eb4b0938be3f69748c092e7f5d6cb5"
+    },
+    {
+      "source": "images/largeRelics/prism.png",
+      "size": 6973,
+      "sha256": "28b99fa083e34810adc2235cd59fd1c7a8d37c186d47ff1878dc25ecc1bf1f2d"
+    },
+    {
+      "source": "images/largeRelics/red_skull.png",
+      "size": 9086,
+      "sha256": "efaf8e76c737e5d16cc9769c366834bb6481c7c5223b26b826edd50c379a3cdb"
+    },
+    {
+      "source": "images/largeRelics/regal_pillow.png",
+      "size": 5880,
+      "sha256": "719d1500403ec6b82ca619b82cf40ec66d60ad97a69a66e10fd64501c312d348"
+    },
+    {
+      "source": "images/largeRelics/ruby_key.png",
+      "size": 5426,
+      "sha256": "877fa043532cc0a4642c92b8888461c55215aa8818f49d575fec13d5e3372478"
+    },
+    {
+      "source": "images/largeRelics/runicCapacitor.png",
+      "size": 5802,
+      "sha256": "7cf2ad64ba649a552643d56a45475638b5ce4204165ddfd292ce37f805171477"
+    },
+    {
+      "source": "images/largeRelics/sapphire_key.png",
+      "size": 5329,
+      "sha256": "02728c77b21f16f11d7ded8ee22b9f18c8fe9da8f091cea024abff1f31822483"
+    },
+    {
+      "source": "images/largeRelics/serpent_ring.png",
+      "size": 7569,
+      "sha256": "139c970c2f698854115a6dae11ba58f916253651c06a4c276ee7e60efad5f476"
+    },
+    {
+      "source": "images/largeRelics/serpentHead.png",
+      "size": 7909,
+      "sha256": "9add5bce906bd1a8a9e725398b92720b246e931736d52f6c110364965dcbec4f"
+    },
+    {
+      "source": "images/largeRelics/shovel.png",
+      "size": 4652,
+      "sha256": "4cac47a5a06b4027f09947ce50837c7f701bc7a07fe87e4e6cc859bcae0d0bcc"
+    },
+    {
+      "source": "images/largeRelics/smooth_stone.png",
+      "size": 6526,
+      "sha256": "24dee3af1b4c143f6cef82a639dc059094c13318ceabe083ac7c1f9804aed867"
+    },
+    {
+      "source": "images/largeRelics/snake_ring.png",
+      "size": 6804,
+      "sha256": "88d4c0026e3520baa698439e11b58af0deebcaa9939a1d1d886610a6f62f0984"
+    },
+    {
+      "source": "images/largeRelics/sneckoEye.png",
+      "size": 6549,
+      "sha256": "09b320dbf06c77d0f8d371cb871e7b9ac8f60501b5d844f015c7fe89d986070c"
+    },
+    {
+      "source": "images/largeRelics/sozu.png",
+      "size": 5848,
+      "sha256": "9fa0c76f91046fccdaee4c840b6ffbec95105ff185b6e0adf502f947e37f38df"
+    },
+    {
+      "source": "images/largeRelics/spiritPoop.png",
+      "size": 5864,
+      "sha256": "b92b90404755859f07369d2cfea2975d616d1baf597041ea52980164b2332ac4"
+    },
+    {
+      "source": "images/largeRelics/sundial.png",
+      "size": 6438,
+      "sha256": "7ca1137f8c0a563ce40066e66946d220d33d23d9294c0e3fd3468073951fe9e5"
+    },
+    {
+      "source": "images/largeRelics/tea_set.png",
+      "size": 6570,
+      "sha256": "564eb22e19003b05c34cb3ac5fcf9e45dd955212af6e145c2b6cfb5b8e41c5d4"
+    },
+    {
+      "source": "images/largeRelics/tear_drop_locket.png",
+      "size": 7679,
+      "sha256": "12fafe532ad754669729104f5c30d8f9b9174a72f9e530b865348d29c2da8d3b"
+    },
+    {
+      "source": "images/largeRelics/the_specimen.png",
+      "size": 6359,
+      "sha256": "67ab3825ce424f1da76ad8d44ca7fe424a4cdfb225ba6b8cecd3e2fc00098282"
+    },
+    {
+      "source": "images/largeRelics/threadAndNeedle.png",
+      "size": 5373,
+      "sha256": "59ad74ae03f3a10915fafd9627f319113213baa3bc992a5c6eec5210a7b50dba"
+    },
+    {
+      "source": "images/largeRelics/tongs.png",
+      "size": 3822,
+      "sha256": "cdbc1983d90b3f0bc255ae5ed4b241be05d79f7bd7a820fa6a036f08261c0dbb"
+    },
+    {
+      "source": "images/largeRelics/toolbox.png",
+      "size": 6225,
+      "sha256": "8f7b3936c3b01a8f3ce069771b90ffbd57848ab6c0ec4d7a1da5882b4d327b34"
+    },
+    {
+      "source": "images/largeRelics/torii.png",
+      "size": 5659,
+      "sha256": "98a7daa36a5fc8ab2cee623830cdc645fb66bbb38f646a2f88ddb6cb0f5c7dbe"
+    },
+    {
+      "source": "images/largeRelics/tough_bandages.png",
+      "size": 7295,
+      "sha256": "30485a177c167f12df4433853d277187ddb9a2cc59861f1b72747fbf5f296663"
+    },
+    {
+      "source": "images/largeRelics/tungsten.png",
+      "size": 5853,
+      "sha256": "5819544c76ec0e733f50db1de84a47996a892a4f7e46a4c413ea197429941111"
+    },
+    {
+      "source": "images/largeRelics/turnip.png",
+      "size": 6676,
+      "sha256": "6c25cd19738387ae9479cedd27afd3d913fb0240eecb18da6873215cdb5b29b7"
+    },
+    {
+      "source": "images/largeRelics/vajra.png",
+      "size": 6244,
+      "sha256": "7e975b1815d988575e1e2754858ba0c357aad8ae36c1292af080b4ef8e60369c"
+    },
+    {
+      "source": "images/largeRelics/vCore.png",
+      "size": 7787,
+      "sha256": "59992d5b9d1f112339348a0965da6608a3d1d2945332b924e64305577a4108e4"
+    },
+    {
+      "source": "images/largeRelics/violet_lotus.png",
+      "size": 8072,
+      "sha256": "3c3549b7411ea172c0d7ae2d437ab45a6202b422cd52821f040b0dffa4cb6a7f"
+    },
+    {
+      "source": "images/largeRelics/virus.png",
+      "size": 6856,
+      "sha256": "7ad9a6e0da12b62d3383f326301602f439f5a7f854f7a95806e7ba05f0d66f7d"
+    },
+    {
+      "source": "images/largeRelics/warPaint.png",
+      "size": 6060,
+      "sha256": "9dd164a8b632413d43604903071e3aa1ca5278723fd4d6bd2c3477a8a855c2de"
+    },
+    {
+      "source": "images/largeRelics/wBlade.png",
+      "size": 7290,
+      "sha256": "732683eb36e9c58ce70bfbbc474939fefa9f65e2a6b96305c07d2ce2a37cab02"
+    },
+    {
+      "source": "images/largeRelics/whetstone.png",
+      "size": 6141,
+      "sha256": "1e49d5322dc16bb7ae74f55046ffe8b7692d8d07dc46c1c588d556ff713a87e4"
+    },
+    {
+      "source": "images/largeRelics/whiteBeast.png",
+      "size": 7654,
+      "sha256": "95865f1a85483a8f4f41ea779a85c2e5da71757d41cd9bfc99189637ed86fcf5"
+    },
+    {
+      "source": "images/largeRelics/winged.png",
+      "size": 6035,
+      "sha256": "5efbad8d164d015d27683e111ad691e7e5a2e1970345959d6dcb9841a4f9f85b"
+    },
+    {
+      "source": "images/largeRelics/yang.png",
+      "size": 7702,
+      "sha256": "01880f26fca1d7b15f806e228d32f6d387c36252a22bfa28001bc6ec50a171fc"
+    },
+    {
+      "source": "images/largeRelics/yin.png",
+      "size": 7650,
+      "sha256": "5e67c92bd3b73752185e80470c300a575b319b17d5b96460b7707117e39cc3ff"
+    },
+    {
+      "source": "images/monsters/theBottom/angryGremlin/skeleton.atlas",
+      "size": 1956,
+      "sha256": "988ce96cc72de1f82291d07e72dfac00133458d676457d75d86a60068924ec34"
+    },
+    {
+      "source": "images/monsters/theBottom/angryGremlin/skeleton.json",
+      "size": 30303,
+      "sha256": "1ea56c5f258e5488c43509106f970ae67a7b7edeaa28f46a4dcd9d0c2f67f4df"
+    },
+    {
+      "source": "images/monsters/theBottom/angryGremlin/skeleton.png",
+      "size": 16345,
+      "sha256": "c2ad448d02982f7156a68212f9d5bc8132cea59a062752d61b805581d0b76f83"
+    },
+    {
+      "source": "images/monsters/theBottom/blueSlaver/skeleton.atlas",
+      "size": 1415,
+      "sha256": "3bd44aa895aea5d86f84615eeec3cee8c8cb41bfb41df6b2d11de7dea4815ac7"
+    },
+    {
+      "source": "images/monsters/theBottom/blueSlaver/skeleton.json",
+      "size": 41037,
+      "sha256": "8633d2fec394588aea4db75c4a5190bed8edc14a51a910fab4c34de31de15f87"
+    },
+    {
+      "source": "images/monsters/theBottom/blueSlaver/skeleton.png",
+      "size": 43854,
+      "sha256": "c3eef4173fcee4a3fff22b39fb1178f97d0ec845124bb58bffdecda1166b75be"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/fire1.png",
+      "size": 5836,
+      "sha256": "5a1a3289ec331fa842d8820a7738886aa913c585efe6216852320ff39d858730"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/fire2.png",
+      "size": 5715,
+      "sha256": "7135e2ef48128975ee7eb62b6ce8d09306281a623469102b2124ba34145e232e"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/ghost/core.png",
+      "size": 21514,
+      "sha256": "cf8a0fbf9b3dc57db0f1894a60b07ac08ffe7aed10e29eabe734bb32e809e155"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/ghost/plasma1.png",
+      "size": 44589,
+      "sha256": "7fae88e9d42afb4c1c987d1df9191d271f9969dfeba17a96c84dab635ec9e5a7"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/ghost/plasma2.png",
+      "size": 61842,
+      "sha256": "687ab2989440444630113357f208ec00f61615848f2c2f94935d29d35a1ad545"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/ghost/plasma3.png",
+      "size": 63346,
+      "sha256": "70196a07e7f94ec9587b66ae7ff8cf3e53cc0e0d0202211cff35e5f74393b406"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/ghost/shadow.png",
+      "size": 7510,
+      "sha256": "9930070b089da897c35944c750a96504391337fc8de3ed094351fcda5fb0e7b2"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/guardian_orb_b.png",
+      "size": 5205,
+      "sha256": "78fe55a79144e72f4d9b5197e69bae449ece5a97dc661aad8c4c467d5fe85e26"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/guardian_orb_f.png",
+      "size": 8196,
+      "sha256": "e700a3c9c89935c36a70db7fb0935e189628911598efcb0b0c1fa5a4ef010fb4"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/guardian/skeleton.atlas",
+      "size": 8570,
+      "sha256": "8375570f06db8218b20c4985dd46b12ea59637db503569374979191c53a4ceb0"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/guardian/skeleton.json",
+      "size": 122311,
+      "sha256": "0d486058235fa147f8ff89215299c25b2a877ca8770acc0173d17b31d64878df"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/guardian/skeleton.png",
+      "size": 279516,
+      "sha256": "c147f2a934d1b1f814357869418a5f745b3c1ac1f0700f189e3c19ecfc81070a"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/slime/skeleton.atlas",
+      "size": 1554,
+      "sha256": "d6e1e3c05ecd45283ca254dd53f1a2a13172a60e2afa8a509b06a0288de3a0aa"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/slime/skeleton.json",
+      "size": 30369,
+      "sha256": "e3abac4995e03fcd2bfc90d6faf25eccd740105e1c4abe5544d9a599c938ebb6"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/slime/skeleton.png",
+      "size": 146060,
+      "sha256": "998541b461938e7e52407ef956e558392ddf1893b07304ced46cba65b4847af1"
+    },
+    {
+      "source": "images/monsters/theBottom/boss/slimeKing/slime.png",
+      "size": 92539,
+      "sha256": "af0483390d26acb0e422da7437fdc1101ac05f25454d62b6c310874db227eb72"
+    },
+    {
+      "source": "images/monsters/theBottom/cultist/skeleton.atlas",
+      "size": 1750,
+      "sha256": "b9ff5029c4f5d9bd90989ee44b2ce2a52461021155bd74ff12e964a35a0dffe3"
+    },
+    {
+      "source": "images/monsters/theBottom/cultist/skeleton.json",
+      "size": 32621,
+      "sha256": "e9420d7aa065a48b0fff8b38e7119423bdc82e2c55d820c8f5a1797321daff5c"
+    },
+    {
+      "source": "images/monsters/theBottom/cultist/skeleton.png",
+      "size": 87263,
+      "sha256": "6984b42fae20309de19caa30c768e3ce6d4f51ea49ae824e16323b4e9cc6ece8"
+    },
+    {
+      "source": "images/monsters/theBottom/fatGremlin/skeleton.atlas",
+      "size": 975,
+      "sha256": "28e2b75a66a5f34b6c9d94d30947e06d5513bb27409ef87ef110f19d63c483c6"
+    },
+    {
+      "source": "images/monsters/theBottom/fatGremlin/skeleton.json",
+      "size": 16813,
+      "sha256": "b64b366fce2b433ef6ae2d6722dd70b483a64d96b9844f8aed099b8df1461d75"
+    },
+    {
+      "source": "images/monsters/theBottom/fatGremlin/skeleton.png",
+      "size": 17873,
+      "sha256": "c83b185150e6e61e1141ea4358acdcbf16890a64d0baba01f9d1decbab4846fb"
+    },
+    {
+      "source": "images/monsters/theBottom/femaleGremlin/skeleton.atlas",
+      "size": 1289,
+      "sha256": "93f12e3faae53712f6e02e4da062e3ada6555da1bc65a3ef375f78663fbf19ef"
+    },
+    {
+      "source": "images/monsters/theBottom/femaleGremlin/skeleton.json",
+      "size": 24283,
+      "sha256": "360403da3489127f498fd19390b6477fd167203046b4935cf4caff948aee6856"
+    },
+    {
+      "source": "images/monsters/theBottom/femaleGremlin/skeleton.png",
+      "size": 23185,
+      "sha256": "84599b5a3e05717297e59b285993075cbb17d8b85dd9986e0c24dce5936421f4"
+    },
+    {
+      "source": "images/monsters/theBottom/fungi/FungiBeast.png",
+      "size": 53350,
+      "sha256": "ead3ff8242895e23df52ba7a5559db5a75bb8ce6d861e67903b6deab841e200c"
+    },
+    {
+      "source": "images/monsters/theBottom/fungi/skeleton.atlas",
+      "size": 1429,
+      "sha256": "0a5a63b50ff00eb9afc6eb90dbc444cfe5db3e1d72a8ee2522416c58154d58c4"
+    },
+    {
+      "source": "images/monsters/theBottom/fungi/skeleton.json",
+      "size": 100195,
+      "sha256": "c235e8acc90384c0b4389b15522912000943be2b27e39d4ca592d07c8a2e34fd"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWorm/skeleton.atlas",
+      "size": 793,
+      "sha256": "21f63743e67a8d16292fabeda1df6463f648feebc715ce5bdd7a9fa0b6d46875"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWorm/skeleton.json",
+      "size": 55187,
+      "sha256": "1944fa318916421f4aff6ee79adb9dcc34a0843cb494ddebb298c12976fefd19"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWorm/skeleton.png",
+      "size": 48087,
+      "sha256": "e3c482eefc4aa29e7e0afe1c2510e731ffb4a5cbe7486182f60db86b986fd2c0"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWormAlt/skeleton.atlas",
+      "size": 793,
+      "sha256": "21f63743e67a8d16292fabeda1df6463f648feebc715ce5bdd7a9fa0b6d46875"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWormAlt/skeleton.json",
+      "size": 57402,
+      "sha256": "8b21fcc54f4c877a2720506fa04fcdcd7f270d30bfdf65987df4af17b6d51362"
+    },
+    {
+      "source": "images/monsters/theBottom/jawWormAlt/skeleton.png",
+      "size": 46890,
+      "sha256": "3bad1f74962a008f5a971144b24e7b2e26c2a15c6fcaa1d8286752c1eced999f"
+    },
+    {
+      "source": "images/monsters/theBottom/lagavulin/Lagavulin.png",
+      "size": 188196,
+      "sha256": "7955e3afc662a152995a6d4c7faa0986f8a01e3d603feda3b82d8b8ed05e8440"
+    },
+    {
+      "source": "images/monsters/theBottom/lagavulin/skeleton.atlas",
+      "size": 1640,
+      "sha256": "00d2d83d3874f6ce608f6ab81ef229d4db2d996627ede73a092dab81be17c6cc"
+    },
+    {
+      "source": "images/monsters/theBottom/lagavulin/skeleton.json",
+      "size": 100607,
+      "sha256": "e31dd67a222e9723a878a098db2a8dc45c47ae7df4c9b77a3e57abdfb3d32c04"
+    },
+    {
+      "source": "images/monsters/theBottom/looter/skeleton.atlas",
+      "size": 1892,
+      "sha256": "8be4d77b5ffd075b999f7aeeac4140da6bfaf6c0a3aeadc3c9a2c311d27cce00"
+    },
+    {
+      "source": "images/monsters/theBottom/looter/skeleton.json",
+      "size": 59581,
+      "sha256": "9dad65575ae219df4b4c07ad0950fdd4ec743cd672206891e23f286545389a81"
+    },
+    {
+      "source": "images/monsters/theBottom/looter/skeleton.png",
+      "size": 46269,
+      "sha256": "f92606869aaf24d951fe516640a446570bde326e831da6144b46a7eb98eb18fc"
+    },
+    {
+      "source": "images/monsters/theBottom/louseGreen/skeleton.atlas",
+      "size": 1576,
+      "sha256": "3c206b296f0d3087087486d8659a9d86853c50fd76e3fd7df1972cd3d22c7f32"
+    },
+    {
+      "source": "images/monsters/theBottom/louseGreen/skeleton.json",
+      "size": 27273,
+      "sha256": "218fc41d9763e68029f82d054d3b59d26a24882ce5049df5620bd0e41541e16f"
+    },
+    {
+      "source": "images/monsters/theBottom/louseGreen/skeleton.png",
+      "size": 43608,
+      "sha256": "a834388a1020f15910f2c6e40dd6ab59227bd9afffe781b6b1e34e6b7d00ef28"
+    },
+    {
+      "source": "images/monsters/theBottom/louseRed/skeleton.atlas",
+      "size": 1467,
+      "sha256": "37fcae5c0b1c3582dc0fd415efed3d632b65ec4d2dff574c38a096076cb2bbc7"
+    },
+    {
+      "source": "images/monsters/theBottom/louseRed/skeleton.json",
+      "size": 39445,
+      "sha256": "c55d3aafeea47f69686ad90b0bb52e9a39e6153c314e4199e05f5a74512eb251"
+    },
+    {
+      "source": "images/monsters/theBottom/louseRed/skeleton.png",
+      "size": 47408,
+      "sha256": "a1f956649baf3d30508b8037f4f0dd38b2a86fbfd376336e93f3bb53065fe9d4"
+    },
+    {
+      "source": "images/monsters/theBottom/nobGremlin/skeleton.atlas",
+      "size": 1202,
+      "sha256": "d1468fd6f414be4e3d0d96c44c737d4e4682baf424ca07f161410186ed447fa3"
+    },
+    {
+      "source": "images/monsters/theBottom/nobGremlin/skeleton.json",
+      "size": 37699,
+      "sha256": "b5f86ffa14fd397bce2ffa6f87c645dd2fe428618c078ef7cfa2652b5f2bf818"
+    },
+    {
+      "source": "images/monsters/theBottom/nobGremlin/skeleton.png",
+      "size": 95748,
+      "sha256": "8fc23e86c7061833a6c42d2573f3e09360210c5ff1ceeb0adc3ce966cbb92f5d"
+    },
+    {
+      "source": "images/monsters/theBottom/redSlaver/skeleton.atlas",
+      "size": 1816,
+      "sha256": "82ed5cace27a4c3ad500f1b676f0151cd10af4006240ceb9dd2b1b3ee709e685"
+    },
+    {
+      "source": "images/monsters/theBottom/redSlaver/skeleton.json",
+      "size": 78895,
+      "sha256": "ebab8988605c05cd563f612d82999d0b7c849a91ad1e91f54d40f639f2740453"
+    },
+    {
+      "source": "images/monsters/theBottom/redSlaver/skeleton.png",
+      "size": 67168,
+      "sha256": "db0c4253aa1a2e67fb20557439a7e58c7434e836b7771070dca2d1bbfe18e4bb"
+    },
+    {
+      "source": "images/monsters/theBottom/sentry/skeleton.atlas",
+      "size": 483,
+      "sha256": "4c6a996c55bf26d7c457ce9bb9473ede1bfa73a46dee83b262f33e4743636e15"
+    },
+    {
+      "source": "images/monsters/theBottom/sentry/skeleton.json",
+      "size": 27402,
+      "sha256": "109c405180621ad9e72b6a98a4d888bcd5839ec93e9cdfdc65946fbf49f8be03"
+    },
+    {
+      "source": "images/monsters/theBottom/sentry/skeleton.png",
+      "size": 40691,
+      "sha256": "7245ba345454ad0dfbe46132c68c77fa864acd113677e78ed315d216af3d5b46"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltL/skeleton.atlas",
+      "size": 896,
+      "sha256": "40dc0bbc63e461697f1306b32f6c0f4de3df2222ebc618cb338653ce85cff8d1"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltL/skeleton.json",
+      "size": 26302,
+      "sha256": "4be8c371de22744719faf9ddc400ea0fe64913fbd9376b9c180946b07096c44e"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltL/skeleton.png",
+      "size": 36481,
+      "sha256": "474f9563c4ebce3b61b1ce64464ed9b920fb6afe79f196b49481d928df673080"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltM/skeleton.atlas",
+      "size": 582,
+      "sha256": "4f4b39fe93d49987956cf6d982336847cbcb91827cd7e13cb6551c3cb0613a70"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltM/skeleton.json",
+      "size": 22558,
+      "sha256": "04f3c0d3488677c771a94098cd38db6672c1fdb9f9733137605ca18e53cacf49"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltM/skeleton.png",
+      "size": 17898,
+      "sha256": "43411285509b7bef3ed1a683903d7c0c5e15ea6d12f43bdb7e8c24f525a45736"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltS/skeleton.atlas",
+      "size": 577,
+      "sha256": "d165318d2126bd4576da6d9df73d9cd46c4039aa262b1821142db021d0d52723"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltS/skeleton.json",
+      "size": 16010,
+      "sha256": "3ca236119ba650f5b97df684e0a7798c0d208b4fc3bd77db00862aab4d696ff4"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeAltS/skeleton.png",
+      "size": 8848,
+      "sha256": "37e303c48e159b96a1ad2a8b37244e584e012fbaab4d18157d6c7edceb0c9b7a"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeL/skeleton.atlas",
+      "size": 2002,
+      "sha256": "4a120cefc81f18ce7139c1f91d267d54b4e6fa6b21e3c01fb8e2a179c4d80344"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeL/skeleton.json",
+      "size": 24689,
+      "sha256": "2de244b43151583497bc27edd8c594d30fdaa13a0626b93cc3f4f60d1e4b0ce3"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeL/skeleton.png",
+      "size": 44602,
+      "sha256": "11bc08b6aac56f04df9aa64a318707be6a90b81cf427a3a627e5da1dac78e74c"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeM/skeleton.atlas",
+      "size": 1085,
+      "sha256": "f7dd10854103176d45b88ec069e8bb33f66f24e61b1bf67c7ce6e30785aead2c"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeM/skeleton.json",
+      "size": 14004,
+      "sha256": "ee506d4d8653bcd439d35a9574b2c42d410181e63ff43884dfc6bcd9ea01e77c"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeM/skeleton.png",
+      "size": 20973,
+      "sha256": "58fd4795aa582775c76ad3d74057ea9bc8fe58f9f03e854f87a5b17e5369bae4"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeS/skeleton.atlas",
+      "size": 450,
+      "sha256": "f8d7f863b0d2955b8d7bc6bfec357a961648613c827ca55749e805f9bda026cc"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeS/skeleton.json",
+      "size": 7994,
+      "sha256": "6d7e85339594e6eda17dfee60f6752a72967d581fbcca224de9fc1c76ff34329"
+    },
+    {
+      "source": "images/monsters/theBottom/slimeS/skeleton.png",
+      "size": 7934,
+      "sha256": "a6339d4cf07bd2f00852063ec5b55be1f857c218c72d404510e17d319bda04ef"
+    },
+    {
+      "source": "images/monsters/theBottom/thiefGremlin/skeleton.atlas",
+      "size": 1177,
+      "sha256": "27f46b6ebfcf8c18c7958bc21d258e308ca5509e688882ffc3b306712b61f96e"
+    },
+    {
+      "source": "images/monsters/theBottom/thiefGremlin/skeleton.json",
+      "size": 42336,
+      "sha256": "ade99d774025476802eecdfb8edeeb2fe7c77a4d640169293b7371465a719629"
+    },
+    {
+      "source": "images/monsters/theBottom/thiefGremlin/skeleton.png",
+      "size": 12479,
+      "sha256": "1f17cf2bc0b3fcf4e10402edf6abaf2606eaa9d50c54241a51fb2fd47f45e266"
+    },
+    {
+      "source": "images/monsters/theBottom/wizardGremlin/skeleton.atlas",
+      "size": 1278,
+      "sha256": "635eacbaa870c4cb6bc3c22200d9dfed5016534421907c530aedd79b5e90a58a"
+    },
+    {
+      "source": "images/monsters/theBottom/wizardGremlin/skeleton.json",
+      "size": 19597,
+      "sha256": "25fbfd3ca7320c09d9cc6587b74f61b0829fce5c8098e424691e764364cb472d"
+    },
+    {
+      "source": "images/monsters/theBottom/wizardGremlin/skeleton.png",
+      "size": 17086,
+      "sha256": "871601d1f4fa4fca328e77458e74bccff93f3097adaf0d02b03a24654f5bf9df"
+    },
+    {
+      "source": "images/monsters/theCity/automaton/orb.png",
+      "size": 8356,
+      "sha256": "c1652ab67919e60e53ca79f5a53494cf7c86557a2d30344a91f92505655f0e3e"
+    },
+    {
+      "source": "images/monsters/theCity/automaton/skeleton.atlas",
+      "size": 1743,
+      "sha256": "5a3435d76b22a28280756f72a82c20d03633e2226090c8fb4eb6f59ab3039648"
+    },
+    {
+      "source": "images/monsters/theCity/automaton/skeleton.json",
+      "size": 10239,
+      "sha256": "2204033b1f47685cab8199f029fc1808a6d05362242165524b316f8c53b3217e"
+    },
+    {
+      "source": "images/monsters/theCity/automaton/skeleton.png",
+      "size": 138719,
+      "sha256": "fa414e030e06511665d7e8f4c0ab85442662b84e913acc95e82438de8f5092b7"
+    },
+    {
+      "source": "images/monsters/theCity/bear/Bear.png",
+      "size": 100566,
+      "sha256": "99f3af17939accf86a3a33368a5da088c47397e63f3ed2f5603b37f0aa264184"
+    },
+    {
+      "source": "images/monsters/theCity/bear/skeleton.atlas",
+      "size": 1748,
+      "sha256": "4bc285c9c1b49f418ccff3b4cf0f2986f363c883db0a9e69ab22916b2a235a92"
+    },
+    {
+      "source": "images/monsters/theCity/bear/skeleton.json",
+      "size": 91230,
+      "sha256": "cdce03bd9f0b6efafded6d60201c8a068387e6ea9ad06bd0a8581708bbb8d1dc"
+    },
+    {
+      "source": "images/monsters/theCity/bookOfStabbing/skeleton.atlas",
+      "size": 882,
+      "sha256": "14f34ba66519876c39090c61076386ff0503aa8130cd6585932c6077cd014bcd"
+    },
+    {
+      "source": "images/monsters/theCity/bookOfStabbing/skeleton.json",
+      "size": 22736,
+      "sha256": "6e60cf944854e64f602ad307ea676ce19aec536369363fbbb284a5bff7e15608"
+    },
+    {
+      "source": "images/monsters/theCity/bookOfStabbing/skeleton.png",
+      "size": 116230,
+      "sha256": "d9006b98ab8e038c6d394a1fed737594791f2ad72dd294cf568c738714a820f3"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/flying.atlas",
+      "size": 994,
+      "sha256": "4331517b2c59db2290c8b9eec3d9ca507758b8e4cb09814197f900ee46667805"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/flying.json",
+      "size": 92902,
+      "sha256": "df2284b279cb72a089824419dc66c1fe794797b5dd67c1f966e4bb6f83a6f991"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/flying.png",
+      "size": 45811,
+      "sha256": "779d04364eab0c5f559ef2bfd3050418be572597a0c7ebc257bc9709443b7890"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/grounded.atlas",
+      "size": 698,
+      "sha256": "a9c3eabb07ab8c3cdff3e6af51e30575238743d5b5bd5409f8ed7bc9386f3f21"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/grounded.json",
+      "size": 43901,
+      "sha256": "04e6ad37b75f035bb7e99a0e1c28732ea187ed3dda4e17e53ed437b6f027dd5c"
+    },
+    {
+      "source": "images/monsters/theCity/byrd/grounded.png",
+      "size": 37356,
+      "sha256": "91bb4053de7f7743ad5a96088ce03f6c8669110f92e1f5ebea288a1a4d0dad7c"
+    },
+    {
+      "source": "images/monsters/theCity/champ/Champ.png",
+      "size": 206653,
+      "sha256": "40351e38d6045fdd0a03cc1bf5b29164d344bb705e4de7c4862ab734a3604a47"
+    },
+    {
+      "source": "images/monsters/theCity/champ/skeleton.atlas",
+      "size": 2603,
+      "sha256": "1e405f693ed4cff7327ab581102a6e28383077a9a6adca4cc071f3aba8f9fd58"
+    },
+    {
+      "source": "images/monsters/theCity/champ/skeleton.json",
+      "size": 81032,
+      "sha256": "0ae1fca1d60a6f533298a6fbcd35f82c1a893eda592e4d40596d43e92943dd8c"
+    },
+    {
+      "source": "images/monsters/theCity/chosen/chosen.png",
+      "size": 65570,
+      "sha256": "d2cbacaca94ad90db1d46c9c676009b3c444b696f53df1ac4fabf0537dec1473"
+    },
+    {
+      "source": "images/monsters/theCity/chosen/skeleton.atlas",
+      "size": 1327,
+      "sha256": "332d4af44a482983b0279d5b1232922201f413f83acaba98d621f68cfde025d8"
+    },
+    {
+      "source": "images/monsters/theCity/chosen/skeleton.json",
+      "size": 52285,
+      "sha256": "1737ac979e38d54a6d527e116ecc421130b1257e107141ef9e23d956da832c82"
+    },
+    {
+      "source": "images/monsters/theCity/collector/skeleton.atlas",
+      "size": 1122,
+      "sha256": "38c469222e006e75f812625b123515d6fa12afd95fc4632d247ca969023a49aa"
+    },
+    {
+      "source": "images/monsters/theCity/collector/skeleton.json",
+      "size": 48857,
+      "sha256": "46c777b1b85a4ab41dec672f63467c6a18ff266e17821c52e56e8a585ebf9b5e"
+    },
+    {
+      "source": "images/monsters/theCity/collector/skeleton.png",
+      "size": 112649,
+      "sha256": "4ddbf83f786258f58165e05c6539b04fbbcaae4999234ec1ea522d2fa8e5eb81"
+    },
+    {
+      "source": "images/monsters/theCity/gremlinleader/GremlinLeader.png",
+      "size": 95468,
+      "sha256": "b743ee186aa59d5282885846aa7c89aa77a64a9a2a7ac5dd2f8850a0a0e17d80"
+    },
+    {
+      "source": "images/monsters/theCity/gremlinleader/skeleton.atlas",
+      "size": 2650,
+      "sha256": "62b5dd19f79d5e1883189e3664ae36c640a72a4de43bd9139c4d3b712f9745cd"
+    },
+    {
+      "source": "images/monsters/theCity/gremlinleader/skeleton.json",
+      "size": 224207,
+      "sha256": "b46a34ebf9e0bc0d9372bee901a76616d921615c49aa7278f4c6f00421d12c51"
+    },
+    {
+      "source": "images/monsters/theCity/healer/healer.png",
+      "size": 70520,
+      "sha256": "1ffe4eb60af949e255f3aa9386c111860f5c411c50f9c0979fdb22311ce2f245"
+    },
+    {
+      "source": "images/monsters/theCity/healer/skeleton.atlas",
+      "size": 1591,
+      "sha256": "37d2bcb09dc885b954b26233be6e2704ab8372bd0d00dd0b31d4d9ffc7f2523c"
+    },
+    {
+      "source": "images/monsters/theCity/healer/skeleton.json",
+      "size": 93085,
+      "sha256": "900ad92da6d30ae04a019154cb1261ee74916d7dd0afd14ce51cd00a8f126359"
+    },
+    {
+      "source": "images/monsters/theCity/looterAlt/skeleton.atlas",
+      "size": 1889,
+      "sha256": "44222f1b1738444317e78d4775e1265a280aa180b802fb97ed922e9097c60564"
+    },
+    {
+      "source": "images/monsters/theCity/looterAlt/skeleton.json",
+      "size": 55099,
+      "sha256": "b616af48fc87f2e1edca9e09ee4c1ef10aa48f4b76511b002e7106719ff61616"
+    },
+    {
+      "source": "images/monsters/theCity/looterAlt/skeleton.png",
+      "size": 40160,
+      "sha256": "6d6d60026b18e4b4c74076454647a5d1318ac70e845278432308b1f1c48cc7e4"
+    },
+    {
+      "source": "images/monsters/theCity/pointy/Pointy.png",
+      "size": 38055,
+      "sha256": "7f2ba08ad5da05fe1756ccc9d26c80fc19f8fb8a39bf7114912232d535fc5595"
+    },
+    {
+      "source": "images/monsters/theCity/pointy/skeleton.atlas",
+      "size": 1223,
+      "sha256": "cb4155259485075fcc59158849938c3ad5a8a0f4e770c511a4ba6747c56a3b83"
+    },
+    {
+      "source": "images/monsters/theCity/pointy/skeleton.json",
+      "size": 80789,
+      "sha256": "852c076a92b7f052379c5efa85e7233156185e8e7e4409f2373134f471a356ce"
+    },
+    {
+      "source": "images/monsters/theCity/puppet.png",
+      "size": 16178,
+      "sha256": "0e2292f7aff7e95ca37c4e6b5511711474103e784d4caba145623fce51b3906e"
+    },
+    {
+      "source": "images/monsters/theCity/reptile/skeleton.atlas",
+      "size": 1124,
+      "sha256": "c9cb6cd0aa9277caff0c112be59a6d3d716566cf2add23ec4a5a90c096ef9733"
+    },
+    {
+      "source": "images/monsters/theCity/reptile/skeleton.json",
+      "size": 137022,
+      "sha256": "d6b9faeaa2cfec7fcef622a853b8e5737cc6dd369058f854732f6a2a085fb7d0"
+    },
+    {
+      "source": "images/monsters/theCity/reptile/Snecko.png",
+      "size": 88255,
+      "sha256": "01ddf5ffb18b49f61d39d180f7b7ead9174941a90c04a24b04134f4e427a4ecd"
+    },
+    {
+      "source": "images/monsters/theCity/romeo/romeo.png",
+      "size": 57059,
+      "sha256": "b6c7704ea3aed9ee5d9e86029cb4371140e169d920d0e461382a4cf0ed20a514"
+    },
+    {
+      "source": "images/monsters/theCity/romeo/skeleton.atlas",
+      "size": 1589,
+      "sha256": "e6b3e0304062538c69e3ec23f669bc9c9620c55597a92703544190dfec9e4c02"
+    },
+    {
+      "source": "images/monsters/theCity/romeo/skeleton.json",
+      "size": 62021,
+      "sha256": "a757cfc93dc31760e2e9396c69afe66e1706c23fcb5881549545e1790b743294"
+    },
+    {
+      "source": "images/monsters/theCity/shellMonster/ShellMonster.png",
+      "size": 86848,
+      "sha256": "ef800b3531db8fe8adb569a51153bba7398c64d129905cfe47cf764a989d3082"
+    },
+    {
+      "source": "images/monsters/theCity/shellMonster/skeleton.atlas",
+      "size": 1071,
+      "sha256": "fc3d0871017006984c29aa4e9e3e26fc32e95bfa7d23d435cee14fd994748846"
+    },
+    {
+      "source": "images/monsters/theCity/shellMonster/skeleton.json",
+      "size": 108242,
+      "sha256": "689ac7a8a151389357033bff19f42db3dfe3bae1fb64956abd569851230f7511"
+    },
+    {
+      "source": "images/monsters/theCity/slaverMaster/skeleton.atlas",
+      "size": 1510,
+      "sha256": "30d8473a868ef67eaaf5515f6fcba89e4ac7b178d02c789e74c84295feed4d0e"
+    },
+    {
+      "source": "images/monsters/theCity/slaverMaster/skeleton.json",
+      "size": 61694,
+      "sha256": "f47a1b06ef6603075117fe1cccb5374f599ffc8ea2c4e654a4b8cc53fae82a07"
+    },
+    {
+      "source": "images/monsters/theCity/slaverMaster/skeleton.png",
+      "size": 79072,
+      "sha256": "f43a233cc094797baefa8f6cea3459e6080e598e29a013fe34c333e79a0de967"
+    },
+    {
+      "source": "images/monsters/theCity/snakePlant/skeleton.atlas",
+      "size": 1936,
+      "sha256": "a8dfc55b4bdcb4a96b3b033c21c5287a5b1f09157268ead5d0597312fc22c02e"
+    },
+    {
+      "source": "images/monsters/theCity/snakePlant/skeleton.json",
+      "size": 252932,
+      "sha256": "3c6f62300e8c72408db00a1519cd8f6f3a5831932afb80b0cfbafa527bd80491"
+    },
+    {
+      "source": "images/monsters/theCity/snakePlant/SnakePlant.png",
+      "size": 126644,
+      "sha256": "77b3fd5907050f4a734c37e7a7052497bf689e2337df35bdcf52a16806ec11c3"
+    },
+    {
+      "source": "images/monsters/theCity/sphere/skeleton.atlas",
+      "size": 573,
+      "sha256": "13e2f053b542d044751804b8cf1a5de50c454218aead205850caff2bdd012f19"
+    },
+    {
+      "source": "images/monsters/theCity/sphere/skeleton.json",
+      "size": 18372,
+      "sha256": "5119c33db630ad5f912a6a58e475f09d635b5aa5ec8732e1645a1b51a681e833"
+    },
+    {
+      "source": "images/monsters/theCity/sphere/sphericGuardian.png",
+      "size": 66145,
+      "sha256": "503c9bcf66f884d11d0a2da40594af4893283ce889f7217b91f001a3fb191f62"
+    },
+    {
+      "source": "images/monsters/theCity/stabBook/BookOfStabbing.png",
+      "size": 124407,
+      "sha256": "5ac8c2a795dd6f80450d9bb643db46e45be411f643eca3c7da96e6b1ba4889fc"
+    },
+    {
+      "source": "images/monsters/theCity/stabBook/skeleton.atlas",
+      "size": 1026,
+      "sha256": "e0a351b6012dd3cf5b04bb8e0e90e85f1ee7ee77ff9c3bfbe64c3af6b1a065f2"
+    },
+    {
+      "source": "images/monsters/theCity/stabBook/skeleton.json",
+      "size": 81273,
+      "sha256": "3f82e5fbf40828de42483faa7fc77d76e47de84ab953a733960ab4156eb7dda8"
+    },
+    {
+      "source": "images/monsters/theCity/tank/skeleton.atlas",
+      "size": 1911,
+      "sha256": "ce6bb7d730a9880a3a63c8aac3004d23566f6d036bdf21b058f6eecddc3e924b"
+    },
+    {
+      "source": "images/monsters/theCity/tank/skeleton.json",
+      "size": 180177,
+      "sha256": "19d53c7cdc0e0b42b301615755a98d96a2bd050733dc4edbeb651b5cd5c61455"
+    },
+    {
+      "source": "images/monsters/theCity/tank/tank.png",
+      "size": 109112,
+      "sha256": "fc9d367dc5688644390708bec60c1b4b0b39aa6753af5b4cac2a29b0235d9444"
+    },
+    {
+      "source": "images/monsters/theCity/torchHead/skeleton.atlas",
+      "size": 1093,
+      "sha256": "e262bec7bb251c35a7ffcba3ec2b3692ad4227552de38496e390f12397bc4449"
+    },
+    {
+      "source": "images/monsters/theCity/torchHead/skeleton.json",
+      "size": 6161,
+      "sha256": "7da2e4e2b731b26990c76b53ec572db2243aaa40cf81039569f2aa2cca29222f"
+    },
+    {
+      "source": "images/monsters/theCity/torchHead/skeleton.png",
+      "size": 35014,
+      "sha256": "35be24e93e4d9d59811a3f48dce04e04deae66cc822a5ec2a2e3cac5d997751e"
+    },
+    {
+      "source": "images/relics/abacus.png",
+      "size": 3043,
+      "sha256": "581d6d73d9d994bb146a41343696f54855f36201aa539fc247d6f57a644c37fd"
+    },
+    {
+      "source": "images/relics/akabeko.png",
+      "size": 3002,
+      "sha256": "5aee865f5814ef3bb451f442f3eca12ce4117677eecf4c84d1ac16e69aafeebc"
+    },
+    {
+      "source": "images/relics/anchor.png",
+      "size": 2711,
+      "sha256": "f2850d7884891a4aa0bcf3ebeaf7521c23ceb1d90229d83d40a348973bd0b286"
+    },
+    {
+      "source": "images/relics/anvil.png",
+      "size": 2717,
+      "sha256": "2f40aaae118ba0a2952d70474f0c0d14f3de1d84d7d6cce0ab72dbd069babfea"
+    },
+    {
+      "source": "images/relics/artOfWar.png",
+      "size": 3309,
+      "sha256": "016fd65e6ff59e91c2efcdcb9487791b8f8291f6ff6568028671754081e097da"
+    },
+    {
+      "source": "images/relics/ashes.png",
+      "size": 3111,
+      "sha256": "2fc301ca4ca0faefa65e077c0159630e526ac749e0a48eb2390a1a70f3e3ebfe"
+    },
+    {
+      "source": "images/relics/astrolabe.png",
+      "size": 3038,
+      "sha256": "1be3685b5d7899bc9de78cdde8e35f328314133c7c860b5728bcb1c4ca91c6cc"
+    },
+    {
+      "source": "images/relics/bag_of_prep.png",
+      "size": 3611,
+      "sha256": "6d27c9247bbe3b05ac6cb3fae1af79bfe193119cade7af8a0e63cd2a0eeaade8"
+    },
+    {
+      "source": "images/relics/bank.png",
+      "size": 3225,
+      "sha256": "ce46663346b14a145702a68025eaf4ac9068b7ed7d572578215f3114d37d3729"
+    },
+    {
+      "source": "images/relics/bark.png",
+      "size": 2664,
+      "sha256": "9e2351fb8f0a548b7a58fd200bdb259c18a6de1b7ea2bd0855c8fccec7cc5472"
+    },
+    {
+      "source": "images/relics/battery.png",
+      "size": 3079,
+      "sha256": "46db129a5e2b3f7d7cf15940641bf6c8f6a0d498b931dd28bf836359fb5df574"
+    },
+    {
+      "source": "images/relics/bell.png",
+      "size": 2761,
+      "sha256": "b2f85c6c89237f694b96e5bf22d214502c20323e67df879d8124334a298855b2"
+    },
+    {
+      "source": "images/relics/bellows.png",
+      "size": 2425,
+      "sha256": "33c6f67587b1216b6cda648e2406ea566baed3f2425b14ce1d42be89a5d29549"
+    },
+    {
+      "source": "images/relics/bigSpoon.png",
+      "size": 2064,
+      "sha256": "e282afc3e4c4400656688d23ecfc7681875e7712556e000371ab00acfd2b3793"
+    },
+    {
+      "source": "images/relics/bird_urn.png",
+      "size": 2925,
+      "sha256": "e9e38bbb38cca9b4475d5bfb256f4e4d3c2519938f282405b4b990d29a60d112"
+    },
+    {
+      "source": "images/relics/blackBlood.png",
+      "size": 2635,
+      "sha256": "36af9d2e7e45be871d9b8aecb0b1f57e0d169cf8a30f345dc37312978ac0c8fa"
+    },
+    {
+      "source": "images/relics/blackstar.png",
+      "size": 2464,
+      "sha256": "a893074abd6fe0a61362cbc1c6aff3efc9f8f0bede4149ade838d1ee706cc15d"
+    },
+    {
+      "source": "images/relics/blood_vial.png",
+      "size": 2680,
+      "sha256": "745f7bfe84657623416217e0bb2f090cec350e3169dcf869ff311b42c0ce7550"
+    },
+    {
+      "source": "images/relics/bloodOfGifted.png",
+      "size": 2730,
+      "sha256": "30f150bab247c1ca2165f0cdff46165b935b68607503f03271142e2fe8e1e22b"
+    },
+    {
+      "source": "images/relics/bloodVial.png",
+      "size": 3178,
+      "sha256": "b15a6f14ec5493d40e2c860270a11cd553074a5b72cfcafa0090b3a74d76f783"
+    },
+    {
+      "source": "images/relics/bloodyChalice.png",
+      "size": 3050,
+      "sha256": "4386506cb032e83bd1d52d5887572df34508ebe2bef24fdd5d0b9f3c8e1e7c5b"
+    },
+    {
+      "source": "images/relics/bloom.png",
+      "size": 2594,
+      "sha256": "569e7bed26f0691e17da503d607d0340371b9a37b5607044ff30e8e8c9a9d777"
+    },
+    {
+      "source": "images/relics/blueCandle.png",
+      "size": 3147,
+      "sha256": "5f35ffd88c361ba96e5f323e020435dc64beac1ebf0d7584fd7c0f5295d8c515"
+    },
+    {
+      "source": "images/relics/bluePill.png",
+      "size": 1549,
+      "sha256": "b1b0543de90804d40b98853745ff9236b9c84628f38163cb43e80b959106184b"
+    },
+    {
+      "source": "images/relics/boot.png",
+      "size": 2824,
+      "sha256": "fbad09375f12f479e5b257a10c63e74b93d8e1046b5a1dc9dea9c60da263043d"
+    },
+    {
+      "source": "images/relics/bottledFlame.png",
+      "size": 3155,
+      "sha256": "034476021658044603fe5b5726225d5498c76fa2cde824c9f9d2516ac396e068"
+    },
+    {
+      "source": "images/relics/bottledLightning.png",
+      "size": 3232,
+      "sha256": "d5c3bccf0ad18a92831e983b8c33c6a45ce01e6e80f2d75a75f843596e90ea6c"
+    },
+    {
+      "source": "images/relics/bottledTornado.png",
+      "size": 3274,
+      "sha256": "9fe41be1e58c7cece960781126f40dcf6c00be6e67be66959c1dc09c8fa17d70"
+    },
+    {
+      "source": "images/relics/bowlerHat.png",
+      "size": 2068,
+      "sha256": "11399a59c3a26aa1898fcfeb87ecfc1b32b8f86a386095a6f0ea263361fdfb97"
+    },
+    {
+      "source": "images/relics/brimstone.png",
+      "size": 3080,
+      "sha256": "c25bce14e154dc493f73906621f731f068ada000e46dd5fbbbddeed0906de038"
+    },
+    {
+      "source": "images/relics/bronzeScales.png",
+      "size": 3144,
+      "sha256": "7f943fbbf9d76247a7449a9c590474bfd0826ee211d7100e4be49620b1528157"
+    },
+    {
+      "source": "images/relics/burnHammer.png",
+      "size": 3104,
+      "sha256": "3ef563dbeeeb5150962c16772d154ac791b9bb7309fca059e5419f62b8fc7519"
+    },
+    {
+      "source": "images/relics/burningBlood.png",
+      "size": 2621,
+      "sha256": "63eee3f79b0a30eff7caa0d24c540848aa755a1ae3b7038421c38b50a7735824"
+    },
+    {
+      "source": "images/relics/cables.png",
+      "size": 2854,
+      "sha256": "a0da3c83dfd930132c3897efbaedf3d1bc7b75791d5eea107d46a74178e431ac"
+    },
+    {
+      "source": "images/relics/cage.png",
+      "size": 3026,
+      "sha256": "6872c3d4ee030a510c34ab1deb5e71cb775281976d91bd5c131aeec0e2409b6f"
+    },
+    {
+      "source": "images/relics/calendar.png",
+      "size": 3599,
+      "sha256": "3bca47d2691de55e1316f14a95743752c70f71f126a76e892b82c3beff2b0fde"
+    },
+    {
+      "source": "images/relics/calipers.png",
+      "size": 2410,
+      "sha256": "e7862e484d1423a16743e3f56892ebc328684998f6459252ce12a1eeb67a0de1"
+    },
+    {
+      "source": "images/relics/cantUseRelic.png",
+      "size": 3561,
+      "sha256": "9bb465f6c53b3617c101087852b4a7e6c0e16c6be8431d464bc49594fa23bf13"
+    },
+    {
+      "source": "images/relics/captain_wheel.png",
+      "size": 3035,
+      "sha256": "e13720b47ab2688c784a19f57dc7089eb9b7dc817bd9f348dc91ad971055a1a5"
+    },
+    {
+      "source": "images/relics/cauldron.png",
+      "size": 3349,
+      "sha256": "d8a9f1197a5196bc64d73e6057662fc25423de333b3d0315d4faa4e3382ac557"
+    },
+    {
+      "source": "images/relics/centennialPuzzle.png",
+      "size": 2628,
+      "sha256": "2f74b24c8aa3cc47c6c4c8dad9bccd9f2872cfb39661f223992a0c426260610d"
+    },
+    {
+      "source": "images/relics/ceramic_fish.png",
+      "size": 3313,
+      "sha256": "4a63465c7f9430a3c00a633a4f2bd553f6424dcb3cae264f4bd80ae7be924c1f"
+    },
+    {
+      "source": "images/relics/championBelt.png",
+      "size": 2585,
+      "sha256": "01d818c97ee217bff4a32b91f58b7e432143cc1a260e32d395520b17774b7e54"
+    },
+    {
+      "source": "images/relics/chemicalX.png",
+      "size": 3301,
+      "sha256": "ba586772586fc03ffb78268dc16f1609c2dd078d7bf7579d5a4a5f9fceb2ce12"
+    },
+    {
+      "source": "images/relics/circlet.png",
+      "size": 2022,
+      "sha256": "616fc24d0980ee0653ba3730ff0cdc4965e8b93f329bc79b312552baaff55312"
+    },
+    {
+      "source": "images/relics/clasp.png",
+      "size": 3048,
+      "sha256": "8c2dca230267615fa9142c18a1967dbf2e56ab6ec9b43042730a81ac9d57f20c"
+    },
+    {
+      "source": "images/relics/clay.png",
+      "size": 2991,
+      "sha256": "86b3eee1bbe53f27f735110e9bada9a8ec2c19114627bbac837f406a6a947769"
+    },
+    {
+      "source": "images/relics/clean_water.png",
+      "size": 2389,
+      "sha256": "8189db5de1ebbb7f46bc90cb655cf7f7d72ecc615228c231fe228f6deeb1d8b2"
+    },
+    {
+      "source": "images/relics/clericFace.png",
+      "size": 2940,
+      "sha256": "ce605bf7896c9601b2d5461dd6ae06c05f7a03c3d0c192f139be768561eda99b"
+    },
+    {
+      "source": "images/relics/clockwork.png",
+      "size": 3278,
+      "sha256": "2d91f059b18746b24f6ffa56adf36b9377aa2d5d0f38fc7a181c3ba68d0d1446"
+    },
+    {
+      "source": "images/relics/codex.png",
+      "size": 2985,
+      "sha256": "1b6eb03f05fb7b5a1a50a89fa8ffbcf51f11f8f793adffa1ac6e11279ed183c1"
+    },
+    {
+      "source": "images/relics/coffeeDripper.png",
+      "size": 3029,
+      "sha256": "0e18e039cab4eb8d56a39ee64cd963c3e42a6a5a5ec4043e663fdd4c0ff75247"
+    },
+    {
+      "source": "images/relics/collar.png",
+      "size": 3178,
+      "sha256": "18c36a58877d55d560cfb9eb8cc816156fe9eea4a50a1ebc7f96acc5c6b57698"
+    },
+    {
+      "source": "images/relics/compass.png",
+      "size": 2493,
+      "sha256": "8922fb4424a2822ee6e8cd7bbdea135c3537fee2fefb5cf461c5fa381bc2c57a"
+    },
+    {
+      "source": "images/relics/courier.png",
+      "size": 2985,
+      "sha256": "b075ddb725beba5a9188cb76226b456870dd3e22905e1ead85f6e78657696394"
+    },
+    {
+      "source": "images/relics/crackedOrb.png",
+      "size": 3236,
+      "sha256": "972ca4e2af55fe4136db3efccee4d828c836469a50cd78583d1b57bc4afb55d9"
+    },
+    {
+      "source": "images/relics/crown.png",
+      "size": 2761,
+      "sha256": "3cf4240e37a45eed7f3712668adf0eada469957372d289302ad6132279fd8d24"
+    },
+    {
+      "source": "images/relics/crownOfThorns.png",
+      "size": 3689,
+      "sha256": "df238cd1ca016150aeb0c97d255318b84d389da4250c1f17e91bc2da7330187e"
+    },
+    {
+      "source": "images/relics/cultistMask.png",
+      "size": 2907,
+      "sha256": "2c80c5aa52fdf2a1c9e9eef6b9f17c1737ca75fe833900727d15dced1d06c568"
+    },
+    {
+      "source": "images/relics/cursedBlood.png",
+      "size": 3272,
+      "sha256": "6be4289f76da3322daf13e30dd411e8f1f96a0cef300d9efaeaeab6032390572"
+    },
+    {
+      "source": "images/relics/cursedKey.png",
+      "size": 2484,
+      "sha256": "bbacf03c578c07484d257a61dd447b4fe0045974739306e1ad39a405ef32c9a8"
+    },
+    {
+      "source": "images/relics/damaru.png",
+      "size": 3217,
+      "sha256": "bf6e277a4f7f26d0f130731d0790ff07b906006d107d41c2f3b8f822bc274702"
+    },
+    {
+      "source": "images/relics/darkstone.png",
+      "size": 3170,
+      "sha256": "115cf8c786fa6e3baf927fa053d8db83e051eec4677d9e4d578fad6442bebca7"
+    },
+    {
+      "source": "images/relics/dataDisk.png",
+      "size": 3224,
+      "sha256": "2a24c73818728841f0eb7882fcd69b6b06aeeeb150ffc882375686abbf85ef9f"
+    },
+    {
+      "source": "images/relics/deadBranch.png",
+      "size": 2399,
+      "sha256": "bebf6f98561129085e5bf97e3ac5be5e4c06765e77fe94d6b982b61401a20c60"
+    },
+    {
+      "source": "images/relics/derpRock.png",
+      "size": 1818,
+      "sha256": "c5a6e611d4e7af66d4ef706e223f1f945654a8fa8de688aed2c8133d83249668"
+    },
+    {
+      "source": "images/relics/dodecahedron_s.png",
+      "size": 3339,
+      "sha256": "51470761e251d040bb368c9b27d2e1d44147a4ebee0a9e98507bf749546684e6"
+    },
+    {
+      "source": "images/relics/dodecahedron.png",
+      "size": 2943,
+      "sha256": "d32abd7247c80c7334de3176043cf87a9265e1dde98350b3109808e9447d10f3"
+    },
+    {
+      "source": "images/relics/dreamCatcher.png",
+      "size": 3233,
+      "sha256": "f41be97b4b622a8db211447a95c4e8640ae03e32e5404f0d747de2f653f2d585"
+    },
+    {
+      "source": "images/relics/drill.png",
+      "size": 2757,
+      "sha256": "7975cf5600349f2c9fe5563b44e3c8d2f69c42a4316babd9950e841e6b23d179"
+    },
+    {
+      "source": "images/relics/duality.png",
+      "size": 3884,
+      "sha256": "d864ae5c158ebecd8cba9d0d7aa25d2b35ef6945db42f7530a2a88d5c0ca6629"
+    },
+    {
+      "source": "images/relics/dummy.png",
+      "size": 3454,
+      "sha256": "184466daf763317836587980f42e87ba5d7f64f3531b507c7ce4cea8330c1859"
+    },
+    {
+      "source": "images/relics/duvuDoll.png",
+      "size": 2915,
+      "sha256": "cece9743856861ee13622dcbebd2f07fbf91b75b0014ce1b9428d30692ce3b57"
+    },
+    {
+      "source": "images/relics/ectoplasm.png",
+      "size": 2854,
+      "sha256": "0a6349a1b0743582cf4023bc78f0bed54708b3606717566bfb9c852a5765b0d7"
+    },
+    {
+      "source": "images/relics/egg1.png",
+      "size": 2616,
+      "sha256": "fe1372a6f8f623af17fac38364373c12b8e7147ed2ab7e47f52c68ca1860296d"
+    },
+    {
+      "source": "images/relics/egg2.png",
+      "size": 2739,
+      "sha256": "e9fe2315e8e316db8d6f57ea2a5fedcd0703688e5617b8919f02ef4477c9fbbb"
+    },
+    {
+      "source": "images/relics/egg3.png",
+      "size": 2928,
+      "sha256": "7b62b4e3fb10e0c1593050477f151561128552bef6518b1c17be6e292ba9511e"
+    },
+    {
+      "source": "images/relics/emerald_key.png",
+      "size": 2630,
+      "sha256": "e473b38bf0abf9595cafaa8e66514663034c962bfc015b9d8bcf58a88b1a9416"
+    },
+    {
+      "source": "images/relics/emerald.png",
+      "size": 2593,
+      "sha256": "6e7f71e230e39d4d8cde7755a9c30a98d901367916db2dd3932f9a973ba6da15"
+    },
+    {
+      "source": "images/relics/emotionChip.png",
+      "size": 2594,
+      "sha256": "c57c34db7b6a34c113d1a059853061c482e1fe74055f2efc906dce7e66fa1770"
+    },
+    {
+      "source": "images/relics/enchiridion.png",
+      "size": 3189,
+      "sha256": "d1113499832e51c154060229befc212ca3d2e7a9247293669b0b2b1464a5d137"
+    },
+    {
+      "source": "images/relics/equilibrium.png",
+      "size": 3058,
+      "sha256": "acad63c6fc5e1f14998bf30f82ad77a276b7723c8e6cad6e8fcfa1f868107247"
+    },
+    {
+      "source": "images/relics/eternal_feather.png",
+      "size": 3294,
+      "sha256": "c8faa0f329ad31e0e2ebb8f398789c3a0592156333cdcf4f0e873824fe8232a3"
+    },
+    {
+      "source": "images/relics/frozenEgg.png",
+      "size": 2831,
+      "sha256": "afedb7612095deebbc3f060ef7db8f9fd38216e646eacbc218062f53eeed40c2"
+    },
+    {
+      "source": "images/relics/frozenEye.png",
+      "size": 3284,
+      "sha256": "5edb7e2223299477b782640e22df1d14fa03bae03945bc0ed151c058b490a79d"
+    },
+    {
+      "source": "images/relics/frozenOrb.png",
+      "size": 3604,
+      "sha256": "5900916c35a889df2ad99ebd8676b639c7443c2728465351a839d20c4f2e1208"
+    },
+    {
+      "source": "images/relics/funnel.png",
+      "size": 2991,
+      "sha256": "e5caca7cdb3f223e837e69cf48896bd74fb05a4a2ac815055a97a051c255910f"
+    },
+    {
+      "source": "images/relics/gamblingChip.png",
+      "size": 2397,
+      "sha256": "158589d94c50c848c7e1fd1c677eb58ab514b20fdcdb5f0572d67ab17d7f88c9"
+    },
+    {
+      "source": "images/relics/ggg.png",
+      "size": 3381,
+      "sha256": "5c4e3197ef2fa0b356cba4e9de26f72dbd0dc24cb39a3b9d272a0e1e9d3c8c64"
+    },
+    {
+      "source": "images/relics/ginger.png",
+      "size": 2147,
+      "sha256": "42f1f1da582fc0bf33d16786a14c216de90a6c983638c078c209604f44fe1c02"
+    },
+    {
+      "source": "images/relics/golden_eye.png",
+      "size": 3588,
+      "sha256": "5f2f4d0e27c71d99c2a7206f20321cc9008e58a501136e20fd0e078eee126488"
+    },
+    {
+      "source": "images/relics/goldenIdolRelic.png",
+      "size": 2939,
+      "sha256": "ef01e9770ace799925138bb026507ae5ef9ef2d2f03fb0b5d223180bf2e8d895"
+    },
+    {
+      "source": "images/relics/goldTooth.png",
+      "size": 2794,
+      "sha256": "04d9ff137403990c6e624424ca87ffa8172b8e0277643d562c555d938ecc897e"
+    },
+    {
+      "source": "images/relics/gremlin_horn.png",
+      "size": 2683,
+      "sha256": "c1a0f39404bd501e617539ee70763c703e0f46169947c91f1697df850059d116"
+    },
+    {
+      "source": "images/relics/gremlinMask.png",
+      "size": 3297,
+      "sha256": "d5d01ebde1db7f105937e2c0b9cc2902e6878356ed58d7411a350a0f110ff39e"
+    },
+    {
+      "source": "images/relics/gyoza.png",
+      "size": 2976,
+      "sha256": "975246f6cde9d3e109124654bd161dc5228fa11beb2137ce5cf980e9887704cf"
+    },
+    {
+      "source": "images/relics/headband.png",
+      "size": 2700,
+      "sha256": "5077c2dd1989ce2f2b292574074ce3cefc961fc98e5ab9031e5983b39788b083"
+    },
+    {
+      "source": "images/relics/helix.png",
+      "size": 3677,
+      "sha256": "b1e80738793bbeb51d038835b712404b2a180e9ef66a705779a8b8368e21bd60"
+    },
+    {
+      "source": "images/relics/holy_water.png",
+      "size": 2849,
+      "sha256": "4039ddb8166c90bf74db8db7c7d1c3c37920b4424abd782c02f705a0c1768585"
+    },
+    {
+      "source": "images/relics/horn_cleat.png",
+      "size": 2466,
+      "sha256": "ead2a3f2666b3e38df4c239384092f0d2ac81b3edd3bc6c6ba5046e2bbc3a1c6"
+    },
+    {
+      "source": "images/relics/hotPotato.png",
+      "size": 2458,
+      "sha256": "420cc861144993112e2c354c6aaa8eaf35b389879fbd7063c6454a5d9244c666"
+    },
+    {
+      "source": "images/relics/hourglass.png",
+      "size": 2771,
+      "sha256": "f743219cac089c4df6f29927f7479d08368ac8cf1ceb1c3cb5152fa534409b29"
+    },
+    {
+      "source": "images/relics/iceCream.png",
+      "size": 2423,
+      "sha256": "622cdb193ba310d37c08efe775a68ac8b79883b64bd1d21775404addfde2ffaa"
+    },
+    {
+      "source": "images/relics/incenseBurner.png",
+      "size": 3309,
+      "sha256": "4f66a5b710b84ce34bbdd83973ea59a6793cc32219e30f2b4d97d97a1e5c213e"
+    },
+    {
+      "source": "images/relics/ink_bottle.png",
+      "size": 3431,
+      "sha256": "d0ad20e7dbd5350660bc18778675f5f1b7a2bef1dda9cdc439c0cfcb3a3748e7"
+    },
+    {
+      "source": "images/relics/insect.png",
+      "size": 3211,
+      "sha256": "3e2eb9c573375a64883a3c8be551ea443fdcc3ba8bd256d8f99ca28151b4cb26"
+    },
+    {
+      "source": "images/relics/inserter.png",
+      "size": 2597,
+      "sha256": "a2af47d6dcb90a5b611baa42477975208ac63c6df808b4f4e5103cc3e3e1c6e1"
+    },
+    {
+      "source": "images/relics/juzuBracelet.png",
+      "size": 3252,
+      "sha256": "b0067f36fc9241c3b321b3ba2d51f258d1d7d133ded29bdfc64595442340eba5"
+    },
+    {
+      "source": "images/relics/kettlebell.png",
+      "size": 3476,
+      "sha256": "010ed239d87e1b1bac71d580b5d205c7440a398b8c2d71c2e14b4191b8e49cf1"
+    },
+    {
+      "source": "images/relics/keyRing.png",
+      "size": 3276,
+      "sha256": "ec7ddf351c8171279af9a2ce94175e76eb904755e06cdab1980f92154d13e898"
+    },
+    {
+      "source": "images/relics/kindling.png",
+      "size": 2786,
+      "sha256": "2e7c6bfeefdfa6acd68af480a220cbf0b0a40dfaebf7210d317a71a122acab10"
+    },
+    {
+      "source": "images/relics/kite.png",
+      "size": 2865,
+      "sha256": "d7b26f581ecf63202e49e9ba7da337af6f07465b654acbe1b246a7f22cae85cf"
+    },
+    {
+      "source": "images/relics/kunai.png",
+      "size": 2315,
+      "sha256": "151e4866a858f8e6efbc97e8739aa64153866402dca86975d29a8efb72ffe5f0"
+    },
+    {
+      "source": "images/relics/lament.png",
+      "size": 3367,
+      "sha256": "0e850f615e0d38b811b8cd3df6631f2226218b55beabb9ce8e849289f3312ade"
+    },
+    {
+      "source": "images/relics/lantern.png",
+      "size": 3249,
+      "sha256": "bfce2d0553002f4333ba6de84180f6f1337c84b7437a544e89dd8f024bb45ba8"
+    },
+    {
+      "source": "images/relics/letterOpener.png",
+      "size": 2603,
+      "sha256": "a98c83036c6f7154d130f416f1154451207d41f7c465a649d9f14ff98e2aef2a"
+    },
+    {
+      "source": "images/relics/lives.png",
+      "size": 2959,
+      "sha256": "6a423658e9e426c894fa8ad7a246e9e0b573a38bacad1dbe0dbbf0f84a586910"
+    },
+    {
+      "source": "images/relics/livingBlood.png",
+      "size": 3312,
+      "sha256": "0d17ea517e92640ffedc7771da7bc6912f154c57b1f276ab5d0d8ba4b4ca0b51"
+    },
+    {
+      "source": "images/relics/lizardTail.png",
+      "size": 3271,
+      "sha256": "bfcbd606678cbdfc169f377479b67bfaa12b9c811f3e7872a16839bfaa2da783"
+    },
+    {
+      "source": "images/relics/lock.png",
+      "size": 3400,
+      "sha256": "fe5fd2fbb7c473594d84e999bbcffff23dc8abbbcac81916e292dd8eb525662f"
+    },
+    {
+      "source": "images/relics/magicFlower.png",
+      "size": 3161,
+      "sha256": "bc0bad00bd5e3220e6dbc67e927af18d86bbcf85826b1930ac7684bf30cba8b1"
+    },
+    {
+      "source": "images/relics/mango.png",
+      "size": 3173,
+      "sha256": "052b441c23785b74250a36ef849c3b7c5ec357ed8511f85431f973aead0a1132"
+    },
+    {
+      "source": "images/relics/marbles.png",
+      "size": 2677,
+      "sha256": "cea61b0a60086d14bc01e222e69313f98847268b730a18279cf7b096140dfae2"
+    },
+    {
+      "source": "images/relics/mark_of_pain.png",
+      "size": 2791,
+      "sha256": "8ade9b3795029a5b70152957567d95fdaf673726b0cb89dabe40d526a21e1d80"
+    },
+    {
+      "source": "images/relics/matryoshka.png",
+      "size": 3039,
+      "sha256": "d36edd373a7f32601e7c85d722be919ea11b7df0069ca1229509ccda55179448"
+    },
+    {
+      "source": "images/relics/mealTicket.png",
+      "size": 2807,
+      "sha256": "1496a1f8cf57afff032d4fa805b0fed1fe41edc617de6d2277adc42c7fffd9d2"
+    },
+    {
+      "source": "images/relics/meat.png",
+      "size": 2903,
+      "sha256": "0722249f68611eee61ae33518b0921b649c71f0b4d9326c66f69c030ad6a5c07"
+    },
+    {
+      "source": "images/relics/medicalKit.png",
+      "size": 3155,
+      "sha256": "e8681d37d738028a3d9f5b62f632014587241b8e029e70046e3ee546a9904978"
+    },
+    {
+      "source": "images/relics/melange.png",
+      "size": 3535,
+      "sha256": "8d2fc3659f7e96c123a8f2d1b0d49107070c2e5b345d73e8c38b2c7be9c2e229"
+    },
+    {
+      "source": "images/relics/membershipCard.png",
+      "size": 2813,
+      "sha256": "70bd6534443ef8e135334839e0fdf3096e04f0ae6f308fb2e2df43357063f390"
+    },
+    {
+      "source": "images/relics/merchantMask.png",
+      "size": 3210,
+      "sha256": "930d11f7d40deb1edd22ffd900962ae600c78f89871151d095ddaafd6e04bcfb"
+    },
+    {
+      "source": "images/relics/mirror.png",
+      "size": 3620,
+      "sha256": "2f476a432a38ceaa20f5ca1361dd22b5c22a835d8a6b60b5722e9c4723461bb9"
+    },
+    {
+      "source": "images/relics/monocle.png",
+      "size": 2728,
+      "sha256": "5738931461d61d5527b9ed29c059646d5f1e2d571a7cdae6a53c3a4a8ef221a9"
+    },
+    {
+      "source": "images/relics/mummifiedHand.png",
+      "size": 3033,
+      "sha256": "c5a5fe78d9eee653fafbce59fce85b00df5ab616c68897e97688702b1498db0c"
+    },
+    {
+      "source": "images/relics/mushroom.png",
+      "size": 2930,
+      "sha256": "c67d40f6c19107977f48415d4447da2765a94c60b44e3c083a2dfd8c4adb0676"
+    },
+    {
+      "source": "images/relics/mutagen.png",
+      "size": 2972,
+      "sha256": "d81917b3b384f1bd880d85471703c178d594258d9c91eb4f701ee7c97b6d1193"
+    },
+    {
+      "source": "images/relics/necronomicon.png",
+      "size": 4043,
+      "sha256": "cf363d8ea021bd8950a1b77f95cab63e8cca38d8b3698528edb2c887cf738c3c"
+    },
+    {
+      "source": "images/relics/ninjaScroll.png",
+      "size": 2937,
+      "sha256": "3da53989510cd7a0fc3d1ec74b67e1cd99aabc006b0bb97087fb54ad103eb441"
+    },
+    {
+      "source": "images/relics/nloth.png",
+      "size": 3027,
+      "sha256": "aac58e25aa7872d70cf0f8a4e0ece58dd8f012813f975564bd18daaad4bde5a9"
+    },
+    {
+      "source": "images/relics/nlothsGift.png",
+      "size": 2871,
+      "sha256": "8edbc022d4ed480ee476f413b939ebebc16b4a1fe75870bf6282734bcd447957"
+    },
+    {
+      "source": "images/relics/nullStone.png",
+      "size": 3148,
+      "sha256": "01833b302e1274ed3c4d6f64830f13744c6e222d56bb4768753a167586132b98"
+    },
+    {
+      "source": "images/relics/nullStoneUsed.png",
+      "size": 3171,
+      "sha256": "b486105230d330e84ec475be915fa04933226e6b12457d2bbbd2f0c2ce5a702c"
+    },
+    {
+      "source": "images/relics/nunchaku.png",
+      "size": 2486,
+      "sha256": "d6a875397d51bdaa21f4ecf344d3b5fcde3f0fde3a1b28807d4aa32adf9852fd"
+    },
+    {
+      "source": "images/relics/octohedron.png",
+      "size": 2571,
+      "sha256": "5778260cffaf3a27a846e5670f0662fd5ca23939c4c15d4006669d1518bfc08a"
+    },
+    {
+      "source": "images/relics/oldCoin.png",
+      "size": 3329,
+      "sha256": "707aafe78254e64b508443bf20ccf8513c83730032cc104342ed74f6e9ffab4f"
+    },
+    {
+      "source": "images/relics/omamori.png",
+      "size": 3114,
+      "sha256": "b4cdb4afb296ceb7d7da523963130436611df4b07a22ddccf71196eb52d72acb"
+    },
+    {
+      "source": "images/relics/orichalcum.png",
+      "size": 3088,
+      "sha256": "70088a82b06fd838ecda637c5fbeae4f409e3d71b64545355139efd115df2116"
+    },
+    {
+      "source": "images/relics/ornamentalFan.png",
+      "size": 2904,
+      "sha256": "6b6540b8169346a92f0c012be5e297464621835f348ad4a552f795a6345eca65"
+    },
+    {
+      "source": "images/relics/ornithopter.png",
+      "size": 3028,
+      "sha256": "8384a7d8f82e5d58749688e603664ab97024fde824de45396aa0b1f564072a39"
+    },
+    {
+      "source": "images/relics/orrery.png",
+      "size": 2846,
+      "sha256": "56350faad6f7589189eb0922457b4270bdfb9a342bb9d34e1634a54c3560e8da"
+    },
+    {
+      "source": "images/relics/outline/abacus.png",
+      "size": 848,
+      "sha256": "7bbc40fd21e0a537f49015d3029267d592e3d5106c631d881a7b3fb03ef1e65a"
+    },
+    {
+      "source": "images/relics/outline/akabeko.png",
+      "size": 893,
+      "sha256": "e794e02dde2e93d0ca1aa756cc747df431d9aecd5e002a14dbe4834b7cd217b6"
+    },
+    {
+      "source": "images/relics/outline/anchor.png",
+      "size": 979,
+      "sha256": "44343b67c274dcd6bd26ba60d4e865a3035170acf3cee287f5f49cf0f396f35d"
+    },
+    {
+      "source": "images/relics/outline/anvil.png",
+      "size": 849,
+      "sha256": "9188e159cd74377baace2e079b993c7b38b050e429c819c5e7e256de9cb823b3"
+    },
+    {
+      "source": "images/relics/outline/artOfWar.png",
+      "size": 797,
+      "sha256": "a2904fab93f4df6f054607b4108f21aced715fce07558c2ff81c823a862ea817"
+    },
+    {
+      "source": "images/relics/outline/ashes.png",
+      "size": 762,
+      "sha256": "d10d384c5a767ecea3b8812f5240a55f7ada913063fa11220377b0249080c5d3"
+    },
+    {
+      "source": "images/relics/outline/astrolabe.png",
+      "size": 870,
+      "sha256": "8144d3ab77834d51642c33012f1037b8e2c606b50aa4a08b89c93de575e51118"
+    },
+    {
+      "source": "images/relics/outline/bag_of_prep.png",
+      "size": 1008,
+      "sha256": "41ec5c24b41af2aaf125f1e089223de554873bbb74e1a5998cb3920709ac1101"
+    },
+    {
+      "source": "images/relics/outline/bagOfPreparation.png",
+      "size": 994,
+      "sha256": "7403fbc30491ac46dcf964c3b72ea838da382d6f2ecced745057f40d9369ef8e"
+    },
+    {
+      "source": "images/relics/outline/bank.png",
+      "size": 882,
+      "sha256": "4e57d01863d2d1687112e0f4fe2dd0c96b5981e645244cd793d02d84ccbde119"
+    },
+    {
+      "source": "images/relics/outline/bark.png",
+      "size": 911,
+      "sha256": "48c1138bd4d75ac616bd5ec61505f9a19d4995b0d06b834eda2f3730782e9a4c"
+    },
+    {
+      "source": "images/relics/outline/battery.png",
+      "size": 791,
+      "sha256": "8e5fb122b983938bcc2fa7e941e73976870eaea16d5b02540d1c882b8d0a42eb"
+    },
+    {
+      "source": "images/relics/outline/bell.png",
+      "size": 985,
+      "sha256": "4167e4facb365407b7a93e4d19f14116e9ac39f3e30f2d7c4d31348c9b728e86"
+    },
+    {
+      "source": "images/relics/outline/bellows.png",
+      "size": 913,
+      "sha256": "2ab90366b45e28ba81853563b9a48b2ad942e391176d317bc7a63325024e85e9"
+    },
+    {
+      "source": "images/relics/outline/bigSpoon.png",
+      "size": 886,
+      "sha256": "2416f0b22e87f79e9632435a908993c17f36d9a839b4717d2a9a71a8d9bc493d"
+    },
+    {
+      "source": "images/relics/outline/bird_urn.png",
+      "size": 899,
+      "sha256": "ca1e9c126835b8871a7b8412a336b3a09def5e901d2d10e5b4d542aa1f81e997"
+    },
+    {
+      "source": "images/relics/outline/blackBlood.png",
+      "size": 979,
+      "sha256": "af490ddd768f2677b0ef64975c616431f42cdace011e0cea610002946d416e2f"
+    },
+    {
+      "source": "images/relics/outline/blackstar.png",
+      "size": 967,
+      "sha256": "deb95941af63f0bc90d2ab90a8c003fae7c5ec56f3f7f7248ba56d1ff1c9915e"
+    },
+    {
+      "source": "images/relics/outline/blood_vial.png",
+      "size": 925,
+      "sha256": "ba6ef1238e7e6f1af22a2367073f920a4bfcfc1dd39b8fc453e52e729c60dc58"
+    },
+    {
+      "source": "images/relics/outline/bloodOfGifted.png",
+      "size": 785,
+      "sha256": "bdb437a8474a7a2da73a29b8c28c4f7103ea5a8dadc2be78eb357b85d1e937d5"
+    },
+    {
+      "source": "images/relics/outline/bloodVial.png",
+      "size": 1031,
+      "sha256": "e7417434d2b486ed9b5134b239030302dfc88916caedaa6d7ad32a2eabc08727"
+    },
+    {
+      "source": "images/relics/outline/bloodyChalice.png",
+      "size": 880,
+      "sha256": "b03da20abb7b96e01905f9db4dddfaea7ab2f20e2082c88180424967a384634d"
+    },
+    {
+      "source": "images/relics/outline/bloom.png",
+      "size": 949,
+      "sha256": "63243fad698f0f43c632eb70b9bee6c129c19fe80aea1d60b2fe1d316ebe1989"
+    },
+    {
+      "source": "images/relics/outline/blueCandle.png",
+      "size": 995,
+      "sha256": "e7106efb25d86c06566bcc4a9f8157c16d2ae24a09fb2cc235409156a7c83e2b"
+    },
+    {
+      "source": "images/relics/outline/bluePill.png",
+      "size": 691,
+      "sha256": "fecb22d35363b3639b0e39d9d13b42d4b6f064857c7aa50241375db88bf47dc6"
+    },
+    {
+      "source": "images/relics/outline/boot.png",
+      "size": 825,
+      "sha256": "205952e6d8bb3b7c48a0ff291f62c06012ccb950d40f3278bc415cc805ddc9e0"
+    },
+    {
+      "source": "images/relics/outline/bottledFlame.png",
+      "size": 938,
+      "sha256": "1943e2827c4023612ff3704db8a26dfb6bd306eedcd676c197f4404d49a1aad7"
+    },
+    {
+      "source": "images/relics/outline/bottledLightning.png",
+      "size": 944,
+      "sha256": "085b3d8be18262e512d5e5e895423d86201e3a51a0a9ef7eaef8f24680a4f610"
+    },
+    {
+      "source": "images/relics/outline/bottledTornado.png",
+      "size": 936,
+      "sha256": "97fb3ca4a7783cea7d5bf6dd6b2332c7eb616384528f3b42896b2f739c6deadc"
+    },
+    {
+      "source": "images/relics/outline/bowlerHat.png",
+      "size": 802,
+      "sha256": "e5bd50e8754306c510a09549ad45295aed1201fd3d251234777d209d2e285010"
+    },
+    {
+      "source": "images/relics/outline/brimstone.png",
+      "size": 856,
+      "sha256": "1030f4d3fb55e98f7433474c340702e59df151c771bdc82949357aaad76062d9"
+    },
+    {
+      "source": "images/relics/outline/bronzeScales.png",
+      "size": 877,
+      "sha256": "2f8f79cec01e1d2b7071555efd3757e3e06c6a28463ceffbf0727373e1c4c7c3"
+    },
+    {
+      "source": "images/relics/outline/burnHammer.png",
+      "size": 1077,
+      "sha256": "6d4df225dc55683b15cf2f5ab29d4a57ba7e33e82a06c6de22462c162b4290c6"
+    },
+    {
+      "source": "images/relics/outline/burningBlood.png",
+      "size": 959,
+      "sha256": "6b034675d78ee2a1651a128c3e97ca3738d90cf15d0bae2e18d2332ecf6e2af5"
+    },
+    {
+      "source": "images/relics/outline/cables.png",
+      "size": 928,
+      "sha256": "40445b1db45e98345f53325dd7bc84fe3bac472e664cfef0dc8d88e5da958d70"
+    },
+    {
+      "source": "images/relics/outline/cage.png",
+      "size": 710,
+      "sha256": "01e3d9b2a399c0f5836290afe827d3bca89b9d8a460a4d711a1a28368e01ca31"
+    },
+    {
+      "source": "images/relics/outline/calendar.png",
+      "size": 878,
+      "sha256": "4a0c1277b229897ef9009fa0caff4bf45c37004a83c396d5395be313abc32a13"
+    },
+    {
+      "source": "images/relics/outline/calipers.png",
+      "size": 1057,
+      "sha256": "39427729e7305177fdcf354b2fb9b2766bf1f7854287ee90497474bc88d7bb16"
+    },
+    {
+      "source": "images/relics/outline/cantUseRelic.png",
+      "size": 1009,
+      "sha256": "054958bdc36daf3d31ecacbe7501939d7892c77ef53234347802247ff7f3dd91"
+    },
+    {
+      "source": "images/relics/outline/captain_wheel.png",
+      "size": 1094,
+      "sha256": "8b6d9ef96b8fa9bfa1ebe5934a90f88fa1ab0f4f2bc2e0d51dc801884e6bfc50"
+    },
+    {
+      "source": "images/relics/outline/cauldron.png",
+      "size": 831,
+      "sha256": "3998caf591ed27de9414415916ed7d591f3aa3da85b2ad1e9ee04d7fea96efd8"
+    },
+    {
+      "source": "images/relics/outline/centennialPuzzle.png",
+      "size": 840,
+      "sha256": "c05c4c43dd71a11e779bf28d155d399464d0352a3c4394be7f91b6910244607e"
+    },
+    {
+      "source": "images/relics/outline/ceramic_fish.png",
+      "size": 1046,
+      "sha256": "10d37c9228dfbe29fb49023014dc312772ff1d07d178c7eb2e7fefe7addbb05f"
+    },
+    {
+      "source": "images/relics/outline/championBelt.png",
+      "size": 716,
+      "sha256": "d9271e32c21c5771796916632d3995063be30289895744fbf1fb9a57b7739cb2"
+    },
+    {
+      "source": "images/relics/outline/chemicalX.png",
+      "size": 828,
+      "sha256": "6b9283bfb66864ac188e159349d56bf4cc0e17dccaa56d5c579849050633af71"
+    },
+    {
+      "source": "images/relics/outline/circlet.png",
+      "size": 796,
+      "sha256": "17a15173aa82a5b56e48624327044fc024da36bfd1a30e63a653bf95987c5f86"
+    },
+    {
+      "source": "images/relics/outline/clasp.png",
+      "size": 973,
+      "sha256": "af325011b1f0f3c0623a9e6f22a92eae48a784dcc71a86edab4f68b5c3f85a0d"
+    },
+    {
+      "source": "images/relics/outline/clay.png",
+      "size": 925,
+      "sha256": "353a88a5303d84a27cb7f29fa1ca7b8f706417c28184230db737b94430f1737a"
+    },
+    {
+      "source": "images/relics/outline/clean_water.png",
+      "size": 978,
+      "sha256": "4ebcd66f0646edbc511eed0a2a16e48693159fca41f6dafa77a3f93f659daae6"
+    },
+    {
+      "source": "images/relics/outline/clericFace.png",
+      "size": 1009,
+      "sha256": "46a0aa8d93778fe9a8ae05932352f5df8cb8d1114492adfae4c3694bb88c917e"
+    },
+    {
+      "source": "images/relics/outline/clockwork.png",
+      "size": 1064,
+      "sha256": "3ccdd3253ddf6105791d44556be44d31b083184fb74585c3461626e110b6dc11"
+    },
+    {
+      "source": "images/relics/outline/codex.png",
+      "size": 838,
+      "sha256": "782ef04cd6abf1bb24d2949ceb182e9d470ebe20eefa0cabc80bd243231b0854"
+    },
+    {
+      "source": "images/relics/outline/coffeeDripper.png",
+      "size": 938,
+      "sha256": "75a49a9b8cd11434e4659e4ad6eecea39b536a8dd1e35635d3847765b00b5bda"
+    },
+    {
+      "source": "images/relics/outline/collar.png",
+      "size": 1254,
+      "sha256": "a1520a4ae6915d9f1b8539ccb3e6c8c6206cefc7b0cb24d70d4d15e94f9d1746"
+    },
+    {
+      "source": "images/relics/outline/compass.png",
+      "size": 946,
+      "sha256": "aea423789625d13c4e11f4406feaf999741090835f9041a841b79fd5e544c9da"
+    },
+    {
+      "source": "images/relics/outline/courier.png",
+      "size": 1058,
+      "sha256": "dd74c29ef75038cc5bf2995bf4d72a9eb86573828fdc7a3c9bab0b45d85f9e60"
+    },
+    {
+      "source": "images/relics/outline/crackedOrb.png",
+      "size": 922,
+      "sha256": "17c99e42525fc3efd2e2b35a72005a38d47e8e8f00b8585f28972c108c9ea095"
+    },
+    {
+      "source": "images/relics/outline/crown.png",
+      "size": 870,
+      "sha256": "29522f8aab39a23d9c0c854defae9baa57b4e9b6ac2a942cb63a1060b7a3c3f3"
+    },
+    {
+      "source": "images/relics/outline/crownOfThorns.png",
+      "size": 1047,
+      "sha256": "6aa5262f1b3aa2529576d1d32bb64dd3ee02becb72ce50cc02d1d2451a366bdc"
+    },
+    {
+      "source": "images/relics/outline/cultistMask.png",
+      "size": 713,
+      "sha256": "c12b3be9b88dc315d90a41fbdff5f6ec868e85e65b01cc3cc15cbec238fb0e40"
+    },
+    {
+      "source": "images/relics/outline/cursedBlood.png",
+      "size": 967,
+      "sha256": "2643e867867ec86bc2152720613c982e3f5ee8d3ff20b5f9264010bc1948aa3a"
+    },
+    {
+      "source": "images/relics/outline/cursedKey.png",
+      "size": 888,
+      "sha256": "7b35226b3c18b12580a6f3b11e7a1c03fae246c0961bf2dad82c49fa9939ee4d"
+    },
+    {
+      "source": "images/relics/outline/damaru.png",
+      "size": 931,
+      "sha256": "841e572f4955a490d27ec16b56fc96d95e433f635c8f2cf6fb31849fd87cb9e3"
+    },
+    {
+      "source": "images/relics/outline/darkstone.png",
+      "size": 1158,
+      "sha256": "a42cb427c6b92eafc415bd29970f5c7712c320f2e6ac023b9255134cca64453a"
+    },
+    {
+      "source": "images/relics/outline/dataDisk.png",
+      "size": 831,
+      "sha256": "f99b218cd057eb7702f0e096f039503d1e60bf766b8f651c1b230cbbbda7d336"
+    },
+    {
+      "source": "images/relics/outline/deadBranch.png",
+      "size": 812,
+      "sha256": "4cb289ac775c62d00a7b33f6a9e3804071909d43ca7153dff0867cadc868183e"
+    },
+    {
+      "source": "images/relics/outline/derpRock.png",
+      "size": 927,
+      "sha256": "ccd86dcba1a244869ed74d011065de27c774a6476466bc567b2b391bfbc8bce0"
+    },
+    {
+      "source": "images/relics/outline/dodecahedron_s.png",
+      "size": 919,
+      "sha256": "f365dcbb119b9a636bd3aeeafd7289c8ad82624daf250b78d2a4ec371d7635d9"
+    },
+    {
+      "source": "images/relics/outline/dodecahedron.png",
+      "size": 803,
+      "sha256": "5273f7aaa0844f230a2a6d8f22c4f67cd1fd40891cee399952f37508cc2e2976"
+    },
+    {
+      "source": "images/relics/outline/dreamCatcher.png",
+      "size": 1050,
+      "sha256": "93faeb55c603074812583546ff92000e7d86d4de34ff907c6966842661d4b8c5"
+    },
+    {
+      "source": "images/relics/outline/drill.png",
+      "size": 1015,
+      "sha256": "618f608bb7f89d2d3fe024a00c610aa7d52a879c137def4bd9ad1459a9ee450e"
+    },
+    {
+      "source": "images/relics/outline/duality.png",
+      "size": 913,
+      "sha256": "831ede5290153c3b3e5b13fb13317d1e3b8be09b1d54206f5e6a811ef1be21ee"
+    },
+    {
+      "source": "images/relics/outline/dummy.png",
+      "size": 1038,
+      "sha256": "b15cf8567e1313b02c5e2d6d795ffbbfc4f5b4c6c292174a565b3813d3a465af"
+    },
+    {
+      "source": "images/relics/outline/duvuDoll.png",
+      "size": 919,
+      "sha256": "e29bb229832be0b70f9facb96356ae4925325fa224d4a09c8021a35d332390ae"
+    },
+    {
+      "source": "images/relics/outline/ectoplasm.png",
+      "size": 812,
+      "sha256": "e5f7eb09b6192a3c48588c8cbc4393e698501bb5a782057c563171643a73259a"
+    },
+    {
+      "source": "images/relics/outline/egg1.png",
+      "size": 874,
+      "sha256": "14b44eede809366e47283a8400d983481ef77a8375da1cb8addd460f5df2ee5c"
+    },
+    {
+      "source": "images/relics/outline/egg2.png",
+      "size": 827,
+      "sha256": "397fb9c4e6037bffa8e2aa8fbd2d93f506400a78111dbeccff45038adff0b385"
+    },
+    {
+      "source": "images/relics/outline/egg3.png",
+      "size": 907,
+      "sha256": "b4de62c90d7672b54d5be15faf52f33c350d0cb64f4ee21b908f4206eab3cbcf"
+    },
+    {
+      "source": "images/relics/outline/emerald_key.png",
+      "size": 917,
+      "sha256": "e70d1b70e77c8c3f329a43ee283a1fd6fe8ec637f18edaccdb2edcf7e5190587"
+    },
+    {
+      "source": "images/relics/outline/emerald.png",
+      "size": 757,
+      "sha256": "d33aa211cf188ab37b5bce0b7795e6ebef16d46d458cf98dc7cf2f23a034bba9"
+    },
+    {
+      "source": "images/relics/outline/emotionChip.png",
+      "size": 805,
+      "sha256": "d9be89d4a5fac57f411b5856e9f03d75fe8852c990270e9b1471b7f9da83d13a"
+    },
+    {
+      "source": "images/relics/outline/enchiridion.png",
+      "size": 860,
+      "sha256": "f3c6a18b93dfea645113605e44162f74d24a10e408b6322be4ec4fabd1b2a534"
+    },
+    {
+      "source": "images/relics/outline/equilibrium.png",
+      "size": 1045,
+      "sha256": "7382922d3b0a25944f61cad8b1a64f3612c90370d69bf38b8890f291e8f5014c"
+    },
+    {
+      "source": "images/relics/outline/eternal_feather.png",
+      "size": 977,
+      "sha256": "e259efa0d1abdbfb04203857ed68f226b74a36c348634b8597403dde016b50e7"
+    },
+    {
+      "source": "images/relics/outline/frozenEgg.png",
+      "size": 829,
+      "sha256": "c98d641de1b7b8192bc10123b9cbc1acb8b60be64a47e23f9d9adb74f17ad4cd"
+    },
+    {
+      "source": "images/relics/outline/frozenEye.png",
+      "size": 796,
+      "sha256": "3cd4aca5353b0dd7306f04cd7134ee62b78109e7e1e64d708dac926fd1e95e0b"
+    },
+    {
+      "source": "images/relics/outline/frozenOrb.png",
+      "size": 996,
+      "sha256": "9564031074649bb811308581c69156a29d09055c2e39d7d7656cf65eeca3c894"
+    },
+    {
+      "source": "images/relics/outline/funnel.png",
+      "size": 657,
+      "sha256": "6c3232051b9491787da032f43a4818ffe229aba8b1147fec07f8af264afb1a5b"
+    },
+    {
+      "source": "images/relics/outline/gamblingChip.png",
+      "size": 816,
+      "sha256": "860b072c71426e4afacf514c566b8de780c4959338665799d8442d4a4c75a20b"
+    },
+    {
+      "source": "images/relics/outline/ggg.png",
+      "size": 907,
+      "sha256": "4a16f28f19a67838983cccbb6459c50070df7dca9c05d7f324d755eb2c99c093"
+    },
+    {
+      "source": "images/relics/outline/ginger.png",
+      "size": 833,
+      "sha256": "b426fae29204c42bf25183dd051f71d42a28672e89dd1210fc17bbe35bb43967"
+    },
+    {
+      "source": "images/relics/outline/golden_eye.png",
+      "size": 874,
+      "sha256": "ca4f414661a9e03a3076fa67ae2c160e4b425b89775dd7499dab0606dcc5be69"
+    },
+    {
+      "source": "images/relics/outline/goldenIdolRelic.png",
+      "size": 859,
+      "sha256": "5e2ab4a94947b84605bf0708551fabd31522362ab57a74b91b291f4ed2d55888"
+    },
+    {
+      "source": "images/relics/outline/goldTooth.png",
+      "size": 945,
+      "sha256": "9ac72a57d774ccbf74d9d75ab665fc22ed40d08ce7d68f4ef1c80ba81acaeb7c"
+    },
+    {
+      "source": "images/relics/outline/gremlin_horn.png",
+      "size": 1021,
+      "sha256": "25eb26c87a64dd5490b438f6adb7d090fe0948cf21d679c9c6527d6edb29244e"
+    },
+    {
+      "source": "images/relics/outline/gremlinMask.png",
+      "size": 983,
+      "sha256": "60082762c94d123c612de89c058a8eaae72737a8ee1f0e1774735eeff10c96c2"
+    },
+    {
+      "source": "images/relics/outline/gyoza.png",
+      "size": 846,
+      "sha256": "e117572931f95337202c2087abe5ae2a2aec6954c6e9bb582510fb8bc3ecd0ac"
+    },
+    {
+      "source": "images/relics/outline/headband.png",
+      "size": 853,
+      "sha256": "6ce25bed8360ef7124b13f04efee74703bc09abe4cc42772d62de4a6ccfd3c9f"
+    },
+    {
+      "source": "images/relics/outline/helix.png",
+      "size": 899,
+      "sha256": "0502a099b8df088fd0c920f54e7214c0c5588f97e88df6eac301d5bd23cfdca2"
+    },
+    {
+      "source": "images/relics/outline/holy_water.png",
+      "size": 1347,
+      "sha256": "105d6a7312d5608b0c714d774405a49d1a0e0260b72a4284b1b96e69d873b79f"
+    },
+    {
+      "source": "images/relics/outline/horn_cleat.png",
+      "size": 861,
+      "sha256": "d4b0a15335600d61b1f4aa35887e094c576434cb221260dc5ca4b9bfcd1e808d"
+    },
+    {
+      "source": "images/relics/outline/hotPotato.png",
+      "size": 818,
+      "sha256": "9053dc1948da3124d4d39ca84ee31187cad0a123b4ff564a3b9f08abbf72e80c"
+    },
+    {
+      "source": "images/relics/outline/hourglass.png",
+      "size": 863,
+      "sha256": "ad865e2e6c1138566aa3719edb684ecacba238fd9ff9be6b8492f1dfa63eff78"
+    },
+    {
+      "source": "images/relics/outline/iceCream.png",
+      "size": 862,
+      "sha256": "3c3442209d0a25d5fd9840f51a9390bb9deb74d5b34bb726a3285391a291e3b5"
+    },
+    {
+      "source": "images/relics/outline/incenseBurner.png",
+      "size": 943,
+      "sha256": "1cf0d1ee012ee7408c972c3be306e5ac2b104b854a8810b70ab00b075901fc49"
+    },
+    {
+      "source": "images/relics/outline/ink_bottle.png",
+      "size": 892,
+      "sha256": "a567d1c45c97af6caa7fe7f5d1f21cc938828fcfd54da097eaf8ce4abf0090da"
+    },
+    {
+      "source": "images/relics/outline/insect.png",
+      "size": 522,
+      "sha256": "4be2fb509e325fb8d4a95f6f9941d68f95c3d71a24f43ea0eb24c70c02cf2e4c"
+    },
+    {
+      "source": "images/relics/outline/inserter.png",
+      "size": 1032,
+      "sha256": "1e3aae33accd766790ccc6c7fa489fa62e1c7ca0a56554bdd851611812c2ddec"
+    },
+    {
+      "source": "images/relics/outline/juzuBracelet.png",
+      "size": 1098,
+      "sha256": "8faec923d7f2184b76558911e4f576442060954ab20b2da355332b886e4dac63"
+    },
+    {
+      "source": "images/relics/outline/kettlebell.png",
+      "size": 907,
+      "sha256": "4a16f28f19a67838983cccbb6459c50070df7dca9c05d7f324d755eb2c99c093"
+    },
+    {
+      "source": "images/relics/outline/keyRing.png",
+      "size": 1181,
+      "sha256": "849c92efd998fd857c3f7da2eefe982988539d6a4c205763be1489706cf60106"
+    },
+    {
+      "source": "images/relics/outline/kindling.png",
+      "size": 887,
+      "sha256": "d2494a84297b969dd214a1e2482bb37aaa1eb3e7c211fa587f32bcf432e348fd"
+    },
+    {
+      "source": "images/relics/outline/kite.png",
+      "size": 939,
+      "sha256": "d2b6162e47d8c54ecd646b71fa98487d627a5866d0774941e22619175fb33f9d"
+    },
+    {
+      "source": "images/relics/outline/kunai.png",
+      "size": 890,
+      "sha256": "95825cca3cf0bb1d2772d4df861c5b902ab9ed2dbdca0f009375048c23edb6e5"
+    },
+    {
+      "source": "images/relics/outline/lament.png",
+      "size": 958,
+      "sha256": "862d6466da3eb78735ac5f9cd6fc81cf3e7fd082e57e1ac7962651b38fb0c537"
+    },
+    {
+      "source": "images/relics/outline/lantern.png",
+      "size": 879,
+      "sha256": "9b97e92f40cd1fac88eefe2722712d1fb5c7d86d579774f4e1c06e1f873b2535"
+    },
+    {
+      "source": "images/relics/outline/letterOpener.png",
+      "size": 906,
+      "sha256": "7abc799efffa7c9836e48a389c2c87cae8bbaa0f3370944705feadd8471e3dd6"
+    },
+    {
+      "source": "images/relics/outline/lives.png",
+      "size": 743,
+      "sha256": "10cc99cfa7c726d8d56a35269962322fc091038862e4231a8ae1c0287cd005b1"
+    },
+    {
+      "source": "images/relics/outline/livingBlood.png",
+      "size": 871,
+      "sha256": "7bd7d1ed9ecc8329d3e8a1b34ae45b2f99a9d0cdac92497916779d2435b9165c"
+    },
+    {
+      "source": "images/relics/outline/lizardTail.png",
+      "size": 967,
+      "sha256": "6b07eefde07c6ee03c310b3ca15dedc78b027791cef60019796ca5a665ceb242"
+    },
+    {
+      "source": "images/relics/outline/lock.png",
+      "size": 945,
+      "sha256": "55119a267c292892e8ecd92cb421c6274af14cd0649c99d79208ce2e1470d9e5"
+    },
+    {
+      "source": "images/relics/outline/magicFlower.png",
+      "size": 900,
+      "sha256": "4ce3e038901f1c5274699721922248973da33f1ff56eef03b4bec0f8bc2a09c4"
+    },
+    {
+      "source": "images/relics/outline/mango.png",
+      "size": 847,
+      "sha256": "63ac46032c716ed282a2cc482e9f70dd2d21fba9a845b76a2d79b65560d1c10e"
+    },
+    {
+      "source": "images/relics/outline/marbles.png",
+      "size": 775,
+      "sha256": "bdf31042539d51b48ed41d21c663b23e551f4da085e82e1dfd46ef6942e8b369"
+    },
+    {
+      "source": "images/relics/outline/mark_of_pain.png",
+      "size": 1198,
+      "sha256": "38645f9e452c20f6c75500bb33f298ef04fcc5e689bc760a4c2db3a5f61ef811"
+    },
+    {
+      "source": "images/relics/outline/matryoshka.png",
+      "size": 868,
+      "sha256": "65cb7b6b975ab6c83bc3213014a62deb4cb424bd8bfcd72e473b0d429ed3a60e"
+    },
+    {
+      "source": "images/relics/outline/mealTicket.png",
+      "size": 898,
+      "sha256": "eadd20b3613be3cabaf698810e7b336bb60cdfc04e0282e5f74575fffbb45fb2"
+    },
+    {
+      "source": "images/relics/outline/meat.png",
+      "size": 915,
+      "sha256": "8e724ac893b880aaa67617372a45d1bb3d345d8e01d4bfaf84d3c9f3cb00b96e"
+    },
+    {
+      "source": "images/relics/outline/medicalKit.png",
+      "size": 870,
+      "sha256": "7c58f4b1150482bf6d3266d9ec1983cf5448166ae8f94d7e27b5c3adb87ca3d6"
+    },
+    {
+      "source": "images/relics/outline/melange.png",
+      "size": 981,
+      "sha256": "9cc6274a6b7faf2b12a010b20476e373b67569bba5c8b1ecb645613e0dd3eb8a"
+    },
+    {
+      "source": "images/relics/outline/membershipCard.png",
+      "size": 757,
+      "sha256": "81f3e4f9ae944e481df46f9496aaaa9f2b9bc7c84a7f7f27593353c3159d48ae"
+    },
+    {
+      "source": "images/relics/outline/merchantMask.png",
+      "size": 903,
+      "sha256": "cb60343a825344bd90bed12b4cf139697e46724ee18b45192361bde07b7e3556"
+    },
+    {
+      "source": "images/relics/outline/mirror.png",
+      "size": 990,
+      "sha256": "4e1255019e944dca073aa0845154da0645d9c6b0aa40a5907c60b2180e326b7d"
+    },
+    {
+      "source": "images/relics/outline/monocle.png",
+      "size": 839,
+      "sha256": "205c05d50d6a093cef882d216d482ff9142a1aa741824aa07157ead318471ba5"
+    },
+    {
+      "source": "images/relics/outline/mummifiedHand.png",
+      "size": 977,
+      "sha256": "e660fc7a8d42b3260d6bd2a09d829948f40118fe300b3e6598b25d8bef2890c0"
+    },
+    {
+      "source": "images/relics/outline/mushroom.png",
+      "size": 930,
+      "sha256": "2a164a37c75b7ba811a4003796a5ff4a547860004dd614eb5d0919844e883d8b"
+    },
+    {
+      "source": "images/relics/outline/mutagen.png",
+      "size": 663,
+      "sha256": "a3630e51e6e93e27c85d9976092219890f7c6857f6a49ad9bc41ba8556091565"
+    },
+    {
+      "source": "images/relics/outline/necronomicon.png",
+      "size": 834,
+      "sha256": "d29270d48c0c04dadec27294a207b91bc4b34fdbed6261cab07d94abedeb6b19"
+    },
+    {
+      "source": "images/relics/outline/ninjaScroll.png",
+      "size": 866,
+      "sha256": "47b7061f01782af520ebf1440bb10555e9ac6e3b93a03692c9f7103f8be5916e"
+    },
+    {
+      "source": "images/relics/outline/nloth.png",
+      "size": 906,
+      "sha256": "753413bfa5a4835d72a5f6bfe9f2eba7a05eed732721bc9cc9ea1639df191e28"
+    },
+    {
+      "source": "images/relics/outline/nlothsGift.png",
+      "size": 801,
+      "sha256": "a163750e815674d9acbf9e53fcca6891ced23f0c1dd3d3b9fb1aa08c22a676a2"
+    },
+    {
+      "source": "images/relics/outline/nullStone.png",
+      "size": 1158,
+      "sha256": "a42cb427c6b92eafc415bd29970f5c7712c320f2e6ac023b9255134cca64453a"
+    },
+    {
+      "source": "images/relics/outline/nullstoneUsed.png",
+      "size": 1158,
+      "sha256": "a42cb427c6b92eafc415bd29970f5c7712c320f2e6ac023b9255134cca64453a"
+    },
+    {
+      "source": "images/relics/outline/nunchaku.png",
+      "size": 782,
+      "sha256": "9f9e12699a6b26fe2edb94e97d0c01d4a3d723a3cd4faec35e15f8a16170c54c"
+    },
+    {
+      "source": "images/relics/outline/octohedron.png",
+      "size": 817,
+      "sha256": "e9e1c928fadab9fe684fb6468794937983d03adddc6de6486a68d59cc171c4f4"
+    },
+    {
+      "source": "images/relics/outline/oldCoin.png",
+      "size": 1019,
+      "sha256": "d133420aec8eac39040dae1da5d7b33e20c3a210cf8b3a5fc65d1cf8ccb4f4d9"
+    },
+    {
+      "source": "images/relics/outline/omamori.png",
+      "size": 940,
+      "sha256": "4852112b4bcf893168ca7db58d5cc0105a60bf5423db3d83517721fc8bb5ec15"
+    },
+    {
+      "source": "images/relics/outline/orichalcum.png",
+      "size": 855,
+      "sha256": "66872e7f690b17fe143ec64d135ddbe37aaa1254e297188257ca2e3029062755"
+    },
+    {
+      "source": "images/relics/outline/ornamentalFan.png",
+      "size": 887,
+      "sha256": "637044945d3314e09dcc86cd4d14041777094c07e4d6d1c0f8a2dffd16e4855a"
+    },
+    {
+      "source": "images/relics/outline/ornithopter.png",
+      "size": 940,
+      "sha256": "4b827adc63d6a384037b0f27caaa2dd6c7c84b0bd6ee72d4b04f68f3a0540e70"
+    },
+    {
+      "source": "images/relics/outline/orrery.png",
+      "size": 1092,
+      "sha256": "0b5d38705791b484b044a5b834f8deaf75c50829989b7c8b8920ac2e405a8c9f"
+    },
+    {
+      "source": "images/relics/outline/owlDoll.png",
+      "size": 910,
+      "sha256": "81a16d80c70d8debc080c90b1323fd5f5715a033747dbae8e06e3f73f7abe374"
+    },
+    {
+      "source": "images/relics/outline/pandoras_box.png",
+      "size": 694,
+      "sha256": "c1959edfb6db58fe1a53d8719f8a7cd6059ba82d533bf1feb1481efbd8bc34b9"
+    },
+    {
+      "source": "images/relics/outline/pantograph.png",
+      "size": 1048,
+      "sha256": "f549d6dc8b2a4c39666456aaae6f7416948f6a23ceec08f9395b02721ff16388"
+    },
+    {
+      "source": "images/relics/outline/paperCrane.png",
+      "size": 1023,
+      "sha256": "c2e4d295c93174da1ea778d0ffb398a0f279fcf614bf7af9611c3a741837807f"
+    },
+    {
+      "source": "images/relics/outline/paperFrog.png",
+      "size": 915,
+      "sha256": "972e8df86b00bd7ef53ca95e5948ae26e7aa1a7b2780a0766242064ad677fa6c"
+    },
+    {
+      "source": "images/relics/outline/peacePipe.png",
+      "size": 830,
+      "sha256": "2ea666dd2c5102c3f0a94a9ac7423f1ea9f70e2e72b306f2f514dce883a147b9"
+    },
+    {
+      "source": "images/relics/outline/pear.png",
+      "size": 800,
+      "sha256": "7743954aa0c624e3363c8beebfaab24a8403bea490a5536b0749770a047a4cfa"
+    },
+    {
+      "source": "images/relics/outline/pellets.png",
+      "size": 913,
+      "sha256": "d84f17671a71440cff3a4ec46f4ba40ea91f7cf92ab821086c8a1036daedeb4a"
+    },
+    {
+      "source": "images/relics/outline/penNib.png",
+      "size": 856,
+      "sha256": "522d458f851c526c232e2e17ab758a4e2832c4b4aed3ba85530fea85c292e44e"
+    },
+    {
+      "source": "images/relics/outline/philosopherStone.png",
+      "size": 908,
+      "sha256": "a1a7266c32e8a6d39d9aa84669c002110ef90dbf2033ed7155c6420c46759a1b"
+    },
+    {
+      "source": "images/relics/outline/pillow.png",
+      "size": 854,
+      "sha256": "9c56f8e4fdf6bf657a790066dd2e252e82b93074f6744aa93854f599f91cad2b"
+    },
+    {
+      "source": "images/relics/outline/plateArmor.png",
+      "size": 976,
+      "sha256": "c323e446c630213ca3c82c3dfb569daaaa3402f0f2635ee555ae196680f5a946"
+    },
+    {
+      "source": "images/relics/outline/pocketwatch.png",
+      "size": 1259,
+      "sha256": "b4ca78b5aeb9c6656488ccea63086fd931d933a9f43daceb8476a57795102833"
+    },
+    {
+      "source": "images/relics/outline/potion_belt.png",
+      "size": 990,
+      "sha256": "3695802beef4ea427b23fc9460c0103703e5ca671cc260cec8d01994c550e8b2"
+    },
+    {
+      "source": "images/relics/outline/powerStone.png",
+      "size": 945,
+      "sha256": "5615b7a6a08ae155beac240b825b453efdc868986f767ba87071319ec4d68fc5"
+    },
+    {
+      "source": "images/relics/outline/practiceLock.png",
+      "size": 931,
+      "sha256": "2ea8f62126f62bcabc17e007349182723b4d56a60bf817700f44f8247702b687"
+    },
+    {
+      "source": "images/relics/outline/prayerWheel.png",
+      "size": 936,
+      "sha256": "ca9e0980b99967991032fab3a8651e138315025f7ee348fe5f9bcb4f92c00e19"
+    },
+    {
+      "source": "images/relics/outline/prism.png",
+      "size": 808,
+      "sha256": "61582f06404a1eae72c9797bfaaf5fb94cfab04fbe59665f38faf7340708049f"
+    },
+    {
+      "source": "images/relics/outline/questionCard.png",
+      "size": 851,
+      "sha256": "e2c6555f76727de942229e7d43e3706fb5143657af6d7bff09b2d518a58dd11c"
+    },
+    {
+      "source": "images/relics/outline/red_skull.png",
+      "size": 922,
+      "sha256": "7aac12ed8ef05093c4c36fed4cd897d7b895f940188f372a9467d5beda9ac883"
+    },
+    {
+      "source": "images/relics/outline/redChoker.png",
+      "size": 989,
+      "sha256": "af8808caad059250598ea037edb25e1644caef4a8f0927111734f017a2a3940d"
+    },
+    {
+      "source": "images/relics/outline/redCirclet.png",
+      "size": 796,
+      "sha256": "17a15173aa82a5b56e48624327044fc024da36bfd1a30e63a653bf95987c5f86"
+    },
+    {
+      "source": "images/relics/outline/redMask.png",
+      "size": 1009,
+      "sha256": "1145112186bcbecd6c187aa3a6df90bcfe49fd658ac42b78812ac1fe783c02cb"
+    },
+    {
+      "source": "images/relics/outline/redPill.png",
+      "size": 691,
+      "sha256": "fecb22d35363b3639b0e39d9d13b42d4b6f064857c7aa50241375db88bf47dc6"
+    },
+    {
+      "source": "images/relics/outline/regal_pillow.png",
+      "size": 938,
+      "sha256": "273f6ec8b9a54e129f107cb4218ea6ec4a84eef51172638c06306bce13eca1d1"
+    },
+    {
+      "source": "images/relics/outline/relic_outline_info.txt",
+      "size": 140,
+      "sha256": "851c5aeea4d6be583c4891fe60c8021ca93bbc4686dbc0fab06ae4efcd6697a1"
+    },
+    {
+      "source": "images/relics/outline/ruby_key.png",
+      "size": 890,
+      "sha256": "f3ebaca6d4c66ee189a4f7609aa170737fe8cb79bde9b8a8fff0b7e92d0729ef"
+    },
+    {
+      "source": "images/relics/outline/runicCapacitor.png",
+      "size": 954,
+      "sha256": "64fc2124ac35c07db631ecbe951c1fb3339e8af51837fd0489f23d378c1d23db"
+    },
+    {
+      "source": "images/relics/outline/runicCube.png",
+      "size": 792,
+      "sha256": "bfa1678dfc19f78a2120bccaca02172d48f09af2943ea1091efd4fc42e23eb8e"
+    },
+    {
+      "source": "images/relics/outline/runicDome.png",
+      "size": 767,
+      "sha256": "0dbc13e30632ede4c4b2b68ea4d07ecfdb39c04643985da8e10a08ad488afb9d"
+    },
+    {
+      "source": "images/relics/outline/runicPyramid.png",
+      "size": 864,
+      "sha256": "5881fdc06ab8abaa664be8641449b403452f927ea46c18bac7e2f7b6e8ca9695"
+    },
+    {
+      "source": "images/relics/outline/runicSphere.png",
+      "size": 800,
+      "sha256": "80f67af22ee9f0c76418798943965d353efcbbab2012fbdb8082e741b36a5199"
+    },
+    {
+      "source": "images/relics/outline/rupee.png",
+      "size": 787,
+      "sha256": "0d75613cbf09508779e00453e25c7a2735b59842f0e0e4c992bc36355ebf3b01"
+    },
+    {
+      "source": "images/relics/outline/sapphire_key.png",
+      "size": 886,
+      "sha256": "d5258748eb0cbb4b438d035711bd83d6307eb4c413e3e6a87432ac6a8a97324c"
+    },
+    {
+      "source": "images/relics/outline/serpent_ring.png",
+      "size": 1081,
+      "sha256": "a47e0356d21ab506888920f87ee64c5a477a25dcdd51edfbd49b5e105e90d75b"
+    },
+    {
+      "source": "images/relics/outline/serpentHead.png",
+      "size": 902,
+      "sha256": "a4406bb2f39b69be4b6f2a223fc470c14234daf2a00aa0b35cc41b39fe4848e4"
+    },
+    {
+      "source": "images/relics/outline/shovel.png",
+      "size": 934,
+      "sha256": "f88d48c9bdb9d8212ac86d10286780e4dce7787b382435734f3b540fe62e1098"
+    },
+    {
+      "source": "images/relics/outline/shuriken.png",
+      "size": 830,
+      "sha256": "77b99a82ff3aa6dfc9837b07c3b66e81f949b450c17974b821d8f4bc75a2f9ad"
+    },
+    {
+      "source": "images/relics/outline/singingBowl.png",
+      "size": 818,
+      "sha256": "999fb54fa6c01bd314b97f6cb7657a709e51c9d9cb906de2d39cc80bdb3d55c9"
+    },
+    {
+      "source": "images/relics/outline/sling.png",
+      "size": 1107,
+      "sha256": "b8308d5243919d0898168fd3f2dd6fee7e7d3c2a36136c7d0d7b41dde633c3a3"
+    },
+    {
+      "source": "images/relics/outline/smooth_stone.png",
+      "size": 872,
+      "sha256": "e2aee6a76831435eb64605acda1e6292ab3451c951d5cac582aa807ae8830fbd"
+    },
+    {
+      "source": "images/relics/outline/snake_ring.png",
+      "size": 752,
+      "sha256": "46ec1aa0b909f90dc22c3ddac27dfa5a5ffaa19d71469ba4dacb29dcd4bc71fd"
+    },
+    {
+      "source": "images/relics/outline/snakeSkull.png",
+      "size": 942,
+      "sha256": "5201440507e3ea5d5aa7703d404d364a1322024cd4f6267b616f60d50231976a"
+    },
+    {
+      "source": "images/relics/outline/sneckoEye.png",
+      "size": 886,
+      "sha256": "4784c8577f0cf84fdc9555900678e96439343085b3280a3944d58d2f43da693a"
+    },
+    {
+      "source": "images/relics/outline/sozu.png",
+      "size": 953,
+      "sha256": "0f3b96dde8ca208ff7304033ad508fd097b4c2ad21c70042fe9daab025e733bf"
+    },
+    {
+      "source": "images/relics/outline/spearHead.png",
+      "size": 1022,
+      "sha256": "03747af722ff16e3ca2020041f84668970880df2046803be7cae9710b15824b1"
+    },
+    {
+      "source": "images/relics/outline/spiritPoop.png",
+      "size": 1096,
+      "sha256": "95f9a0b3e6d9afbe884f9b829316350e1018babf582ebf56b5c8ce22295ad36a"
+    },
+    {
+      "source": "images/relics/outline/stoneEgg.png",
+      "size": 811,
+      "sha256": "0aea8e9f2dc9bf0dba17e74da35d31d7cce89c1b22e31dec84207466f2bf6c9e"
+    },
+    {
+      "source": "images/relics/outline/strawberry.png",
+      "size": 834,
+      "sha256": "dc9de4a1c7c66acd4d2334cca65d14414e532d539d7801043fad902c84166ae5"
+    },
+    {
+      "source": "images/relics/outline/sundial.png",
+      "size": 870,
+      "sha256": "06cf966be50bad774422b4d65fe87ccf5246c7eeb8ddb63601bffcbbe150cb15"
+    },
+    {
+      "source": "images/relics/outline/sunflower.png",
+      "size": 831,
+      "sha256": "1b986da8f034d889eb1a69d01b545f72d482fb1e7b8fc45ea618ce0e31e93040"
+    },
+    {
+      "source": "images/relics/outline/tea_set.png",
+      "size": 969,
+      "sha256": "a9a855af600e5ee862f950d5727d253daefbb1da51a09d0387cf10cdb8a7a9be"
+    },
+    {
+      "source": "images/relics/outline/tear_drop_locket.png",
+      "size": 1102,
+      "sha256": "584e15ea0c13e801f6f2c430079a0723e5551814f37fba1d9dab9ec243dcd1e1"
+    },
+    {
+      "source": "images/relics/outline/test1.png",
+      "size": 870,
+      "sha256": "8144d3ab77834d51642c33012f1037b8e2c606b50aa4a08b89c93de575e51118"
+    },
+    {
+      "source": "images/relics/outline/test2.png",
+      "size": 870,
+      "sha256": "8144d3ab77834d51642c33012f1037b8e2c606b50aa4a08b89c93de575e51118"
+    },
+    {
+      "source": "images/relics/outline/test3.png",
+      "size": 733,
+      "sha256": "75d9b3c52987cff1a9061289a95e53dff9218525c9a4ff24961df49d07f64645"
+    },
+    {
+      "source": "images/relics/outline/test4.png",
+      "size": 733,
+      "sha256": "75d9b3c52987cff1a9061289a95e53dff9218525c9a4ff24961df49d07f64645"
+    },
+    {
+      "source": "images/relics/outline/test5.png",
+      "size": 927,
+      "sha256": "ccd86dcba1a244869ed74d011065de27c774a6476466bc567b2b391bfbc8bce0"
+    },
+    {
+      "source": "images/relics/outline/test6.png",
+      "size": 927,
+      "sha256": "ccd86dcba1a244869ed74d011065de27c774a6476466bc567b2b391bfbc8bce0"
+    },
+    {
+      "source": "images/relics/outline/test7.png",
+      "size": 802,
+      "sha256": "e5bd50e8754306c510a09549ad45295aed1201fd3d251234777d209d2e285010"
+    },
+    {
+      "source": "images/relics/outline/test8.png",
+      "size": 945,
+      "sha256": "9ac72a57d774ccbf74d9d75ab665fc22ed40d08ce7d68f4ef1c80ba81acaeb7c"
+    },
+    {
+      "source": "images/relics/outline/the_specimen.png",
+      "size": 821,
+      "sha256": "84a1166658210bc297d03bedc83fc92e758ca6baa4d09c8f5174f8b50abb6a57"
+    },
+    {
+      "source": "images/relics/outline/threadAndNeedle.png",
+      "size": 1139,
+      "sha256": "392ddfdb87941af9bc1de33247f83c80ed53ac5a408f1dee1ebfad3cddca92b8"
+    },
+    {
+      "source": "images/relics/outline/tingsha.png",
+      "size": 978,
+      "sha256": "6b08703cb0ebf41599213d46c6d647140edec63110907171df20bc4b74352b37"
+    },
+    {
+      "source": "images/relics/outline/tinyChest.png",
+      "size": 858,
+      "sha256": "c4932f3e803bce74dcb0b68c16ec4888ab49cf27033ab001012aa636f08df29c"
+    },
+    {
+      "source": "images/relics/outline/tinyHouse.png",
+      "size": 812,
+      "sha256": "770d608ae679c2dc59f96a2c423603b8f12a8dfdf2eec50cbcd7a45cd84bf4b1"
+    },
+    {
+      "source": "images/relics/outline/tongs.png",
+      "size": 1051,
+      "sha256": "8d401ee583fdfb345dbcca6e7d1605a6894d77609a0b065b7dc190e4ca04e34f"
+    },
+    {
+      "source": "images/relics/outline/toolbox.png",
+      "size": 848,
+      "sha256": "f160d13d2a07be7d9bc6d1ea0a51e2f4e54391af6be699c4fa90da7a02c79e84"
+    },
+    {
+      "source": "images/relics/outline/top.png",
+      "size": 850,
+      "sha256": "7f3283631c486c84351eeb20ce751c6a2fc8d7c162f03f1fb09c205e40b509a4"
+    },
+    {
+      "source": "images/relics/outline/torii.png",
+      "size": 996,
+      "sha256": "19b5a76b00e82a063ff5dceb0589a74e55d5e195d7fc3f108630dc92cdf51df2"
+    },
+    {
+      "source": "images/relics/outline/tough_bandages.png",
+      "size": 663,
+      "sha256": "1fbf2acaed41adf950af7b7625ff0ce468ec00c22d89c4576531c2eab06c8702"
+    },
+    {
+      "source": "images/relics/outline/toxicEgg.png",
+      "size": 791,
+      "sha256": "d75bcc94704eea013698a7e120351d80c7eb76b829f1a44f440c2b534fe0637e"
+    },
+    {
+      "source": "images/relics/outline/tungsten.png",
+      "size": 819,
+      "sha256": "8b98bae7b0450eeb9d6888e6de5a4c4aef46b4f1d3486b02918ebebed958b0c0"
+    },
+    {
+      "source": "images/relics/outline/turnip.png",
+      "size": 962,
+      "sha256": "e90f5ef1d2d5526bc65128ac8d026b0c0be8787f682e3b6a13527cd2a192dbed"
+    },
+    {
+      "source": "images/relics/outline/vajra.png",
+      "size": 1116,
+      "sha256": "f4e211c4428a3224ba1f87f95bc02d6d37a8896bdf60623703a5241eb41184a6"
+    },
+    {
+      "source": "images/relics/outline/vCore.png",
+      "size": 893,
+      "sha256": "f63273bf6e5157f06c2aafa6f7ab5ff22cf677b8b62e57199c1f3f51157b4594"
+    },
+    {
+      "source": "images/relics/outline/violet_lotus.png",
+      "size": 943,
+      "sha256": "cce95bc2d175416402a936fc96efa6d8b940e77e8e5a7bf04f64b6698f0076d0"
+    },
+    {
+      "source": "images/relics/outline/virus.png",
+      "size": 1080,
+      "sha256": "b7f0c3b07fbd851b5403c19e4ee510c6d25a699474d1ff6b0f5f96784e58eb7e"
+    },
+    {
+      "source": "images/relics/outline/waffle.png",
+      "size": 851,
+      "sha256": "c1dd1309df1a813e81922ed60eef548dc6e2e998bd34c4c1da6242d122dc6627"
+    },
+    {
+      "source": "images/relics/outline/warPaint.png",
+      "size": 957,
+      "sha256": "182e443b030aee3da18a52ba5e24c51fccd36e10e6cb716a242ccd3f9e5eb7fe"
+    },
+    {
+      "source": "images/relics/outline/wBlade.png",
+      "size": 1065,
+      "sha256": "6eb27f70da510428f792c950d45f5bc217b18275733988aa8707ca5c510eb380"
+    },
+    {
+      "source": "images/relics/outline/whetstone.png",
+      "size": 874,
+      "sha256": "0f12b34aaa4d03074e00484402aeaabc4386fd10f0d57bb92fb9928e34daf053"
+    },
+    {
+      "source": "images/relics/outline/whiteBeast.png",
+      "size": 1003,
+      "sha256": "c1401595a2a0a0ebf8fa91093a9b0f414bac3c7d52380676212663237ad60801"
+    },
+    {
+      "source": "images/relics/outline/whiteElephant.png",
+      "size": 849,
+      "sha256": "477182f15360571b9046e7549d173e06ae1f3bd3d1f6b1064f3de22c5c21cfd2"
+    },
+    {
+      "source": "images/relics/outline/winged.png",
+      "size": 916,
+      "sha256": "7e511fa87038362897c6496f7f0b5fafc04dbcc7c5aca9b0cfa426af9a955c5e"
+    },
+    {
+      "source": "images/relics/outline/yang.png",
+      "size": 850,
+      "sha256": "48e66ccd597068d71f9c27e08b83750bee82aee46a1218693f08f7f84512bcfa"
+    },
+    {
+      "source": "images/relics/outline/yin.png",
+      "size": 894,
+      "sha256": "e9cbef34182f5e3da35f1866e87ef41155dfc3b040e2ccc2bd0b43bacae3c8b4"
+    },
+    {
+      "source": "images/relics/owlDoll.png",
+      "size": 3311,
+      "sha256": "b01d5132f000185c2cc9386adf8bda149642650c7d802e1bc9cbd88391860f6b"
+    },
+    {
+      "source": "images/relics/pandoras_box.png",
+      "size": 3636,
+      "sha256": "58074733eef7bcf33f066388043c5e64827e245b5c3613e60ce2134388e02179"
+    },
+    {
+      "source": "images/relics/pantograph.png",
+      "size": 2556,
+      "sha256": "9811085a1d4395980b76dfbffa3b15a3ee01b9e21cef56c07471ece620c9e0ac"
+    },
+    {
+      "source": "images/relics/paperCrane.png",
+      "size": 2596,
+      "sha256": "819a0c156f5d3fef1eea27c0563e0fa554dfc79da8fb286661e6630c28c45565"
+    },
+    {
+      "source": "images/relics/paperFrog.png",
+      "size": 2524,
+      "sha256": "49147ca2b0f13e77f780087de0122a9cca19b434b6953b0388c1e929367eb451"
+    },
+    {
+      "source": "images/relics/peacePipe.png",
+      "size": 1804,
+      "sha256": "f7e36e674ad84102450601e9a480e3a81082c775e5ebac12b80234aca8e0e01d"
+    },
+    {
+      "source": "images/relics/pear.png",
+      "size": 2423,
+      "sha256": "a860cd091939598f9f0985627123584e90f68fdb526217b39f89f20646187a80"
+    },
+    {
+      "source": "images/relics/pellets.png",
+      "size": 3450,
+      "sha256": "12393635dd1d727222699edf40dd826b4681fa6c42ffa1c5af52326aafeaf4d8"
+    },
+    {
+      "source": "images/relics/penNib.png",
+      "size": 2225,
+      "sha256": "3160264ba92f103d740933a02c78287cf3fa0fe43f1a9696e44a65d92c8b1dd1"
+    },
+    {
+      "source": "images/relics/philosopherStone.png",
+      "size": 3066,
+      "sha256": "7dc1af223502735511bd697da17433a2a0ceaacc075009af5872ca1d3cf798a3"
+    },
+    {
+      "source": "images/relics/pocketwatch.png",
+      "size": 2984,
+      "sha256": "dd1d437251cedeaa3c7e67a1c80357553f875f53251b5a9cd0aebbc8a0e0bd79"
+    },
+    {
+      "source": "images/relics/potion_belt.png",
+      "size": 3312,
+      "sha256": "5992b9abbb6d2df3aaff2d517cdec03c75ad79187c6f040e6ade7c895cb3aa8b"
+    },
+    {
+      "source": "images/relics/practiceLock.png",
+      "size": 1897,
+      "sha256": "df10d5e19d3f4081378862fc6bda3aedfd0c3b6384436b664b4a9773b81d6f28"
+    },
+    {
+      "source": "images/relics/prayerWheel.png",
+      "size": 2374,
+      "sha256": "c0f5865f2d1d11280a41bdd7ad748ae8b80b1b95be12f41e942c9cff03fda33f"
+    },
+    {
+      "source": "images/relics/prism.png",
+      "size": 3315,
+      "sha256": "f94b7ced43dc62b7e1c9f22eb09709cd2d5ef785c3ec80f12b6d00210bd2840b"
+    },
+    {
+      "source": "images/relics/questionCard.png",
+      "size": 3019,
+      "sha256": "af141652c1bad704b0fb8c440a979065128fc4a8c80db2cb306868e172412f98"
+    },
+    {
+      "source": "images/relics/red_skull.png",
+      "size": 3741,
+      "sha256": "53a5d36e29ab7fe13d11eaa58b469fc441c1d6cb3d92ef31de1d3ecc8d8b9d0c"
+    },
+    {
+      "source": "images/relics/redChoker.png",
+      "size": 2611,
+      "sha256": "87e924539e58b1d2c7157ea2c641feca84b1a410ae3e663d239ab5d7d8749b8b"
+    },
+    {
+      "source": "images/relics/redCirclet.png",
+      "size": 2092,
+      "sha256": "f2ceae0d13a4a533a71f733603af19aa7f5ca32abc381c0e5bbb40771354c8c7"
+    },
+    {
+      "source": "images/relics/redMask.png",
+      "size": 3228,
+      "sha256": "6734345902498ed4ceb39a72bd2b1266492ebed0d30e31b96cbca8ec8481ce40"
+    },
+    {
+      "source": "images/relics/redPill.png",
+      "size": 1426,
+      "sha256": "236ffabf827bf196d7e430a52e1461b7be648e5ca9b58036ce28c498095dd9cf"
+    },
+    {
+      "source": "images/relics/regal_pillow.png",
+      "size": 2791,
+      "sha256": "d7744c370189a3646ca1aca62d989a274fb09a9630b8976dba7f4c8f8e85674d"
+    },
+    {
+      "source": "images/relics/ruby_key.png",
+      "size": 2736,
+      "sha256": "98204388d9148c5a0cbfffd28e15eb86e4361926b7fb9ab5d54a9b7cda48351c"
+    },
+    {
+      "source": "images/relics/runicCapacitor.png",
+      "size": 2860,
+      "sha256": "9f1000717ea0f2245a35f8c7fdccb56c16d78618143d1ee0bac76adb0819c2a7"
+    },
+    {
+      "source": "images/relics/runicCube.png",
+      "size": 3397,
+      "sha256": "757b6dadfe5eef268c5739dc3c39a9ba84a9f3bd87f0f0ae84a1e48ed66f0f08"
+    },
+    {
+      "source": "images/relics/runicDome.png",
+      "size": 2906,
+      "sha256": "ef7a12cf1dcbb0597970b1798fc1719417f91bd755013bf3be37dc9f0da8b160"
+    },
+    {
+      "source": "images/relics/runicPyramid.png",
+      "size": 2681,
+      "sha256": "ee99066fc20db22f7df729db5d2379bf625e249dd78e404323d3ded492bd2a89"
+    },
+    {
+      "source": "images/relics/runicSphere.png",
+      "size": 2770,
+      "sha256": "153436f3a8dd63c4fe449b57ee09bfd805a277588e2a078d9c6306cf9e1d5059"
+    },
+    {
+      "source": "images/relics/rupee.png",
+      "size": 2573,
+      "sha256": "d4d417d6fb46e244b77aeb27211364708bb28074f8ad68f6e7587d2a249fb4d6"
+    },
+    {
+      "source": "images/relics/sapphire_key.png",
+      "size": 2780,
+      "sha256": "98a9162c209057493310adb711a394c132ed0b0b02771072fd4f794fb464927b"
+    },
+    {
+      "source": "images/relics/serpent_ring.png",
+      "size": 3376,
+      "sha256": "aaa86760c9791f333229b305d3626088cf44688c3a192914c1db79885a861d12"
+    },
+    {
+      "source": "images/relics/serpentHead.png",
+      "size": 3518,
+      "sha256": "674f4f07214ec45fdca2a37ce9c455c7d367d1aa1e5f5e0abee9d5af5d00f8b1"
+    },
+    {
+      "source": "images/relics/shovel.png",
+      "size": 2421,
+      "sha256": "11c4b29adb1c2e28d22d56017b6ba26197728c13966c65ff71f963f9c56904c1"
+    },
+    {
+      "source": "images/relics/shuriken.png",
+      "size": 2548,
+      "sha256": "4b391232d5a96c769f0b0002d3d953316e611169ad5e7b33ec762d5b08731274"
+    },
+    {
+      "source": "images/relics/singingBowl.png",
+      "size": 3235,
+      "sha256": "afbb8d1adf933cfeb337a74b41f8ee91ab15cdb9a326e57905fc77a9cff92f11"
+    },
+    {
+      "source": "images/relics/sling.png",
+      "size": 2915,
+      "sha256": "2f462fa227b88241db2ff6cfce98ecf9ecd278b5e45db09687dd8cf6c1de89ef"
+    },
+    {
+      "source": "images/relics/smooth_stone.png",
+      "size": 3160,
+      "sha256": "3d71c1adf62a4a4b29d24b9280959b052bd81167ea38822394397acb6062bb0d"
+    },
+    {
+      "source": "images/relics/snake_ring.png",
+      "size": 3163,
+      "sha256": "c1f80b2e5928e26b0c9345456bf71a09b95b96f4d88e8992dada0b145fc53175"
+    },
+    {
+      "source": "images/relics/snakeSkull.png",
+      "size": 2417,
+      "sha256": "471201b6a7a2548d267d9fc6803132ff8780b77ecca62a84a6bbec996ddc4191"
+    },
+    {
+      "source": "images/relics/sneckoEye.png",
+      "size": 2983,
+      "sha256": "f4aa177e734337b3dbea77a7ca05aefa80e165fbc6984b5fb33d66dfe689c653"
+    },
+    {
+      "source": "images/relics/sozu.png",
+      "size": 2702,
+      "sha256": "0d6d93427e3445fa122de6d3bd685a5acfdc4d9922b5aa5027ac4aa13f35d040"
+    },
+    {
+      "source": "images/relics/spearHead.png",
+      "size": 2885,
+      "sha256": "75290aa243c8b494ac8d8009513262100809047b8e16f076cdebb3023735696e"
+    },
+    {
+      "source": "images/relics/spiritPoop.png",
+      "size": 2936,
+      "sha256": "d87e49f56403652d874992d65006f1adec04bf31eb0ba2026f912e1f00c195fa"
+    },
+    {
+      "source": "images/relics/stoneEgg.png",
+      "size": 2480,
+      "sha256": "fa4281bcfefb365aeeca6aa2c0cb72a6d1b382640423bbb02acc30383315d122"
+    },
+    {
+      "source": "images/relics/strawberry.png",
+      "size": 3321,
+      "sha256": "309677ef168b7a8c36e878e39194a38f1c1be0951a6ff1d5256d9d6e1fe8f230"
+    },
+    {
+      "source": "images/relics/sundial.png",
+      "size": 2942,
+      "sha256": "cc303f7c22b76ec8ddca047b395e24c048a7c4b97bd380189007b8166423a59e"
+    },
+    {
+      "source": "images/relics/sunflower.png",
+      "size": 2733,
+      "sha256": "0652417517c981aefa6ba40a074bacc70bcae3cff5ab67cba85f1c638b3f733b"
+    },
+    {
+      "source": "images/relics/tea_set.png",
+      "size": 3061,
+      "sha256": "d6f09f3a1ef4d6b8070a09c79dce1ca9d44ab9c2cd588ccbb10016b3a97ad816"
+    },
+    {
+      "source": "images/relics/tear_drop_locket.png",
+      "size": 3159,
+      "sha256": "62af13789ba2c34567f470d1361ed9b215756f61be2b00d214c663e4b818f9cf"
+    },
+    {
+      "source": "images/relics/test1.png",
+      "size": 2909,
+      "sha256": "e9164cec8284a39dffa90291b61f104bdf63c5dafd371af06276c3207c23806d"
+    },
+    {
+      "source": "images/relics/test2.png",
+      "size": 3460,
+      "sha256": "081ed0231416d20319239622dc37c9b55d6986ab058f0d3d8dfd594291f1fb71"
+    },
+    {
+      "source": "images/relics/test3.png",
+      "size": 2264,
+      "sha256": "6eff0b1812ca1ab8657511d4b2b46d44caabecfe980199ef8a9edb104323d5ea"
+    },
+    {
+      "source": "images/relics/test4.png",
+      "size": 2389,
+      "sha256": "2b7690fb683ac1926887f051d7714cd0e60f105f293bd0479cab341a0efb35dc"
+    },
+    {
+      "source": "images/relics/test5.png",
+      "size": 1873,
+      "sha256": "b855780065c69c3f32c4c519fcc0a5da1d7f5a4dd59033f6280e2baa48792ff3"
+    },
+    {
+      "source": "images/relics/test6.png",
+      "size": 1960,
+      "sha256": "d61a897af2c85b03836660b20cc73e995497acc315d50db514a32a51350c35d9"
+    },
+    {
+      "source": "images/relics/test7.png",
+      "size": 2561,
+      "sha256": "e06725c3afc28daa8819703c7344489077864f2cdb3a269c3a045a61964c7158"
+    },
+    {
+      "source": "images/relics/test8.png",
+      "size": 2777,
+      "sha256": "be3bff73e37f463408138e9d0b7411a911fe0f789848140db285f8f440f024d7"
+    },
+    {
+      "source": "images/relics/the_specimen.png",
+      "size": 3212,
+      "sha256": "06fa943c071534b0cfbbaea9f3e0ef76d4c23b986614043b3d7fc55f40e0254a"
+    },
+    {
+      "source": "images/relics/threadAndNeedle.png",
+      "size": 2762,
+      "sha256": "36ee63dc1f258097d686720a3883db795abaafe378207c847850825614ff088f"
+    },
+    {
+      "source": "images/relics/tingsha.png",
+      "size": 2842,
+      "sha256": "ee010b62045a926f1d6d43cccf6dda96806249d4f2ef2c4aff786ce8ee1aec22"
+    },
+    {
+      "source": "images/relics/tinyChest.png",
+      "size": 3302,
+      "sha256": "9c17738d80ed0dc8222b67b1d6eeb9696862bf88a6a3c633ee24b8867ab93974"
+    },
+    {
+      "source": "images/relics/tinyHouse.png",
+      "size": 2712,
+      "sha256": "f62c7e51e3d4496014afcfefe2054068ca1cc98dc180ec5a57e551715a18ad4f"
+    },
+    {
+      "source": "images/relics/tongs.png",
+      "size": 2107,
+      "sha256": "8a745cee63595c32ff6d4b685d3805e3d1e81f138419ef660556f7bbffcab8a3"
+    },
+    {
+      "source": "images/relics/toolbox.png",
+      "size": 3145,
+      "sha256": "1f60bf2cf258842fb4cfe5aac15223a56d02841135b0912c83b00cf147ff7529"
+    },
+    {
+      "source": "images/relics/top.png",
+      "size": 2534,
+      "sha256": "b7ebeab4092be80a6eaf3243df17063baa67ed52ec692339cb1001c3f89ec613"
+    },
+    {
+      "source": "images/relics/torii.png",
+      "size": 2784,
+      "sha256": "b2b305211d80f39dcc69141a2e6a995937e3acb83be16766762b6882a502f459"
+    },
+    {
+      "source": "images/relics/tough_bandages.png",
+      "size": 3257,
+      "sha256": "739847707a20bff050df7678b2ef3e774fede66a98e262c3855be0b961a810f0"
+    },
+    {
+      "source": "images/relics/toxicEgg.png",
+      "size": 2602,
+      "sha256": "49d3ca07ec8d6c9444a366ee15a954e66394a3c9466fd53390d832f9d4c47ca7"
+    },
+    {
+      "source": "images/relics/tungsten.png",
+      "size": 2576,
+      "sha256": "4e7b80f49282b80eb271b7f975b89889b2d16e3b51436e4cebca00579b3d630e"
+    },
+    {
+      "source": "images/relics/turnip.png",
+      "size": 3230,
+      "sha256": "008e071f299d4cae0c9ee3eae822f9be08d9f94970c0363f006450cca59e0c96"
+    },
+    {
+      "source": "images/relics/vajra.png",
+      "size": 2775,
+      "sha256": "a1175b1285b057537505bbd2fd1c03dd3d3de30d9f41654c0d7308115353bd05"
+    },
+    {
+      "source": "images/relics/vCore.png",
+      "size": 3568,
+      "sha256": "56aa7c38c0ed9d200474f616517b651f7a3de9c24bea49ac9bb4985c908396d6"
+    },
+    {
+      "source": "images/relics/violet_lotus.png",
+      "size": 3371,
+      "sha256": "841ecd0b9c18b2eda120f53ac0bab56d787579f63782bde29233bd0a88ca266f"
+    },
+    {
+      "source": "images/relics/virus.png",
+      "size": 3075,
+      "sha256": "ef2dda0b68bf0042d1ab42a4fb15a58b7b503d4dbe9183c733d70f66e45d212a"
+    },
+    {
+      "source": "images/relics/waffle.png",
+      "size": 3317,
+      "sha256": "228009da794e8370d02f76875f4f2899223911bcacd68c1153a2a82a8d03c2ec"
+    },
+    {
+      "source": "images/relics/warPaint.png",
+      "size": 3005,
+      "sha256": "623fe005f605d639ef139393f453aa2c5bbb29c4904c5e310e6b360993d050ce"
+    },
+    {
+      "source": "images/relics/wBlade.png",
+      "size": 3145,
+      "sha256": "660f95657e06825246cfb01367df763fb0912c44ed5bfba42716d519416ac10c"
+    },
+    {
+      "source": "images/relics/whetstone.png",
+      "size": 2975,
+      "sha256": "8c69a5572fb56b3758c825bae8f7500e43f3d9e4dbd037c3d6044c00f56223fc"
+    },
+    {
+      "source": "images/relics/whiteBeast.png",
+      "size": 3335,
+      "sha256": "acf653b6a59dd1f3dd6ad7e76849185b003bff07ee1b0043cec72116c5db1af4"
+    },
+    {
+      "source": "images/relics/winged.png",
+      "size": 2818,
+      "sha256": "4c08d9d6fcf07745f38bacdef446c5d34d0a09678f2df5659d984a2eb70a6036"
+    },
+    {
+      "source": "images/relics/yang.png",
+      "size": 3605,
+      "sha256": "42d3ace90da2e18fad5940fdd2b2eaffa270d58f6270cc6acfa7280216425f1b"
+    },
+    {
+      "source": "images/relics/yin.png",
+      "size": 3736,
+      "sha256": "c1cdbdb7bba1b220e155174f532d9fe755de05cbd91f6d7edd24d15dc1ef9663"
+    }
+  ]
+}
